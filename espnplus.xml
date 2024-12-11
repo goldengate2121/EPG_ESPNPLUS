@@ -3,533 +3,386 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20241210020000 -0500" stop="20241210040000 -0500" channel="ESPN+ 1">
-            <title lang="en">NFL PrimeTime on ESPN+</title>
-            <desc lang="en">NFL PrimeTime on ESPN+ - Football</desc>
+         <programme start="20241211090000 -0500" stop="20241211110000 -0500" channel="ESPN+ 1">
+            <title lang="en">Wed, 12/11 - LALIGA News</title>
+            <desc lang="en">Wed, 12/11 - LALIGA News - Soccer</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20241210080000 -0500" stop="20241210100000 -0500" channel="ESPN+ 2">
-            <title lang="en">West Indies vs. Bangladesh (2nd ODI)</title>
-            <desc lang="en">West Indies vs. Bangladesh (2nd ODI) - Cricket</desc>
+         <programme start="20241211100000 -0500" stop="20241211120000 -0500" channel="ESPN+ 2">
+            <title lang="en">Julie Goodenough Show</title>
+            <desc lang="en">Julie Goodenough Show - Basketball</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20241210090000 -0500" stop="20241210110000 -0500" channel="ESPN+ 3">
-            <title lang="en">Tue, 12/10 - LALIGA News</title>
-            <desc lang="en">Tue, 12/10 - LALIGA News - Soccer</desc>
+         <programme start="20241211110000 -0500" stop="20241211130000 -0500" channel="ESPN+ 3">
+            <title lang="en">College Park Skyhawks vs. Westchester Knicks</title>
+            <desc lang="en">College Park Skyhawks vs. Westchester Knicks - Basketball</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20241210090000 -0500" stop="20241210110000 -0500" channel="ESPN+ 4">
-            <title lang="en">Tue, 12/10 - LALIGA Hypermotion Highlights Show</title>
-            <desc lang="en">Tue, 12/10 - LALIGA Hypermotion Highlights Show - Soccer</desc>
+         <programme start="20241211110000 -0500" stop="20241211130000 -0500" channel="ESPN+ 4">
+            <title lang="en">Presbyterian vs. North Carolina Central</title>
+            <desc lang="en">Presbyterian vs. North Carolina Central - Basketball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20241210090000 -0500" stop="20241210110000 -0500" channel="ESPN+ 5">
-            <title lang="en">En Español - Mar, 12/10 - LALIGA Hypermotion Highlights Show</title>
-            <desc lang="en">En Español - Mar, 12/10 - LALIGA Hypermotion Highlights Show - Soccer</desc>
+         <programme start="20241211110000 -0500" stop="20241211130000 -0500" channel="ESPN+ 5">
+            <title lang="en">All American</title>
+            <desc lang="en">All American - Football</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20241210110000 -0500" stop="20241210130000 -0500" channel="ESPN+ 6">
-            <title lang="en">UTSA Women&#x27;s Basketball Presser</title>
-            <desc lang="en">UTSA Women&#x27;s Basketball Presser - Basketball</desc>
+         <programme start="20241211110000 -0500" stop="20241211130000 -0500" channel="ESPN+ 6">
+            <title lang="en">Valpo Football Head Coach Introductory Press Conference</title>
+            <desc lang="en">Valpo Football Head Coach Introductory Press Conference - Football</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20241210110000 -0500" stop="20241210130000 -0500" channel="ESPN+ 7">
-            <title lang="en">Tulsa Football: Introductory Press Conference</title>
-            <desc lang="en">Tulsa Football: Introductory Press Conference - Football</desc>
+         <programme start="20241211120000 -0500" stop="20241211140000 -0500" channel="ESPN+ 7">
+            <title lang="en">Columbia College (SC) vs. Presbyterian</title>
+            <desc lang="en">Columbia College (SC) vs. Presbyterian - Basketball</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20241210110000 -0500" stop="20241210130000 -0500" channel="ESPN+ 8">
-            <title lang="en">Tue, 12/10 - LALIGA World</title>
-            <desc lang="en">Tue, 12/10 - LALIGA World - Soccer</desc>
+         <programme start="20241211120000 -0500" stop="20241211140000 -0500" channel="ESPN+ 8">
+            <title lang="en">Norfolk State vs. Baylor</title>
+            <desc lang="en">Norfolk State vs. Baylor - Basketball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20241210110000 -0500" stop="20241210130000 -0500" channel="ESPN+ 9">
-            <title lang="en">En Español - Mar, 12/10 - LALIGA World</title>
-            <desc lang="en">En Español - Mar, 12/10 - LALIGA World - Soccer</desc>
+         <programme start="20241211120000 -0500" stop="20241211140000 -0500" channel="ESPN+ 9">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20241210120000 -0500" stop="20241210140000 -0500" channel="ESPN+ 10">
-            <title lang="en">Austin Spurs vs. Rio Grande Valley Vipers</title>
-            <desc lang="en">Austin Spurs vs. Rio Grande Valley Vipers - Basketball</desc>
+         <programme start="20241211160000 -0500" stop="20241211180000 -0500" channel="ESPN+ 10">
+            <title lang="en">Hawk Talk with Bill Self</title>
+            <desc lang="en">Hawk Talk with Bill Self - Basketball</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20241210120000 -0500" stop="20241210140000 -0500" channel="ESPN+ 11">
-            <title lang="en">66th NFF Annual Awards Press Conference</title>
-            <desc lang="en">66th NFF Annual Awards Press Conference - Football</desc>
+         <programme start="20241211163000 -0500" stop="20241211183000 -0500" channel="ESPN+ 11">
+            <title lang="en">Bluefield University vs. UNC Asheville</title>
+            <desc lang="en">Bluefield University vs. UNC Asheville - Basketball</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20241210120000 -0500" stop="20241210140000 -0500" channel="ESPN+ 12">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
+         <programme start="20241211170000 -0500" stop="20241211190000 -0500" channel="ESPN+ 12">
+            <title lang="en">NIVC: Arkansas State vs. Northern Colorado</title>
+            <desc lang="en">NIVC: Arkansas State vs. Northern Colorado - No Sport</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20241210143000 -0500" stop="20241210163000 -0500" channel="ESPN+ 13">
-            <title lang="en">Birmingham Squadron vs. Oklahoma City Blue</title>
-            <desc lang="en">Birmingham Squadron vs. Oklahoma City Blue - Basketball</desc>
+         <programme start="20241211173000 -0500" stop="20241211193000 -0500" channel="ESPN+ 13">
+            <title lang="en">Wed, 12/11 - ESPN FC</title>
+            <desc lang="en">Wed, 12/11 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20241210160000 -0500" stop="20241210180000 -0500" channel="ESPN+ 14">
-            <title lang="en">Bryant vs. Brown</title>
-            <desc lang="en">Bryant vs. Brown - Basketball</desc>
+         <programme start="20241211173000 -0500" stop="20241211193000 -0500" channel="ESPN+ 14">
+            <title lang="en">En Español - Mie, 12/11 - Bundesliga Weekly</title>
+            <desc lang="en">En Español - Mie, 12/11 - Bundesliga Weekly - Soccer</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20241210170000 -0500" stop="20241210190000 -0500" channel="ESPN+ 15">
-            <title lang="en">North Dakota State vs. Tulane</title>
-            <desc lang="en">North Dakota State vs. Tulane - Basketball</desc>
+         <programme start="20241211173000 -0500" stop="20241211193000 -0500" channel="ESPN+ 15">
+            <title lang="en">Wed, 12/11 - Bundesliga Weekly</title>
+            <desc lang="en">Wed, 12/11 - Bundesliga Weekly - Soccer</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20241210173000 -0500" stop="20241210193000 -0500" channel="ESPN+ 16">
-            <title lang="en">Tue, 12/10 - ESPN FC</title>
-            <desc lang="en">Tue, 12/10 - ESPN FC - Soccer</desc>
+         <programme start="20241211180000 -0500" stop="20241211200000 -0500" channel="ESPN+ 16">
+            <title lang="en">Long Island University vs. UMass Lowell</title>
+            <desc lang="en">Long Island University vs. UMass Lowell - Basketball</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20241210173000 -0500" stop="20241210193000 -0500" channel="ESPN+ 17">
-            <title lang="en">Bundesliga Special Show #10 - Analysis I</title>
-            <desc lang="en">Bundesliga Special Show #10 - Analysis I - Soccer</desc>
+         <programme start="20241211180000 -0500" stop="20241211200000 -0500" channel="ESPN+ 17">
+            <title lang="en">South Carolina State vs. Winthrop</title>
+            <desc lang="en">South Carolina State vs. Winthrop - Basketball</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 18">
-            <title lang="en">Cairn University vs. UMBC</title>
-            <desc lang="en">Cairn University vs. UMBC - Basketball</desc>
+         <programme start="20241211183000 -0500" stop="20241211203000 -0500" channel="ESPN+ 18">
+            <title lang="en">Furman vs. UNC Asheville</title>
+            <desc lang="en">Furman vs. UNC Asheville - Basketball</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 19">
-            <title lang="en">Union vs. Colgate</title>
-            <desc lang="en">Union vs. Colgate - Basketball</desc>
+         <programme start="20241211183000 -0500" stop="20241211203000 -0500" channel="ESPN+ 19">
+            <title lang="en">Purdue Fort Wayne vs. IU Indianapolis</title>
+            <desc lang="en">Purdue Fort Wayne vs. IU Indianapolis - Basketball</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 20">
-            <title lang="en">Bucknell vs. Duquesne</title>
-            <desc lang="en">Bucknell vs. Duquesne - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 20">
+            <title lang="en">Maine Celtics vs. Long Island Nets</title>
+            <desc lang="en">Maine Celtics vs. Long Island Nets - Basketball</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 21">
-            <title lang="en">Coppin State vs. George Washington</title>
-            <desc lang="en">Coppin State vs. George Washington - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 21">
+            <title lang="en">Motor City Cruise vs. Wisconsin Herd</title>
+            <desc lang="en">Motor City Cruise vs. Wisconsin Herd - Basketball</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 22">
-            <title lang="en">UAlbany vs. Boston University</title>
-            <desc lang="en">UAlbany vs. Boston University - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 22">
+            <title lang="en">Virginia Lynchburg vs. Howard</title>
+            <desc lang="en">Virginia Lynchburg vs. Howard - Basketball</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 23">
-            <title lang="en">Iona vs. UMass Lowell</title>
-            <desc lang="en">Iona vs. UMass Lowell - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 23">
+            <title lang="en">UTEP vs. Louisville</title>
+            <desc lang="en">UTEP vs. Louisville - Basketball</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 24">
-            <title lang="en">Long Island University vs. Princeton</title>
-            <desc lang="en">Long Island University vs. Princeton - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 24">
+            <title lang="en">North Alabama vs. East Carolina</title>
+            <desc lang="en">North Alabama vs. East Carolina - Basketball</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 25">
-            <title lang="en">The Point</title>
-            <desc lang="en">The Point - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 25">
+            <title lang="en">Dartmouth vs. Notre Dame</title>
+            <desc lang="en">Dartmouth vs. Notre Dame - Basketball</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20241210180000 -0500" stop="20241210200000 -0500" channel="ESPN+ 26">
-            <title lang="en">King vs. Presbyterian</title>
-            <desc lang="en">King vs. Presbyterian - No Sport</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 26">
+            <title lang="en">Milwaukee vs. Green Bay</title>
+            <desc lang="en">Milwaukee vs. Green Bay - Basketball</desc>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20241210183000 -0500" stop="20241210203000 -0500" channel="ESPN+ 27">
-            <title lang="en">San Jose Sharks vs. Carolina Hurricanes (Hurricanes Broadcast)</title>
-            <desc lang="en">San Jose Sharks vs. Carolina Hurricanes (Hurricanes Broadcast) - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 27">
+            <title lang="en">Cumberlands vs. Northern Kentucky</title>
+            <desc lang="en">Cumberlands vs. Northern Kentucky - Basketball</desc>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20241210183000 -0500" stop="20241210203000 -0500" channel="ESPN+ 28">
-            <title lang="en">San Jose Sharks vs. Carolina Hurricanes (Sharks Broadcast)</title>
-            <desc lang="en">San Jose Sharks vs. Carolina Hurricanes (Sharks Broadcast) - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 28">
+            <title lang="en">Southern Virginia vs. Coastal Carolina</title>
+            <desc lang="en">Southern Virginia vs. Coastal Carolina - Basketball</desc>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20241210183000 -0500" stop="20241210203000 -0500" channel="ESPN+ 29">
-            <title lang="en">Philadelphia Flyers vs. Columbus Blue Jackets (Flyers Broadcast)</title>
-            <desc lang="en">Philadelphia Flyers vs. Columbus Blue Jackets (Flyers Broadcast) - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 29">
+            <title lang="en">Marshall vs. Wright State</title>
+            <desc lang="en">Marshall vs. Wright State - Basketball</desc>
          </programme>
    <channel id="ESPN+ 30">
      <display-name lang="en">ESPN+ 30</display-name>
    </channel>
-         <programme start="20241210183000 -0500" stop="20241210203000 -0500" channel="ESPN+ 30">
-            <title lang="en">Philadelphia Flyers vs. Columbus Blue Jackets (Blue Jackets Broadcast)</title>
-            <desc lang="en">Philadelphia Flyers vs. Columbus Blue Jackets (Blue Jackets Broadcast) - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 30">
+            <title lang="en">Eastern Kentucky vs. Pittsburgh</title>
+            <desc lang="en">Eastern Kentucky vs. Pittsburgh - Basketball</desc>
          </programme>
    <channel id="ESPN+ 31">
      <display-name lang="en">ESPN+ 31</display-name>
    </channel>
-         <programme start="20241210183000 -0500" stop="20241210203000 -0500" channel="ESPN+ 31">
-            <title lang="en">Colorado Avalanche vs. Pittsburgh Penguins (Penguins Broadcast)</title>
-            <desc lang="en">Colorado Avalanche vs. Pittsburgh Penguins (Penguins Broadcast) - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 31">
+            <title lang="en">IU Indianapolis vs. Purdue Fort Wayne</title>
+            <desc lang="en">IU Indianapolis vs. Purdue Fort Wayne - Basketball</desc>
          </programme>
    <channel id="ESPN+ 32">
      <display-name lang="en">ESPN+ 32</display-name>
    </channel>
-         <programme start="20241210183000 -0500" stop="20241210203000 -0500" channel="ESPN+ 32">
-            <title lang="en">Colorado Avalanche vs. Pittsburgh Penguins (Avalanche Broadcast)</title>
-            <desc lang="en">Colorado Avalanche vs. Pittsburgh Penguins (Avalanche Broadcast) - Hockey</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 32">
+            <title lang="en">NJIT vs. Delaware State</title>
+            <desc lang="en">NJIT vs. Delaware State - Basketball</desc>
          </programme>
    <channel id="ESPN+ 33">
      <display-name lang="en">ESPN+ 33</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 33">
-            <title lang="en">North Carolina Central vs. West Virginia</title>
-            <desc lang="en">North Carolina Central vs. West Virginia - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 33">
+            <title lang="en">Maine vs. Duquesne</title>
+            <desc lang="en">Maine vs. Duquesne - Basketball</desc>
          </programme>
    <channel id="ESPN+ 34">
      <display-name lang="en">ESPN+ 34</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 34">
-            <title lang="en">Harris-Stowe vs. Lindenwood</title>
-            <desc lang="en">Harris-Stowe vs. Lindenwood - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 34">
+            <title lang="en">Randolph vs. Liberty</title>
+            <desc lang="en">Randolph vs. Liberty - Basketball</desc>
          </programme>
    <channel id="ESPN+ 35">
      <display-name lang="en">ESPN+ 35</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 35">
-            <title lang="en">Charleston vs. Saint Joseph&#x27;s</title>
-            <desc lang="en">Charleston vs. Saint Joseph&#x27;s - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 35">
+            <title lang="en">Rhode Island vs. Princeton</title>
+            <desc lang="en">Rhode Island vs. Princeton - Basketball</desc>
          </programme>
    <channel id="ESPN+ 36">
      <display-name lang="en">ESPN+ 36</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 36">
-            <title lang="en">Monmouth vs. Princeton</title>
-            <desc lang="en">Monmouth vs. Princeton - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 36">
+            <title lang="en">Kansas City vs. Kansas</title>
+            <desc lang="en">Kansas City vs. Kansas - Basketball</desc>
          </programme>
    <channel id="ESPN+ 37">
      <display-name lang="en">ESPN+ 37</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 37">
-            <title lang="en">Jacksonville vs. Florida Atlantic</title>
-            <desc lang="en">Jacksonville vs. Florida Atlantic - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 37">
+            <title lang="en">Green Bay vs. Milwaukee</title>
+            <desc lang="en">Green Bay vs. Milwaukee - Basketball</desc>
          </programme>
    <channel id="ESPN+ 38">
      <display-name lang="en">ESPN+ 38</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 38">
-            <title lang="en">Charlotte vs. Davidson</title>
-            <desc lang="en">Charlotte vs. Davidson - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 38">
+            <title lang="en">Long Island University vs. Saint Peter&#x27;s</title>
+            <desc lang="en">Long Island University vs. Saint Peter&#x27;s - Basketball</desc>
          </programme>
    <channel id="ESPN+ 39">
      <display-name lang="en">ESPN+ 39</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 39">
-            <title lang="en">Rhode Island vs. Brown</title>
-            <desc lang="en">Rhode Island vs. Brown - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 39">
+            <title lang="en">#12 Boston University vs. Massachusetts</title>
+            <desc lang="en">#12 Boston University vs. Massachusetts - Hockey</desc>
          </programme>
    <channel id="ESPN+ 40">
      <display-name lang="en">ESPN+ 40</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 40">
-            <title lang="en">Carolina University vs. Queens University</title>
-            <desc lang="en">Carolina University vs. Queens University - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 40">
+            <title lang="en">Anaheim Ducks vs. Ottawa Senators (National Broadcast)</title>
+            <desc lang="en">Anaheim Ducks vs. Ottawa Senators (National Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 41">
      <display-name lang="en">ESPN+ 41</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 41">
-            <title lang="en">Coppin State vs. NC State</title>
-            <desc lang="en">Coppin State vs. NC State - Basketball</desc>
+         <programme start="20241211190000 -0500" stop="20241211210000 -0500" channel="ESPN+ 41">
+            <title lang="en">Anaheim Ducks vs. Ottawa Senators (Ducks Broadcast)</title>
+            <desc lang="en">Anaheim Ducks vs. Ottawa Senators (Ducks Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 42">
      <display-name lang="en">ESPN+ 42</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 42">
-            <title lang="en">Holy Family University vs. Temple</title>
-            <desc lang="en">Holy Family University vs. Temple - Basketball</desc>
+         <programme start="20241211193000 -0500" stop="20241211213000 -0500" channel="ESPN+ 42">
+            <title lang="en">Arkansas-Pine Bluff vs. UL Monroe</title>
+            <desc lang="en">Arkansas-Pine Bluff vs. UL Monroe - Basketball</desc>
          </programme>
    <channel id="ESPN+ 43">
      <display-name lang="en">ESPN+ 43</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 43">
-            <title lang="en">South Dakota vs. Northern Iowa</title>
-            <desc lang="en">South Dakota vs. Northern Iowa - Basketball</desc>
+         <programme start="20241211193000 -0500" stop="20241211213000 -0500" channel="ESPN+ 43">
+            <title lang="en">Charleston vs. Jacksonville State</title>
+            <desc lang="en">Charleston vs. Jacksonville State - Basketball</desc>
          </programme>
    <channel id="ESPN+ 44">
      <display-name lang="en">ESPN+ 44</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 44">
-            <title lang="en">Toronto Maple Leafs vs. New Jersey Devils</title>
-            <desc lang="en">Toronto Maple Leafs vs. New Jersey Devils - Hockey</desc>
+         <programme start="20241211193000 -0500" stop="20241211213000 -0500" channel="ESPN+ 44">
+            <title lang="en">Kentucky Wesleyan vs. Western Kentucky</title>
+            <desc lang="en">Kentucky Wesleyan vs. Western Kentucky - Basketball</desc>
          </programme>
    <channel id="ESPN+ 45">
      <display-name lang="en">ESPN+ 45</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 45">
-            <title lang="en">Los Angeles Kings vs. New York Islanders (Islanders Broadcast)</title>
-            <desc lang="en">Los Angeles Kings vs. New York Islanders (Islanders Broadcast) - Hockey</desc>
+         <programme start="20241211200000 -0500" stop="20241211220000 -0500" channel="ESPN+ 45">
+            <title lang="en">BYU Tipoff</title>
+            <desc lang="en">BYU Tipoff - Basketball</desc>
          </programme>
    <channel id="ESPN+ 46">
      <display-name lang="en">ESPN+ 46</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 46">
-            <title lang="en">Los Angeles Kings vs. New York Islanders (Kings Broadcast)</title>
-            <desc lang="en">Los Angeles Kings vs. New York Islanders (Kings Broadcast) - Hockey</desc>
+         <programme start="20241211200000 -0500" stop="20241211220000 -0500" channel="ESPN+ 46">
+            <title lang="en">SE Louisiana vs. Louisiana</title>
+            <desc lang="en">SE Louisiana vs. Louisiana - Basketball</desc>
          </programme>
    <channel id="ESPN+ 47">
      <display-name lang="en">ESPN+ 47</display-name>
    </channel>
-         <programme start="20241210190000 -0500" stop="20241210210000 -0500" channel="ESPN+ 47">
-            <title lang="en">En Español-Toronto Maple Leafs vs. New Jersey Devils</title>
-            <desc lang="en">En Español-Toronto Maple Leafs vs. New Jersey Devils - Hockey</desc>
+         <programme start="20241211200000 -0500" stop="20241211220000 -0500" channel="ESPN+ 47">
+            <title lang="en">North Dakota vs. Utah Valley</title>
+            <desc lang="en">North Dakota vs. Utah Valley - Basketball</desc>
          </programme>
    <channel id="ESPN+ 48">
      <display-name lang="en">ESPN+ 48</display-name>
    </channel>
-         <programme start="20241210193000 -0500" stop="20241210213000 -0500" channel="ESPN+ 48">
-            <title lang="en">Cleveland Charge vs. Iowa Wolves</title>
-            <desc lang="en">Cleveland Charge vs. Iowa Wolves - Basketball</desc>
+         <programme start="20241211200000 -0500" stop="20241211220000 -0500" channel="ESPN+ 48">
+            <title lang="en">NIVC: Wyoming vs. Arizona</title>
+            <desc lang="en">NIVC: Wyoming vs. Arizona - No Sport</desc>
          </programme>
    <channel id="ESPN+ 49">
      <display-name lang="en">ESPN+ 49</display-name>
    </channel>
-         <programme start="20241210193000 -0500" stop="20241210213000 -0500" channel="ESPN+ 49">
-            <title lang="en">Southern-New Orleans vs. Nicholls</title>
-            <desc lang="en">Southern-New Orleans vs. Nicholls - Basketball</desc>
+         <programme start="20241211210000 -0500" stop="20241211230000 -0500" channel="ESPN+ 49">
+            <title lang="en">Memphis Hustle vs. Mexico City Capitanes</title>
+            <desc lang="en">Memphis Hustle vs. Mexico City Capitanes - Basketball</desc>
          </programme>
    <channel id="ESPN+ 50">
      <display-name lang="en">ESPN+ 50</display-name>
    </channel>
-         <programme start="20241210193000 -0500" stop="20241210213000 -0500" channel="ESPN+ 50">
-            <title lang="en">Calgary Flames vs. Nashville Predators (Flames Broadcast)</title>
-            <desc lang="en">Calgary Flames vs. Nashville Predators (Flames Broadcast) - Hockey</desc>
+         <programme start="20241211210000 -0500" stop="20241211230000 -0500" channel="ESPN+ 50">
+            <title lang="en">Fresno State vs. BYU</title>
+            <desc lang="en">Fresno State vs. BYU - Basketball</desc>
          </programme>
    <channel id="ESPN+ 51">
      <display-name lang="en">ESPN+ 51</display-name>
    </channel>
-         <programme start="20241210193000 -0500" stop="20241210213000 -0500" channel="ESPN+ 51">
-            <title lang="en">Calgary Flames vs. Nashville Predators (Predators Broadcast)</title>
-            <desc lang="en">Calgary Flames vs. Nashville Predators (Predators Broadcast) - Hockey</desc>
+         <programme start="20241211210000 -0500" stop="20241211230000 -0500" channel="ESPN+ 51">
+            <title lang="en">San Diego State vs. Cal State Fullerton</title>
+            <desc lang="en">San Diego State vs. Cal State Fullerton - Basketball</desc>
          </programme>
    <channel id="ESPN+ 52">
      <display-name lang="en">ESPN+ 52</display-name>
    </channel>
-         <programme start="20241210200000 -0500" stop="20241210220000 -0500" channel="ESPN+ 52">
-            <title lang="en">Tennessee State vs. Western Kentucky</title>
-            <desc lang="en">Tennessee State vs. Western Kentucky - Basketball</desc>
+         <programme start="20241211210000 -0500" stop="20241211230000 -0500" channel="ESPN+ 52">
+            <title lang="en">California Baptist vs. Cal State Northridge</title>
+            <desc lang="en">California Baptist vs. Cal State Northridge - Basketball</desc>
          </programme>
    <channel id="ESPN+ 53">
      <display-name lang="en">ESPN+ 53</display-name>
    </channel>
-         <programme start="20241210200000 -0500" stop="20241210220000 -0500" channel="ESPN+ 53">
-            <title lang="en">Troy vs. #15 Houston</title>
-            <desc lang="en">Troy vs. #15 Houston - Basketball</desc>
+         <programme start="20241211220000 -0500" stop="20241211240000 -0500" channel="ESPN+ 53">
+            <title lang="en">Santa Cruz Warriors vs. Stockton Kings</title>
+            <desc lang="en">Santa Cruz Warriors vs. Stockton Kings - Basketball</desc>
          </programme>
    <channel id="ESPN+ 54">
      <display-name lang="en">ESPN+ 54</display-name>
    </channel>
-         <programme start="20241210200000 -0500" stop="20241210220000 -0500" channel="ESPN+ 54">
-            <title lang="en">Ouachita vs. Little Rock</title>
-            <desc lang="en">Ouachita vs. Little Rock - Basketball</desc>
+         <programme start="20241211220000 -0500" stop="20241211240000 -0500" channel="ESPN+ 54">
+            <title lang="en">Stanislaus State vs. San Francisco</title>
+            <desc lang="en">Stanislaus State vs. San Francisco - Basketball</desc>
          </programme>
    <channel id="ESPN+ 55">
      <display-name lang="en">ESPN+ 55</display-name>
    </channel>
-         <programme start="20241210200000 -0500" stop="20241210220000 -0500" channel="ESPN+ 55">
-            <title lang="en">Cal State Bakersfield vs. Arizona</title>
-            <desc lang="en">Cal State Bakersfield vs. Arizona - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 56">
-     <display-name lang="en">ESPN+ 56</display-name>
-   </channel>
-         <programme start="20241210200000 -0500" stop="20241210220000 -0500" channel="ESPN+ 56">
-            <title lang="en">Boston Bruins vs. Winnipeg Jets (Jets Broadcast)</title>
-            <desc lang="en">Boston Bruins vs. Winnipeg Jets (Jets Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 57">
-     <display-name lang="en">ESPN+ 57</display-name>
-   </channel>
-         <programme start="20241210200000 -0500" stop="20241210220000 -0500" channel="ESPN+ 57">
-            <title lang="en">Boston Bruins vs. Winnipeg Jets (Bruins Broadcast)</title>
-            <desc lang="en">Boston Bruins vs. Winnipeg Jets (Bruins Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 58">
-     <display-name lang="en">ESPN+ 58</display-name>
-   </channel>
-         <programme start="20241210203000 -0500" stop="20241210223000 -0500" channel="ESPN+ 58">
-            <title lang="en">Southern Miss vs. Tulane</title>
-            <desc lang="en">Southern Miss vs. Tulane - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 59">
-     <display-name lang="en">ESPN+ 59</display-name>
-   </channel>
-         <programme start="20241210203000 -0500" stop="20241210223000 -0500" channel="ESPN+ 59">
-            <title lang="en">College GameDay Covered by State Farm</title>
-            <desc lang="en">College GameDay Covered by State Farm - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 60">
-     <display-name lang="en">ESPN+ 60</display-name>
-   </channel>
-         <programme start="20241210203000 -0500" stop="20241210223000 -0500" channel="ESPN+ 60">
-            <title lang="en">Tampa Bay Lightning vs. Edmonton Oilers (National Broadcast)</title>
-            <desc lang="en">Tampa Bay Lightning vs. Edmonton Oilers (National Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 61">
-     <display-name lang="en">ESPN+ 61</display-name>
-   </channel>
-         <programme start="20241210203000 -0500" stop="20241210223000 -0500" channel="ESPN+ 61">
-            <title lang="en">Tampa Bay Lightning vs. Edmonton Oilers (Lightning Broadcast)</title>
-            <desc lang="en">Tampa Bay Lightning vs. Edmonton Oilers (Lightning Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 62">
-     <display-name lang="en">ESPN+ 62</display-name>
-   </channel>
-         <programme start="20241210203000 -0500" stop="20241210223000 -0500" channel="ESPN+ 62">
-            <title lang="en">Tue, 12/10 - Futbol W</title>
-            <desc lang="en">Tue, 12/10 - Futbol W - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 63">
-     <display-name lang="en">ESPN+ 63</display-name>
-   </channel>
-         <programme start="20241210210000 -0500" stop="20241210230000 -0500" channel="ESPN+ 63">
-            <title lang="en">San Diego Clippers vs. Salt Lake City Stars</title>
-            <desc lang="en">San Diego Clippers vs. Salt Lake City Stars - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 64">
-     <display-name lang="en">ESPN+ 64</display-name>
-   </channel>
-         <programme start="20241210210000 -0500" stop="20241210230000 -0500" channel="ESPN+ 64">
-            <title lang="en">La Sierra vs. Cal State Fullerton</title>
-            <desc lang="en">La Sierra vs. Cal State Fullerton - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 65">
-     <display-name lang="en">ESPN+ 65</display-name>
-   </channel>
-         <programme start="20241210210000 -0500" stop="20241210230000 -0500" channel="ESPN+ 65">
-            <title lang="en">Montana Tech vs. Montana</title>
-            <desc lang="en">Montana Tech vs. Montana - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 66">
-     <display-name lang="en">ESPN+ 66</display-name>
-   </channel>
-         <programme start="20241210210000 -0500" stop="20241210230000 -0500" channel="ESPN+ 66">
-            <title lang="en">Denver vs. Colorado</title>
-            <desc lang="en">Denver vs. Colorado - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 67">
-     <display-name lang="en">ESPN+ 67</display-name>
-   </channel>
-         <programme start="20241210210000 -0500" stop="20241210230000 -0500" channel="ESPN+ 67">
-            <title lang="en">Utah Valley vs. BYU</title>
-            <desc lang="en">Utah Valley vs. BYU - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 68">
-     <display-name lang="en">ESPN+ 68</display-name>
-   </channel>
-         <programme start="20241210210000 -0500" stop="20241210230000 -0500" channel="ESPN+ 68">
-            <title lang="en">66th NFF Annual Awards Dinner</title>
-            <desc lang="en">66th NFF Annual Awards Dinner - Football</desc>
-         </programme>
-   <channel id="ESPN+ 69">
-     <display-name lang="en">ESPN+ 69</display-name>
-   </channel>
-         <programme start="20241210213000 -0500" stop="20241210233000 -0500" channel="ESPN+ 69">
-            <title lang="en">Minnesota Wild vs. Utah Hockey Club</title>
-            <desc lang="en">Minnesota Wild vs. Utah Hockey Club - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 70">
-     <display-name lang="en">ESPN+ 70</display-name>
-   </channel>
-         <programme start="20241210213000 -0500" stop="20241210233000 -0500" channel="ESPN+ 70">
-            <title lang="en">St. Louis Blues vs. Vancouver Canucks (Blues Broadcast)</title>
-            <desc lang="en">St. Louis Blues vs. Vancouver Canucks (Blues Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 71">
-     <display-name lang="en">ESPN+ 71</display-name>
-   </channel>
-         <programme start="20241210213000 -0500" stop="20241210233000 -0500" channel="ESPN+ 71">
-            <title lang="en">St. Louis Blues vs. Vancouver Canucks (Canucks Broadcast)</title>
-            <desc lang="en">St. Louis Blues vs. Vancouver Canucks (Canucks Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 72">
-     <display-name lang="en">ESPN+ 72</display-name>
-   </channel>
-         <programme start="20241210213000 -0500" stop="20241210233000 -0500" channel="ESPN+ 72">
-            <title lang="en">Florida Panthers vs. Seattle Kraken (Kraken Broadcast)</title>
-            <desc lang="en">Florida Panthers vs. Seattle Kraken (Kraken Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 73">
-     <display-name lang="en">ESPN+ 73</display-name>
-   </channel>
-         <programme start="20241210213000 -0500" stop="20241210233000 -0500" channel="ESPN+ 73">
-            <title lang="en">Florida Panthers vs. Seattle Kraken (Panthers Broadcast)</title>
-            <desc lang="en">Florida Panthers vs. Seattle Kraken (Panthers Broadcast) - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 74">
-     <display-name lang="en">ESPN+ 74</display-name>
-   </channel>
-         <programme start="20241210220000 -0500" stop="20241210240000 -0500" channel="ESPN+ 74">
-            <title lang="en">Cornell vs. California</title>
-            <desc lang="en">Cornell vs. California - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 75">
-     <display-name lang="en">ESPN+ 75</display-name>
-   </channel>
-         <programme start="20241210220000 -0500" stop="20241210240000 -0500" channel="ESPN+ 75">
-            <title lang="en">Kansas City vs. Portland</title>
-            <desc lang="en">Kansas City vs. Portland - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 76">
-     <display-name lang="en">ESPN+ 76</display-name>
-   </channel>
-         <programme start="20241210220000 -0500" stop="20241210240000 -0500" channel="ESPN+ 76">
-            <title lang="en">Long Beach State vs. San Diego</title>
-            <desc lang="en">Long Beach State vs. San Diego - Basketball</desc>
+         <programme start="20241211230000 -0500" stop="20241211250000 -0500" channel="ESPN+ 55">
+            <title lang="en">BYU Wrap-Up</title>
+            <desc lang="en">BYU Wrap-Up - Basketball</desc>
          </programme>
 </tv>
