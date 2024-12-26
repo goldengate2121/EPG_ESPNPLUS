@@ -3,106 +3,64 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20241225092000 -0500" stop="20241225112000 -0500" channel="ESPN+ 1">
-            <title lang="en">Yemen vs. Saudi Arabia (Group B)</title>
-            <desc lang="en">Yemen vs. Saudi Arabia (Group B) - No Sport</desc>
+         <programme start="20241226072500 -0500" stop="20241226092500 -0500" channel="ESPN+ 1">
+            <title lang="en">Royal Antwerp vs. Genk</title>
+            <desc lang="en">Royal Antwerp vs. Genk - Soccer</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20241225120000 -0500" stop="20241225140000 -0500" channel="ESPN+ 2">
-            <title lang="en">Dunk the Halls: San Antonio Spurs vs. New York Knicks</title>
-            <desc lang="en">Dunk the Halls: San Antonio Spurs vs. New York Knicks - Basketball</desc>
+         <programme start="20241226110000 -0500" stop="20241226130000 -0500" channel="ESPN+ 2">
+            <title lang="en">Thu, 12/26 - LALIGA Show</title>
+            <desc lang="en">Thu, 12/26 - LALIGA Show - Soccer</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20241225120000 -0500" stop="20241225140000 -0500" channel="ESPN+ 3">
-            <title lang="en">San Antonio Spurs vs. New York Knicks</title>
-            <desc lang="en">San Antonio Spurs vs. New York Knicks - Basketball</desc>
+         <programme start="20241226110000 -0500" stop="20241226130000 -0500" channel="ESPN+ 3">
+            <title lang="en">En Español - Jue, 12/26 - LALIGA Show</title>
+            <desc lang="en">En Español - Jue, 12/26 - LALIGA Show - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20241225120000 -0500" stop="20241225140000 -0500" channel="ESPN+ 4">
-            <title lang="en">En Español-San Antonio Spurs vs. New York Knicks</title>
-            <desc lang="en">En Español-San Antonio Spurs vs. New York Knicks - Basketball</desc>
+         <programme start="20241226120000 -0500" stop="20241226140000 -0500" channel="ESPN+ 4">
+            <title lang="en">Sweden vs. Slovakia</title>
+            <desc lang="en">Sweden vs. Slovakia - Hockey</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20241225122500 -0500" stop="20241225142500 -0500" channel="ESPN+ 5">
-            <title lang="en">Bahrain vs. Iraq (Group B)</title>
-            <desc lang="en">Bahrain vs. Iraq (Group B) - No Sport</desc>
+         <programme start="20241226120000 -0500" stop="20241226140000 -0500" channel="ESPN+ 5">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20241225143000 -0500" stop="20241225163000 -0500" channel="ESPN+ 6">
-            <title lang="en">En Español-Minnesota Timberwolves vs. Dallas Mavericks</title>
-            <desc lang="en">En Español-Minnesota Timberwolves vs. Dallas Mavericks - Basketball</desc>
+         <programme start="20241226122500 -0500" stop="20241226142500 -0500" channel="ESPN+ 6">
+            <title lang="en">YR KV Mechelen vs. Standard Liege</title>
+            <desc lang="en">YR KV Mechelen vs. Standard Liege - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20241225143000 -0500" stop="20241225163000 -0500" channel="ESPN+ 7">
-            <title lang="en">Minnesota Timberwolves vs. Dallas Mavericks</title>
-            <desc lang="en">Minnesota Timberwolves vs. Dallas Mavericks - Basketball</desc>
+         <programme start="20241226173000 -0500" stop="20241226193000 -0500" channel="ESPN+ 7">
+            <title lang="en">Thu, 12/26 - ESPN FC</title>
+            <desc lang="en">Thu, 12/26 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20241225170000 -0500" stop="20241225190000 -0500" channel="ESPN+ 8">
-            <title lang="en">En Español-Philadelphia 76ers vs. Boston Celtics</title>
-            <desc lang="en">En Español-Philadelphia 76ers vs. Boston Celtics - Basketball</desc>
+         <programme start="20241226184000 -0500" stop="20241226204000 -0500" channel="ESPN+ 8">
+            <title lang="en">Otago Sparks vs. Canterbury Magicians</title>
+            <desc lang="en">Otago Sparks vs. Canterbury Magicians - Cricket</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20241225170000 -0500" stop="20241225190000 -0500" channel="ESPN+ 9">
-            <title lang="en">Philadelphia 76ers vs. Boston Celtics</title>
-            <desc lang="en">Philadelphia 76ers vs. Boston Celtics - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 10">
-     <display-name lang="en">ESPN+ 10</display-name>
-   </channel>
-         <programme start="20241225200000 -0500" stop="20241225220000 -0500" channel="ESPN+ 10">
-            <title lang="en">En Español-Los Angeles Lakers vs. Golden State Warriors</title>
-            <desc lang="en">En Español-Los Angeles Lakers vs. Golden State Warriors - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 11">
-     <display-name lang="en">ESPN+ 11</display-name>
-   </channel>
-         <programme start="20241225200000 -0500" stop="20241225220000 -0500" channel="ESPN+ 11">
-            <title lang="en">Los Angeles Lakers vs. Golden State Warriors</title>
-            <desc lang="en">Los Angeles Lakers vs. Golden State Warriors - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 12">
-     <display-name lang="en">ESPN+ 12</display-name>
-   </channel>
-         <programme start="20241225201000 -0500" stop="20241225221000 -0500" channel="ESPN+ 12">
-            <title lang="en">Northern Brave Women vs. Auckland Hearts</title>
-            <desc lang="en">Northern Brave Women vs. Auckland Hearts - Cricket</desc>
-         </programme>
-   <channel id="ESPN+ 13">
-     <display-name lang="en">ESPN+ 13</display-name>
-   </channel>
-         <programme start="20241225223000 -0500" stop="20241225243000 -0500" channel="ESPN+ 13">
-            <title lang="en">En Español-Denver Nuggets vs. Phoenix Suns</title>
-            <desc lang="en">En Español-Denver Nuggets vs. Phoenix Suns - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 14">
-     <display-name lang="en">ESPN+ 14</display-name>
-   </channel>
-         <programme start="20241225223000 -0500" stop="20241225243000 -0500" channel="ESPN+ 14">
-            <title lang="en">Denver Nuggets vs. Phoenix Suns</title>
-            <desc lang="en">Denver Nuggets vs. Phoenix Suns - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 15">
-     <display-name lang="en">ESPN+ 15</display-name>
-   </channel>
-         <programme start="20241225235500 -0500" stop="20241225255500 -0500" channel="ESPN+ 15">
-            <title lang="en">Northern Brave Men vs. Auckland Aces</title>
-            <desc lang="en">Northern Brave Men vs. Auckland Aces - Cricket</desc>
+         <programme start="20241226222500 -0500" stop="20241226242500 -0500" channel="ESPN+ 9">
+            <title lang="en">Otago Volts vs. Canterbury Kings</title>
+            <desc lang="en">Otago Volts vs. Canterbury Kings - Cricket</desc>
          </programme>
 </tv>
