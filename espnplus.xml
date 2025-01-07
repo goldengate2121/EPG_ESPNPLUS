@@ -3,337 +3,568 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250106020000 -0500" stop="20250106040000 -0500" channel="ESPN+ 1">
-            <title lang="en">NFL PrimeTime on ESPN+</title>
-            <desc lang="en">NFL PrimeTime on ESPN+ - Football</desc>
+         <programme start="20250107000000 -0500" stop="20250107020000 -0500" channel="ESPN+ 1">
+            <title lang="en">Australian Open Opening Week: Red Bull Bassline (Exhibition)</title>
+            <desc lang="en">Australian Open Opening Week: Red Bull Bassline (Exhibition) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250106090000 -0500" stop="20250106110000 -0500" channel="ESPN+ 2">
-            <title lang="en">Mon, 1/6 - LALIGA News</title>
-            <desc lang="en">Mon, 1/6 - LALIGA News - Soccer</desc>
+         <programme start="20250107002000 -0500" stop="20250107022000 -0500" channel="ESPN+ 2">
+            <title lang="en">Canterbury Magicians vs. Otago Volts</title>
+            <desc lang="en">Canterbury Magicians vs. Otago Volts - Cricket</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250106110000 -0500" stop="20250106130000 -0500" channel="ESPN+ 3">
-            <title lang="en">UTSA Women&#x27;s Basketball Presser</title>
-            <desc lang="en">UTSA Women&#x27;s Basketball Presser - Basketball</desc>
+         <programme start="20250107030000 -0500" stop="20250107050000 -0500" channel="ESPN+ 3">
+            <title lang="en">Court 13 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 13 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250106113000 -0500" stop="20250106133000 -0500" channel="ESPN+ 4">
-            <title lang="en">UTSA Men&#x27;s Basketball Presser</title>
-            <desc lang="en">UTSA Men&#x27;s Basketball Presser - Basketball</desc>
+         <programme start="20250107110000 -0500" stop="20250107130000 -0500" channel="ESPN+ 4">
+            <title lang="en">Tues, 1/7 - LALIGA World</title>
+            <desc lang="en">Tues, 1/7 - LALIGA World - Soccer</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250106120000 -0500" stop="20250106140000 -0500" channel="ESPN+ 5">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250107110000 -0500" stop="20250107130000 -0500" channel="ESPN+ 5">
+            <title lang="en">Australian Open Opening Week: Sinner vs Popyrin (Exhibition)</title>
+            <desc lang="en">Australian Open Opening Week: Sinner vs Popyrin (Exhibition) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250106125000 -0500" stop="20250106145000 -0500" channel="ESPN+ 6">
-            <title lang="en">En Español-Minera vs. Real Madrid (Dieciseisavos de final) (Copa del Rey)</title>
-            <desc lang="en">En Español-Minera vs. Real Madrid (Dieciseisavos de final) (Copa del Rey) - Soccer</desc>
+         <programme start="20250107120000 -0500" stop="20250107140000 -0500" channel="ESPN+ 6">
+            <title lang="en">McKendree vs. #18 UC San Diego (M Volleyball)</title>
+            <desc lang="en">McKendree vs. #18 UC San Diego (M Volleyball) - The Pat McAfee Show</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250106125000 -0500" stop="20250106145000 -0500" channel="ESPN+ 7">
-            <title lang="en">Minera vs. Real Madrid (Round of 32) (Copa del Rey)</title>
-            <desc lang="en">Minera vs. Real Madrid (Round of 32) (Copa del Rey) - Soccer</desc>
+         <programme start="20250107123000 -0500" stop="20250107143000 -0500" channel="ESPN+ 7">
+            <title lang="en">Maine Celtics vs. Indiana Mad Ants</title>
+            <desc lang="en">Maine Celtics vs. Indiana Mad Ants - Basketball</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250106150000 -0500" stop="20250106170000 -0500" channel="ESPN+ 8">
-            <title lang="en">Mon, 1/6 - ESPN FC</title>
-            <desc lang="en">Mon, 1/6 - ESPN FC - Soccer</desc>
+         <programme start="20250107140000 -0500" stop="20250107160000 -0500" channel="ESPN+ 8">
+            <title lang="en">Cleveland Charge vs. Capital City Go-Go</title>
+            <desc lang="en">Cleveland Charge vs. Capital City Go-Go - Basketball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250106173000 -0500" stop="20250106193000 -0500" channel="ESPN+ 9">
-            <title lang="en">North Carolina Central vs. Morgan State</title>
-            <desc lang="en">North Carolina Central vs. Morgan State - Basketball</desc>
+         <programme start="20250107144000 -0500" stop="20250107164000 -0500" channel="ESPN+ 9">
+            <title lang="en">Club Brugge vs. OH Leuven (Quarterfinals)</title>
+            <desc lang="en">Club Brugge vs. OH Leuven (Quarterfinals) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250106173000 -0500" stop="20250106193000 -0500" channel="ESPN+ 10">
-            <title lang="en">Norfolk State vs. Delaware State</title>
-            <desc lang="en">Norfolk State vs. Delaware State - Basketball</desc>
+         <programme start="20250107145000 -0500" stop="20250107165000 -0500" channel="ESPN+ 10">
+            <title lang="en">En Español - Mar, 1/7 - LALIGA World</title>
+            <desc lang="en">En Español - Mar, 1/7 - LALIGA World - Soccer</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250106173000 -0500" stop="20250106193000 -0500" channel="ESPN+ 11">
-            <title lang="en">South Carolina State vs. Coppin State</title>
-            <desc lang="en">South Carolina State vs. Coppin State - Basketball</desc>
+         <programme start="20250107173000 -0500" stop="20250107193000 -0500" channel="ESPN+ 11">
+            <title lang="en">North Carolina Central vs. Morgan State</title>
+            <desc lang="en">North Carolina Central vs. Morgan State - Basketball</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 12">
-            <title lang="en">Court 6 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 6 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107173000 -0500" stop="20250107193000 -0500" channel="ESPN+ 12">
+            <title lang="en">Tue, 1/7 - ESPN FC</title>
+            <desc lang="en">Tue, 1/7 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 13">
-            <title lang="en">Court 15 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 15 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107173000 -0500" stop="20250107193000 -0500" channel="ESPN+ 13">
+            <title lang="en">Eldense vs. Valencia (Round of 32) (Copa del Rey)</title>
+            <desc lang="en">Eldense vs. Valencia (Round of 32) (Copa del Rey) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 14">
-            <title lang="en">Court 7 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 7 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 14">
+            <title lang="en">SIU Edwardsville vs. Eastern Illinois</title>
+            <desc lang="en">SIU Edwardsville vs. Eastern Illinois - Basketball</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 15">
-            <title lang="en">Court 3 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 3 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 15">
+            <title lang="en">New Hampshire vs. Boston College</title>
+            <desc lang="en">New Hampshire vs. Boston College - Hockey</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 16">
-            <title lang="en">Court 17 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 17 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 16">
+            <title lang="en">Court 15 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 15 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 17">
-            <title lang="en">1573 Arena (Qualifying) (First Round)</title>
-            <desc lang="en">1573 Arena (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 17">
+            <title lang="en">Court 6 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 6 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 18">
-            <title lang="en">Court 8 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 8 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 18">
+            <title lang="en">Court 17 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 17 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 19">
-            <title lang="en">Court 13 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 13 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 19">
+            <title lang="en">Court 7 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 7 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 20">
-            <title lang="en">Court 12 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 12 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 20">
+            <title lang="en">Court 5 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 5 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 21">
-            <title lang="en">Court 5 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 5 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 21">
+            <title lang="en">1573 Arena (Qualifying) (Second Round)</title>
+            <desc lang="en">1573 Arena (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 22">
-            <title lang="en">Kia Arena (Qualifying) (First Round)</title>
-            <desc lang="en">Kia Arena (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 22">
+            <title lang="en">Court 14 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 14 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 23">
-            <title lang="en">Court 16 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 16 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 23">
+            <title lang="en">Court 11 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 11 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 24">
-            <title lang="en">Court 14 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 14 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 24">
+            <title lang="en">Court 3 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 3 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250106180000 -0500" stop="20250106200000 -0500" channel="ESPN+ 25">
-            <title lang="en">Court 11 (Qualifying) (First Round)</title>
-            <desc lang="en">Court 11 (Qualifying) (First Round) - Tennis</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 25">
+            <title lang="en">Court 8 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 8 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 26">
-            <title lang="en">UT Rio Grande Valley vs. SE Louisiana</title>
-            <desc lang="en">UT Rio Grande Valley vs. SE Louisiana - Basketball</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 26">
+            <title lang="en">Court 12 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 12 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 27">
-            <title lang="en">North Dakota State vs. Montana State (Championship)</title>
-            <desc lang="en">North Dakota State vs. Montana State (Championship) - Football</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 27">
+            <title lang="en">Kia Arena (Qualifying) (Second Round)</title>
+            <desc lang="en">Kia Arena (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 28">
-            <title lang="en">En Español-North Dakota State vs. Montana State (Final)</title>
-            <desc lang="en">En Español-North Dakota State vs. Montana State (Final) - Football</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 28">
+            <title lang="en">Court 16 (Qualifying) (Second Round)</title>
+            <desc lang="en">Court 16 (Qualifying) (Second Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 29">
-            <title lang="en">Stonehill vs. #17 Quinnipiac</title>
-            <desc lang="en">Stonehill vs. #17 Quinnipiac - Hockey</desc>
+         <programme start="20250107180000 -0500" stop="20250107200000 -0500" channel="ESPN+ 29">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - Tennis</desc>
          </programme>
    <channel id="ESPN+ 30">
      <display-name lang="en">ESPN+ 30</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 30">
-            <title lang="en">Vancouver Canucks vs. Montreal Canadiens (Canadiens Broadcast)</title>
-            <desc lang="en">Vancouver Canucks vs. Montreal Canadiens (Canadiens Broadcast) - Hockey</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 30">
+            <title lang="en">Carolina Hurricanes vs. Tampa Bay Lightning (Hurricanes Broadcast)</title>
+            <desc lang="en">Carolina Hurricanes vs. Tampa Bay Lightning (Hurricanes Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 31">
      <display-name lang="en">ESPN+ 31</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 31">
-            <title lang="en">Vancouver Canucks vs. Montreal Canadiens (National Broadcast)</title>
-            <desc lang="en">Vancouver Canucks vs. Montreal Canadiens (National Broadcast) - Hockey</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 31">
+            <title lang="en">Carolina Hurricanes vs. Tampa Bay Lightning (Lightning Broadcast)</title>
+            <desc lang="en">Carolina Hurricanes vs. Tampa Bay Lightning (Lightning Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 32">
      <display-name lang="en">ESPN+ 32</display-name>
    </channel>
-         <programme start="20250106190000 -0500" stop="20250106210000 -0500" channel="ESPN+ 32">
-            <title lang="en">Lun 1/6 - Fuera de Juego</title>
-            <desc lang="en">Lun 1/6 - Fuera de Juego - Soccer</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 32">
+            <title lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins (Blue Jackets Broadcast)</title>
+            <desc lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins (Blue Jackets Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 33">
      <display-name lang="en">ESPN+ 33</display-name>
    </channel>
-         <programme start="20250106193000 -0500" stop="20250106213000 -0500" channel="ESPN+ 33">
-            <title lang="en">McNeese vs. Northwestern State</title>
-            <desc lang="en">McNeese vs. Northwestern State - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 33">
+            <title lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins (Penguins Broadcast)</title>
+            <desc lang="en">Columbus Blue Jackets vs. Pittsburgh Penguins (Penguins Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 34">
      <display-name lang="en">ESPN+ 34</display-name>
    </channel>
-         <programme start="20250106193000 -0500" stop="20250106213000 -0500" channel="ESPN+ 34">
-            <title lang="en">Texas A&amp;M-Corpus Christi vs. New Orleans</title>
-            <desc lang="en">Texas A&amp;M-Corpus Christi vs. New Orleans - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 34">
+            <title lang="en">Edmonton Oilers vs. Boston Bruins (National Broadcast)</title>
+            <desc lang="en">Edmonton Oilers vs. Boston Bruins (National Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 35">
      <display-name lang="en">ESPN+ 35</display-name>
    </channel>
-         <programme start="20250106193000 -0500" stop="20250106213000 -0500" channel="ESPN+ 35">
-            <title lang="en">Houston Christian vs. Stephen F. Austin</title>
-            <desc lang="en">Houston Christian vs. Stephen F. Austin - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 35">
+            <title lang="en">Edmonton Oilers vs. Boston Bruins (Bruins Broadcast)</title>
+            <desc lang="en">Edmonton Oilers vs. Boston Bruins (Bruins Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 36">
      <display-name lang="en">ESPN+ 36</display-name>
    </channel>
-         <programme start="20250106193000 -0500" stop="20250106213000 -0500" channel="ESPN+ 36">
-            <title lang="en">Norfolk State vs. Delaware State</title>
-            <desc lang="en">Norfolk State vs. Delaware State - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 36">
+            <title lang="en">Dallas Stars vs. New York Rangers (Rangers Broadcast)</title>
+            <desc lang="en">Dallas Stars vs. New York Rangers (Rangers Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 37">
      <display-name lang="en">ESPN+ 37</display-name>
    </channel>
-         <programme start="20250106193000 -0500" stop="20250106213000 -0500" channel="ESPN+ 37">
-            <title lang="en">North Carolina Central vs. Morgan State</title>
-            <desc lang="en">North Carolina Central vs. Morgan State - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 37">
+            <title lang="en">Dallas Stars vs. New York Rangers (Stars Broadcast)</title>
+            <desc lang="en">Dallas Stars vs. New York Rangers (Stars Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 38">
      <display-name lang="en">ESPN+ 38</display-name>
    </channel>
-         <programme start="20250106193000 -0500" stop="20250106213000 -0500" channel="ESPN+ 38">
-            <title lang="en">Nicholls vs. East Texas A&amp;M</title>
-            <desc lang="en">Nicholls vs. East Texas A&amp;M - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 38">
+            <title lang="en">Ottawa Senators vs. Detroit Red Wings (Senators Broadcast)</title>
+            <desc lang="en">Ottawa Senators vs. Detroit Red Wings (Senators Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 39">
      <display-name lang="en">ESPN+ 39</display-name>
    </channel>
-         <programme start="20250106200000 -0500" stop="20250106220000 -0500" channel="ESPN+ 39">
-            <title lang="en">Incarnate Word vs. Lamar</title>
-            <desc lang="en">Incarnate Word vs. Lamar - Basketball</desc>
+         <programme start="20250107183000 -0500" stop="20250107203000 -0500" channel="ESPN+ 39">
+            <title lang="en">Ottawa Senators vs. Detroit Red Wings (Red Wings Broadcast)</title>
+            <desc lang="en">Ottawa Senators vs. Detroit Red Wings (Red Wings Broadcast) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 40">
      <display-name lang="en">ESPN+ 40</display-name>
    </channel>
-         <programme start="20250106200000 -0500" stop="20250106220000 -0500" channel="ESPN+ 40">
-            <title lang="en">South Carolina State vs. Coppin State</title>
-            <desc lang="en">South Carolina State vs. Coppin State - Basketball</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 40">
+            <title lang="en">Birmingham Squadron vs. Long Island Nets</title>
+            <desc lang="en">Birmingham Squadron vs. Long Island Nets - Basketball</desc>
          </programme>
    <channel id="ESPN+ 41">
      <display-name lang="en">ESPN+ 41</display-name>
    </channel>
-         <programme start="20250106201000 -0500" stop="20250106221000 -0500" channel="ESPN+ 41">
-            <title lang="en">Canterbury Kings vs. Otago Volts</title>
-            <desc lang="en">Canterbury Kings vs. Otago Volts - Cricket</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 41">
+            <title lang="en">Greensboro Swarm vs. Motor City Cruise</title>
+            <desc lang="en">Greensboro Swarm vs. Motor City Cruise - Basketball</desc>
          </programme>
    <channel id="ESPN+ 42">
      <display-name lang="en">ESPN+ 42</display-name>
    </channel>
-         <programme start="20250106203000 -0500" stop="20250106223000 -0500" channel="ESPN+ 42">
-            <title lang="en">Florida Panthers vs. Colorado Avalanche (Panthers Broadcast)</title>
-            <desc lang="en">Florida Panthers vs. Colorado Avalanche (Panthers Broadcast) - Hockey</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 42">
+            <title lang="en">Bowling Green vs. Western Michigan</title>
+            <desc lang="en">Bowling Green vs. Western Michigan - Basketball</desc>
          </programme>
    <channel id="ESPN+ 43">
      <display-name lang="en">ESPN+ 43</display-name>
    </channel>
-         <programme start="20250106203000 -0500" stop="20250106223000 -0500" channel="ESPN+ 43">
-            <title lang="en">Florida Panthers vs. Colorado Avalanche (Avalanche Broadcast)</title>
-            <desc lang="en">Florida Panthers vs. Colorado Avalanche (Avalanche Broadcast) - Hockey</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 43">
+            <title lang="en">Arizona vs. #21 West Virginia</title>
+            <desc lang="en">Arizona vs. #21 West Virginia - Basketball</desc>
          </programme>
    <channel id="ESPN+ 44">
      <display-name lang="en">ESPN+ 44</display-name>
    </channel>
-         <programme start="20250106203000 -0500" stop="20250106223000 -0500" channel="ESPN+ 44">
-            <title lang="en">Mon, 1/6 - Futbol Americas</title>
-            <desc lang="en">Mon, 1/6 - Futbol Americas - Soccer</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 44">
+            <title lang="en">Ohio vs. Buffalo</title>
+            <desc lang="en">Ohio vs. Buffalo - Basketball</desc>
          </programme>
    <channel id="ESPN+ 45">
      <display-name lang="en">ESPN+ 45</display-name>
    </channel>
-         <programme start="20250106210000 -0500" stop="20250106230000 -0500" channel="ESPN+ 45">
-            <title lang="en">Grambling vs. Texas Southern</title>
-            <desc lang="en">Grambling vs. Texas Southern - Basketball</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 45">
+            <title lang="en">Miami (OH) vs. Ball State</title>
+            <desc lang="en">Miami (OH) vs. Ball State - Basketball</desc>
          </programme>
    <channel id="ESPN+ 46">
      <display-name lang="en">ESPN+ 46</display-name>
    </channel>
-         <programme start="20250106213000 -0500" stop="20250106233000 -0500" channel="ESPN+ 46">
-            <title lang="en">New Jersey Devils vs. Seattle Kraken (Devils Broadcast)</title>
-            <desc lang="en">New Jersey Devils vs. Seattle Kraken (Devils Broadcast) - Hockey</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 46">
+            <title lang="en">Kent State vs. Northern Illinois</title>
+            <desc lang="en">Kent State vs. Northern Illinois - Basketball</desc>
          </programme>
    <channel id="ESPN+ 47">
      <display-name lang="en">ESPN+ 47</display-name>
    </channel>
-         <programme start="20250106213000 -0500" stop="20250106233000 -0500" channel="ESPN+ 47">
-            <title lang="en">New Jersey Devils vs. Seattle Kraken (Kraken Broadcast)</title>
-            <desc lang="en">New Jersey Devils vs. Seattle Kraken (Kraken Broadcast) - Hockey</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 47">
+            <title lang="en">Central Michigan vs. Akron</title>
+            <desc lang="en">Central Michigan vs. Akron - Basketball</desc>
          </programme>
    <channel id="ESPN+ 48">
      <display-name lang="en">ESPN+ 48</display-name>
    </channel>
-         <programme start="20250106220000 -0500" stop="20250106240000 -0500" channel="ESPN+ 48">
-            <title lang="en">FCS Football Championship Trophy Presentation</title>
-            <desc lang="en">FCS Football Championship Trophy Presentation - Football</desc>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 48">
+            <title lang="en">Eastern Michigan vs. Toledo</title>
+            <desc lang="en">Eastern Michigan vs. Toledo - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 49">
+     <display-name lang="en">ESPN+ 49</display-name>
+   </channel>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 49">
+            <title lang="en">#4 Providence vs. Brown</title>
+            <desc lang="en">#4 Providence vs. Brown - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 50">
+     <display-name lang="en">ESPN+ 50</display-name>
+   </channel>
+         <programme start="20250107190000 -0500" stop="20250107210000 -0500" channel="ESPN+ 50">
+            <title lang="en">Yale vs. Northeastern</title>
+            <desc lang="en">Yale vs. Northeastern - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 51">
+     <display-name lang="en">ESPN+ 51</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 51">
+            <title lang="en">Santa Cruz Warriors vs. Iowa Wolves</title>
+            <desc lang="en">Santa Cruz Warriors vs. Iowa Wolves - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 52">
+     <display-name lang="en">ESPN+ 52</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 52">
+            <title lang="en">Tulane vs. UAB</title>
+            <desc lang="en">Tulane vs. UAB - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 53">
+     <display-name lang="en">ESPN+ 53</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 53">
+            <title lang="en">North Carolina Central vs. Morgan State</title>
+            <desc lang="en">North Carolina Central vs. Morgan State - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 54">
+     <display-name lang="en">ESPN+ 54</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 54">
+            <title lang="en">#11 TCU vs. Kansas</title>
+            <desc lang="en">#11 TCU vs. Kansas - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 55">
+     <display-name lang="en">ESPN+ 55</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 55">
+            <title lang="en">En Español-Toronto Maple Leafs vs. Philadelphia Flyers</title>
+            <desc lang="en">En Español-Toronto Maple Leafs vs. Philadelphia Flyers - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 56">
+     <display-name lang="en">ESPN+ 56</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 56">
+            <title lang="en">Toronto Maple Leafs vs. Philadelphia Flyers</title>
+            <desc lang="en">Toronto Maple Leafs vs. Philadelphia Flyers - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 57">
+     <display-name lang="en">ESPN+ 57</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 57">
+            <title lang="en">St. Louis Blues vs. Minnesota Wild (Blues Broadcast)</title>
+            <desc lang="en">St. Louis Blues vs. Minnesota Wild (Blues Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 58">
+     <display-name lang="en">ESPN+ 58</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 58">
+            <title lang="en">St. Louis Blues vs. Minnesota Wild (Wild Broadcast)</title>
+            <desc lang="en">St. Louis Blues vs. Minnesota Wild (Wild Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 59">
+     <display-name lang="en">ESPN+ 59</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 59">
+            <title lang="en">Nashville Predators vs. Winnipeg Jets (Jets Broadcast)</title>
+            <desc lang="en">Nashville Predators vs. Winnipeg Jets (Jets Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 60">
+     <display-name lang="en">ESPN+ 60</display-name>
+   </channel>
+         <programme start="20250107193000 -0500" stop="20250107213000 -0500" channel="ESPN+ 60">
+            <title lang="en">Nashville Predators vs. Winnipeg Jets (Predators Broadcast)</title>
+            <desc lang="en">Nashville Predators vs. Winnipeg Jets (Predators Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 61">
+     <display-name lang="en">ESPN+ 61</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 61">
+            <title lang="en">Oklahoma City Blue vs. Rio Grande Valley Vipers</title>
+            <desc lang="en">Oklahoma City Blue vs. Rio Grande Valley Vipers - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 62">
+     <display-name lang="en">ESPN+ 62</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 62">
+            <title lang="en">Utah vs. #3 Iowa State</title>
+            <desc lang="en">Utah vs. #3 Iowa State - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 63">
+     <display-name lang="en">ESPN+ 63</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 63">
+            <title lang="en">Tulsa vs. UTSA</title>
+            <desc lang="en">Tulsa vs. UTSA - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 64">
+     <display-name lang="en">ESPN+ 64</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 64">
+            <title lang="en">Cincinnati vs. Baylor</title>
+            <desc lang="en">Cincinnati vs. Baylor - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 65">
+     <display-name lang="en">ESPN+ 65</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 65">
+            <title lang="en">UIC vs. Missouri State</title>
+            <desc lang="en">UIC vs. Missouri State - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 66">
+     <display-name lang="en">ESPN+ 66</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 66">
+            <title lang="en">Kansas State vs. Oklahoma State</title>
+            <desc lang="en">Kansas State vs. Oklahoma State - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 67">
+     <display-name lang="en">ESPN+ 67</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 67">
+            <title lang="en">BYU Tipoff</title>
+            <desc lang="en">BYU Tipoff - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 68">
+     <display-name lang="en">ESPN+ 68</display-name>
+   </channel>
+         <programme start="20250107200000 -0500" stop="20250107220000 -0500" channel="ESPN+ 68">
+            <title lang="en">New Zealand vs. Sri Lanka (2nd ODI)</title>
+            <desc lang="en">New Zealand vs. Sri Lanka (2nd ODI) - Cricket</desc>
+         </programme>
+   <channel id="ESPN+ 69">
+     <display-name lang="en">ESPN+ 69</display-name>
+   </channel>
+         <programme start="20250107203000 -0500" stop="20250107223000 -0500" channel="ESPN+ 69">
+            <title lang="en">SIU Edwardsville vs. Eastern Illinois</title>
+            <desc lang="en">SIU Edwardsville vs. Eastern Illinois - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 70">
+     <display-name lang="en">ESPN+ 70</display-name>
+   </channel>
+         <programme start="20250107203000 -0500" stop="20250107223000 -0500" channel="ESPN+ 70">
+            <title lang="en">Tue, 1/7 - Futbol W</title>
+            <desc lang="en">Tue, 1/7 - Futbol W - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 71">
+     <display-name lang="en">ESPN+ 71</display-name>
+   </channel>
+         <programme start="20250107210000 -0500" stop="20250107230000 -0500" channel="ESPN+ 71">
+            <title lang="en">Texas Tech vs. BYU</title>
+            <desc lang="en">Texas Tech vs. BYU - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 72">
+     <display-name lang="en">ESPN+ 72</display-name>
+   </channel>
+         <programme start="20250107210000 -0500" stop="20250107230000 -0500" channel="ESPN+ 72">
+            <title lang="en">New York Golf Club vs. The Bay Golf Club</title>
+            <desc lang="en">New York Golf Club vs. The Bay Golf Club - Golf</desc>
+         </programme>
+   <channel id="ESPN+ 73">
+     <display-name lang="en">ESPN+ 73</display-name>
+   </channel>
+         <programme start="20250107213000 -0500" stop="20250107233000 -0500" channel="ESPN+ 73">
+            <title lang="en">Calgary Flames vs. Anaheim Ducks (Flames Broadcast)</title>
+            <desc lang="en">Calgary Flames vs. Anaheim Ducks (Flames Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 74">
+     <display-name lang="en">ESPN+ 74</display-name>
+   </channel>
+         <programme start="20250107213000 -0500" stop="20250107233000 -0500" channel="ESPN+ 74">
+            <title lang="en">Calgary Flames vs. Anaheim Ducks (Ducks Broadcast)</title>
+            <desc lang="en">Calgary Flames vs. Anaheim Ducks (Ducks Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 75">
+     <display-name lang="en">ESPN+ 75</display-name>
+   </channel>
+         <programme start="20250107220000 -0500" stop="20250107240000 -0500" channel="ESPN+ 75">
+            <title lang="en">Salt Lake City Stars vs. San Diego Clippers</title>
+            <desc lang="en">Salt Lake City Stars vs. San Diego Clippers - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 76">
+     <display-name lang="en">ESPN+ 76</display-name>
+   </channel>
+         <programme start="20250107220000 -0500" stop="20250107240000 -0500" channel="ESPN+ 76">
+            <title lang="en">Delaware Blue Coats vs. South Bay Lakers</title>
+            <desc lang="en">Delaware Blue Coats vs. South Bay Lakers - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 77">
+     <display-name lang="en">ESPN+ 77</display-name>
+   </channel>
+         <programme start="20250107220000 -0500" stop="20250107240000 -0500" channel="ESPN+ 77">
+            <title lang="en">Vegas Golden Knights vs. San Jose Sharks (Sharks Broadcast)</title>
+            <desc lang="en">Vegas Golden Knights vs. San Jose Sharks (Sharks Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 78">
+     <display-name lang="en">ESPN+ 78</display-name>
+   </channel>
+         <programme start="20250107220000 -0500" stop="20250107240000 -0500" channel="ESPN+ 78">
+            <title lang="en">Vegas Golden Knights vs. San Jose Sharks (Golden Knights Broadcast)</title>
+            <desc lang="en">Vegas Golden Knights vs. San Jose Sharks (Golden Knights Broadcast) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 79">
+     <display-name lang="en">ESPN+ 79</display-name>
+   </channel>
+         <programme start="20250107230000 -0500" stop="20250107250000 -0500" channel="ESPN+ 79">
+            <title lang="en">Loyola Marymount vs. Saint Mary&#x27;s</title>
+            <desc lang="en">Loyola Marymount vs. Saint Mary&#x27;s - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 80">
+     <display-name lang="en">ESPN+ 80</display-name>
+   </channel>
+         <programme start="20250107230000 -0500" stop="20250107250000 -0500" channel="ESPN+ 80">
+            <title lang="en">BYU Wrap-Up</title>
+            <desc lang="en">BYU Wrap-Up - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 81">
+     <display-name lang="en">ESPN+ 81</display-name>
+   </channel>
+         <programme start="20250107230000 -0500" stop="20250107250000 -0500" channel="ESPN+ 81">
+            <title lang="en">UTSA Men&#x27;s Basketball Postgame</title>
+            <desc lang="en">UTSA Men&#x27;s Basketball Postgame - Basketball</desc>
          </programme>
 </tv>
