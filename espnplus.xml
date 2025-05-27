@@ -3,120 +3,120 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250526090000 -0500" stop="20250526110000 -0500" channel="ESPN+ 1">
-            <title lang="en">Mon, 5/26 - LALIGA News</title>
-            <desc lang="en">Mon, 5/26 - LALIGA News - Soccer</desc>
+         <programme start="20250527090000 -0500" stop="20250527110000 -0500" channel="ESPN+ 1">
+            <title lang="en">Tue, 5/27 - LALIGA World</title>
+            <desc lang="en">Tue, 5/27 - LALIGA World - Soccer</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250526090000 -0500" stop="20250526110000 -0500" channel="ESPN+ 2">
-            <title lang="en">Mon, 5/26 - LALIGA Hypermotion Highlights Show</title>
-            <desc lang="en">Mon, 5/26 - LALIGA Hypermotion Highlights Show - Soccer</desc>
+         <programme start="20250527110000 -0500" stop="20250527130000 -0500" channel="ESPN+ 2">
+            <title lang="en">En Español - Mar, 5/27 - LALIGA World</title>
+            <desc lang="en">En Español - Mar, 5/27 - LALIGA World - Soccer</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250526090000 -0500" stop="20250526110000 -0500" channel="ESPN+ 3">
-            <title lang="en">En Español - Lun, 5/26 - LALIGA Hypermotion Highlights Show</title>
-            <desc lang="en">En Español - Lun, 5/26 - LALIGA Hypermotion Highlights Show - Soccer</desc>
+         <programme start="20250527110000 -0500" stop="20250527130000 -0500" channel="ESPN+ 3">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250526110000 -0500" stop="20250526130000 -0500" channel="ESPN+ 4">
-            <title lang="en">NJCAA Baseball Tournament (Winners Bracket)</title>
-            <desc lang="en">NJCAA Baseball Tournament (Winners Bracket) - Baseball</desc>
+         <programme start="20250527120500 -0500" stop="20250527140500 -0500" channel="ESPN+ 4">
+            <title lang="en">Traverse City Pit Spitters vs. Rockford Rivets</title>
+            <desc lang="en">Traverse City Pit Spitters vs. Rockford Rivets - Baseball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250526120000 -0500" stop="20250526140000 -0500" channel="ESPN+ 5">
-            <title lang="en">NCAA Baseball Selection Special</title>
-            <desc lang="en">NCAA Baseball Selection Special - Baseball</desc>
+         <programme start="20250527130000 -0500" stop="20250527150000 -0500" channel="ESPN+ 5">
+            <title lang="en">NJCAA Baseball Tournament (Elimination Game)</title>
+            <desc lang="en">NJCAA Baseball Tournament (Elimination Game) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250526120000 -0500" stop="20250526140000 -0500" channel="ESPN+ 6">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250527142500 -0500" stop="20250527162500 -0500" channel="ESPN+ 6">
+            <title lang="en">Eintracht Braunschweig vs. Saarbrücken (Playoffs - 2nd Leg)</title>
+            <desc lang="en">Eintracht Braunschweig vs. Saarbrücken (Playoffs - 2nd Leg) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250526130000 -0500" stop="20250526150000 -0500" channel="ESPN+ 7">
-            <title lang="en">The Road to Omaha</title>
-            <desc lang="en">The Road to Omaha - Baseball</desc>
+         <programme start="20250527170000 -0500" stop="20250527190000 -0500" channel="ESPN+ 7">
+            <title lang="en">NJCAA Baseball Tournament (Elimination Game)</title>
+            <desc lang="en">NJCAA Baseball Tournament (Elimination Game) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250526130000 -0500" stop="20250526150000 -0500" channel="ESPN+ 8">
-            <title lang="en">#2 Maryland vs. #1 Cornell (Championship)</title>
-            <desc lang="en">#2 Maryland vs. #1 Cornell (Championship) - Lacrosse</desc>
+         <programme start="20250527173000 -0500" stop="20250527193000 -0500" channel="ESPN+ 8">
+            <title lang="en">Tue, 5/27 - ESPN FC</title>
+            <desc lang="en">Tue, 5/27 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250526142000 -0500" stop="20250526162000 -0500" channel="ESPN+ 9">
-            <title lang="en">SV Elversberg vs. 1. FC Heidenheim 1846 (Playoffs - 2nd Leg) (Bundesliga)</title>
-            <desc lang="en">SV Elversberg vs. 1. FC Heidenheim 1846 (Playoffs - 2nd Leg) (Bundesliga) - Soccer</desc>
+         <programme start="20250527173000 -0500" stop="20250527193000 -0500" channel="ESPN+ 9">
+            <title lang="en">Tue, 5/27 - LALIGA News</title>
+            <desc lang="en">Tue, 5/27 - LALIGA News - Soccer</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250526160000 -0500" stop="20250526180000 -0500" channel="ESPN+ 10">
-            <title lang="en">NJCAA Baseball Tournament (Elimination Game)</title>
-            <desc lang="en">NJCAA Baseball Tournament (Elimination Game) - Baseball</desc>
+         <programme start="20250527193000 -0500" stop="20250527213000 -0500" channel="ESPN+ 10">
+            <title lang="en">The Point Presented by GoDaddy</title>
+            <desc lang="en">The Point Presented by GoDaddy - Hockey</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250526173000 -0500" stop="20250526193000 -0500" channel="ESPN+ 11">
-            <title lang="en">Mon, 5/26 - ESPN FC</title>
-            <desc lang="en">Mon, 5/26 - ESPN FC - Soccer</desc>
+         <programme start="20250527193500 -0500" stop="20250527213500 -0500" channel="ESPN+ 11">
+            <title lang="en">Rochester Honkers vs. La Crosse Loggers</title>
+            <desc lang="en">Rochester Honkers vs. La Crosse Loggers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250526193000 -0500" stop="20250526213000 -0500" channel="ESPN+ 12">
-            <title lang="en">Lun 5/26 - Fuera de Juego</title>
-            <desc lang="en">Lun 5/26 - Fuera de Juego - Soccer</desc>
+         <programme start="20250527200000 -0500" stop="20250527220000 -0500" channel="ESPN+ 12">
+            <title lang="en">En Español-Dallas Stars vs. Edmonton Oilers (Western Conference Final Game 4)</title>
+            <desc lang="en">En Español-Dallas Stars vs. Edmonton Oilers (Western Conference Final Game 4) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250526193000 -0500" stop="20250526213000 -0500" channel="ESPN+ 13">
-            <title lang="en">2025 WSL Championship Tour: Western Australia Margaret River Pro</title>
-            <desc lang="en">2025 WSL Championship Tour: Western Australia Margaret River Pro - Surfing</desc>
+         <programme start="20250527200000 -0500" stop="20250527220000 -0500" channel="ESPN+ 13">
+            <title lang="en">Dallas Stars vs. Edmonton Oilers (Western Conference Final Game 4)</title>
+            <desc lang="en">Dallas Stars vs. Edmonton Oilers (Western Conference Final Game 4) - Hockey</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250526193500 -0500" stop="20250526213500 -0500" channel="ESPN+ 14">
-            <title lang="en">St. Cloud Rox vs. Minot Hot Tots</title>
-            <desc lang="en">St. Cloud Rox vs. Minot Hot Tots - Baseball</desc>
+         <programme start="20250527203000 -0500" stop="20250527223000 -0500" channel="ESPN+ 14">
+            <title lang="en">Tue, 5/27 - Futbol W</title>
+            <desc lang="en">Tue, 5/27 - Futbol W - Soccer</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250526193500 -0500" stop="20250526213500 -0500" channel="ESPN+ 15">
-            <title lang="en">La Crosse Loggers vs. Rochester Honkers</title>
-            <desc lang="en">La Crosse Loggers vs. Rochester Honkers - Baseball</desc>
+         <programme start="20250527210000 -0500" stop="20250527230000 -0500" channel="ESPN+ 15">
+            <title lang="en">NJCAA Baseball Tournament (Winners Bracket)</title>
+            <desc lang="en">NJCAA Baseball Tournament (Winners Bracket) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250526200000 -0500" stop="20250526220000 -0500" channel="ESPN+ 16">
-            <title lang="en">NJCAA Baseball Tournament (Winners Bracket)</title>
-            <desc lang="en">NJCAA Baseball Tournament (Winners Bracket) - Baseball</desc>
+         <programme start="20250527220000 -0500" stop="20250527240000 -0500" channel="ESPN+ 16">
+            <title lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 1)</title>
+            <desc lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 1) - MMA</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250526203000 -0500" stop="20250526223000 -0500" channel="ESPN+ 17">
-            <title lang="en">Mon, 5/26 - Futbol Americas</title>
-            <desc lang="en">Mon, 5/26 - Futbol Americas - Soccer</desc>
+         <programme start="20250527230000 -0500" stop="20250527250000 -0500" channel="ESPN+ 17">
+            <title lang="en">Tue, 5/27 - In the Crease</title>
+            <desc lang="en">Tue, 5/27 - In the Crease - Hockey</desc>
          </programme>
 </tv>
