@@ -3,78 +3,218 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250528090000 -0500" stop="20250528110000 -0500" channel="ESPN+ 1">
-            <title lang="en">Wed, 5/28 - LALIGA News</title>
-            <desc lang="en">Wed, 5/28 - LALIGA News - Soccer</desc>
+         <programme start="20250529074500 -0500" stop="20250529094500 -0500" channel="ESPN+ 1">
+            <title lang="en">the Memorial Tournament presented by Workday: Main Feed (First Round)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Main Feed (First Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250528110500 -0500" stop="20250528130500 -0500" channel="ESPN+ 2">
-            <title lang="en">Lakeshore Chinooks vs. Kalamazoo Growlers</title>
-            <desc lang="en">Lakeshore Chinooks vs. Kalamazoo Growlers - Baseball</desc>
+         <programme start="20250529083000 -0500" stop="20250529103000 -0500" channel="ESPN+ 2">
+            <title lang="en">the Memorial Tournament presented by Workday: Featured Holes #4, #12, #15 &amp; #16 (First Round) (Featured Holes #4, #12, #15 &amp; #16)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Featured Holes #4, #12, #15 &amp; #16 (First Round) (Featured Holes #4, #12, #15 &amp; #16) - Golf</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250528120000 -0500" stop="20250528140000 -0500" channel="ESPN+ 3">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
+         <programme start="20250529090000 -0500" stop="20250529110000 -0500" channel="ESPN+ 3">
+            <title lang="en">Thu, 5/29 - LALIGA News</title>
+            <desc lang="en">Thu, 5/29 - LALIGA News - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250528170000 -0500" stop="20250528190000 -0500" channel="ESPN+ 4">
-            <title lang="en">NJCAA Baseball Tournament (Elimination Game)</title>
-            <desc lang="en">NJCAA Baseball Tournament (Elimination Game) - Baseball</desc>
+         <programme start="20250529100000 -0500" stop="20250529120000 -0500" channel="ESPN+ 4">
+            <title lang="en">the Memorial Tournament presented by Workday: Spieth Marquee Group (First Round) (Spieth Marquee Group)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Spieth Marquee Group (First Round) (Spieth Marquee Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250528173000 -0500" stop="20250528193000 -0500" channel="ESPN+ 5">
-            <title lang="en">Wed, 5/28 - ESPN FC</title>
-            <desc lang="en">Wed, 5/28 - ESPN FC - Soccer</desc>
+         <programme start="20250529101500 -0500" stop="20250529121500 -0500" channel="ESPN+ 5">
+            <title lang="en">the Memorial Tournament presented by Workday: Aberg &amp; Morikawa Featured Groups (First Round) (Aberg &amp; Morikawa Featured Groups)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Aberg &amp; Morikawa Featured Groups (First Round) (Aberg &amp; Morikawa Featured Groups) - Golf</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250528180000 -0500" stop="20250528200000 -0500" channel="ESPN+ 6">
-            <title lang="en">2025 NCAA Division I Outdoor Track and Field East First Round (East First Round)</title>
-            <desc lang="en">2025 NCAA Division I Outdoor Track and Field East First Round (East First Round) - No Sport</desc>
+         <programme start="20250529110000 -0500" stop="20250529130000 -0500" channel="ESPN+ 6">
+            <title lang="en">LALIGA Post Season Show</title>
+            <desc lang="en">LALIGA Post Season Show - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250528190000 -0500" stop="20250528210000 -0500" channel="ESPN+ 7">
-            <title lang="en">Indy Eleven vs. Hartford Athletic</title>
-            <desc lang="en">Indy Eleven vs. Hartford Athletic - Soccer</desc>
+         <programme start="20250529110000 -0500" stop="20250529130000 -0500" channel="ESPN+ 7">
+            <title lang="en">En Español - LALIGA Post Season Show</title>
+            <desc lang="en">En Español - LALIGA Post Season Show - Soccer</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250528190000 -0500" stop="20250528210000 -0500" channel="ESPN+ 8">
-            <title lang="en">2025 NCAA Division I Outdoor Track and Field West First Round (West First Round)</title>
-            <desc lang="en">2025 NCAA Division I Outdoor Track and Field West First Round (West First Round) - No Sport</desc>
+         <programme start="20250529120000 -0500" stop="20250529140000 -0500" channel="ESPN+ 8">
+            <title lang="en">ESPN BET at the Memorial Tournament presented by Workday (First Round)</title>
+            <desc lang="en">ESPN BET at the Memorial Tournament presented by Workday (First Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250528193500 -0500" stop="20250528213500 -0500" channel="ESPN+ 9">
-            <title lang="en">Willmar Stingers vs. Minot Hot Tots</title>
-            <desc lang="en">Willmar Stingers vs. Minot Hot Tots - Baseball</desc>
+         <programme start="20250529120000 -0500" stop="20250529140000 -0500" channel="ESPN+ 9">
+            <title lang="en">#6 Texas vs. #3 Florida (Game #1)</title>
+            <desc lang="en">#6 Texas vs. #3 Florida (Game #1) - Softball</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250528210000 -0500" stop="20250528230000 -0500" channel="ESPN+ 10">
-            <title lang="en">NJCAA Baseball Tournament (Winners Bracket)</title>
-            <desc lang="en">NJCAA Baseball Tournament (Winners Bracket) - Baseball</desc>
+         <programme start="20250529120000 -0500" stop="20250529140000 -0500" channel="ESPN+ 10">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250528220000 -0500" stop="20250528240000 -0500" channel="ESPN+ 11">
-            <title lang="en">Monterey Bay FC vs. Spokane Velocity</title>
-            <desc lang="en">Monterey Bay FC vs. Spokane Velocity - Soccer</desc>
+         <programme start="20250529140000 -0500" stop="20250529160000 -0500" channel="ESPN+ 11">
+            <title lang="en">the Memorial Tournament presented by Workday: Aberg Featured Group (First Round) ( Aberg Featured Group)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Aberg Featured Group (First Round) ( Aberg Featured Group) - Golf</desc>
+         </programme>
+   <channel id="ESPN+ 12">
+     <display-name lang="en">ESPN+ 12</display-name>
+   </channel>
+         <programme start="20250529140000 -0500" stop="20250529160000 -0500" channel="ESPN+ 12">
+            <title lang="en">the Memorial Tournament presented by Workday: Featured Hole #16 (First Round) (Featured Hole #16)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Featured Hole #16 (First Round) (Featured Hole #16) - Golf</desc>
+         </programme>
+   <channel id="ESPN+ 13">
+     <display-name lang="en">ESPN+ 13</display-name>
+   </channel>
+         <programme start="20250529140000 -0500" stop="20250529160000 -0500" channel="ESPN+ 13">
+            <title lang="en">the Memorial Tournament presented by Workday: Spieth Featured Group (First Round)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Spieth Featured Group (First Round) - Golf</desc>
+         </programme>
+   <channel id="ESPN+ 14">
+     <display-name lang="en">ESPN+ 14</display-name>
+   </channel>
+         <programme start="20250529140000 -0500" stop="20250529160000 -0500" channel="ESPN+ 14">
+            <title lang="en">the Memorial Tournament presented by Workday: Featured Hole #15 (First Round) (Featured Hole #15)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Featured Hole #15 (First Round) (Featured Hole #15) - Golf</desc>
+         </programme>
+   <channel id="ESPN+ 15">
+     <display-name lang="en">ESPN+ 15</display-name>
+   </channel>
+         <programme start="20250529143000 -0500" stop="20250529163000 -0500" channel="ESPN+ 15">
+            <title lang="en">#7 Tennessee vs. #2 Oklahoma (Game #2)</title>
+            <desc lang="en">#7 Tennessee vs. #2 Oklahoma (Game #2) - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 16">
+     <display-name lang="en">ESPN+ 16</display-name>
+   </channel>
+         <programme start="20250529150000 -0500" stop="20250529170000 -0500" channel="ESPN+ 16">
+            <title lang="en">Walker&#x27;s Cay Open</title>
+            <desc lang="en">Walker&#x27;s Cay Open - Fishing</desc>
+         </programme>
+   <channel id="ESPN+ 17">
+     <display-name lang="en">ESPN+ 17</display-name>
+   </channel>
+         <programme start="20250529170000 -0500" stop="20250529190000 -0500" channel="ESPN+ 17">
+            <title lang="en">NJCAA Baseball Tournament (Elimination Game)</title>
+            <desc lang="en">NJCAA Baseball Tournament (Elimination Game) - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 18">
+     <display-name lang="en">ESPN+ 18</display-name>
+   </channel>
+         <programme start="20250529173000 -0500" stop="20250529193000 -0500" channel="ESPN+ 18">
+            <title lang="en">Thu, 5/29 - ESPN FC</title>
+            <desc lang="en">Thu, 5/29 - ESPN FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 19">
+     <display-name lang="en">ESPN+ 19</display-name>
+   </channel>
+         <programme start="20250529180000 -0500" stop="20250529200000 -0500" channel="ESPN+ 19">
+            <title lang="en">2025 NCAA Division I Outdoor Track and Field East First Round (East First Round)</title>
+            <desc lang="en">2025 NCAA Division I Outdoor Track and Field East First Round (East First Round) - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 20">
+     <display-name lang="en">ESPN+ 20</display-name>
+   </channel>
+         <programme start="20250529190000 -0500" stop="20250529210000 -0500" channel="ESPN+ 20">
+            <title lang="en">Ole Miss vs. #12 Texas Tech (Game #3)</title>
+            <desc lang="en">Ole Miss vs. #12 Texas Tech (Game #3) - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 21">
+     <display-name lang="en">ESPN+ 21</display-name>
+   </channel>
+         <programme start="20250529190000 -0500" stop="20250529210000 -0500" channel="ESPN+ 21">
+            <title lang="en">2025 NCAA Division I Outdoor Track and Field West First Round (West First Round)</title>
+            <desc lang="en">2025 NCAA Division I Outdoor Track and Field West First Round (West First Round) - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 22">
+     <display-name lang="en">ESPN+ 22</display-name>
+   </channel>
+         <programme start="20250529193000 -0500" stop="20250529213000 -0500" channel="ESPN+ 22">
+            <title lang="en">The Point Presented by GoDaddy</title>
+            <desc lang="en">The Point Presented by GoDaddy - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 23">
+     <display-name lang="en">ESPN+ 23</display-name>
+   </channel>
+         <programme start="20250529193500 -0500" stop="20250529213500 -0500" channel="ESPN+ 23">
+            <title lang="en">St. Cloud Rox vs. Bismarck Larks</title>
+            <desc lang="en">St. Cloud Rox vs. Bismarck Larks - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 24">
+     <display-name lang="en">ESPN+ 24</display-name>
+   </channel>
+         <programme start="20250529193500 -0500" stop="20250529213500 -0500" channel="ESPN+ 24">
+            <title lang="en">Rockford Rivets vs. Green Bay Rockers</title>
+            <desc lang="en">Rockford Rivets vs. Green Bay Rockers - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 25">
+     <display-name lang="en">ESPN+ 25</display-name>
+   </channel>
+         <programme start="20250529200000 -0500" stop="20250529220000 -0500" channel="ESPN+ 25">
+            <title lang="en">Thu, 5/29 - State of Boxing</title>
+            <desc lang="en">Thu, 5/29 - State of Boxing - Boxing</desc>
+         </programme>
+   <channel id="ESPN+ 26">
+     <display-name lang="en">ESPN+ 26</display-name>
+   </channel>
+         <programme start="20250529200000 -0500" stop="20250529220000 -0500" channel="ESPN+ 26">
+            <title lang="en">En Español-Edmonton Oilers vs. Dallas Stars (Western Conference Final Game 5 (If Nec)</title>
+            <desc lang="en">En Español-Edmonton Oilers vs. Dallas Stars (Western Conference Final Game 5 (If Nec) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 27">
+     <display-name lang="en">ESPN+ 27</display-name>
+   </channel>
+         <programme start="20250529200000 -0500" stop="20250529220000 -0500" channel="ESPN+ 27">
+            <title lang="en">Edmonton Oilers vs. Dallas Stars (Western Conference Final Game 5)</title>
+            <desc lang="en">Edmonton Oilers vs. Dallas Stars (Western Conference Final Game 5) - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 28">
+     <display-name lang="en">ESPN+ 28</display-name>
+   </channel>
+         <programme start="20250529203000 -0500" stop="20250529223000 -0500" channel="ESPN+ 28">
+            <title lang="en">Thu, 5/29 - Futbol Americas</title>
+            <desc lang="en">Thu, 5/29 - Futbol Americas - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 29">
+     <display-name lang="en">ESPN+ 29</display-name>
+   </channel>
+         <programme start="20250529210000 -0500" stop="20250529230000 -0500" channel="ESPN+ 29">
+            <title lang="en">NJCAA Baseball Tournament (Winners Bracket)</title>
+            <desc lang="en">NJCAA Baseball Tournament (Winners Bracket) - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20250529213000 -0500" stop="20250529233000 -0500" channel="ESPN+ 30">
+            <title lang="en">#16 Oregon vs. #9 UCLA (Game #4)</title>
+            <desc lang="en">#16 Oregon vs. #9 UCLA (Game #4) - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 31">
+     <display-name lang="en">ESPN+ 31</display-name>
+   </channel>
+         <programme start="20250529230000 -0500" stop="20250529250000 -0500" channel="ESPN+ 31">
+            <title lang="en">Thu, 5/29 - In the Crease</title>
+            <desc lang="en">Thu, 5/29 - In the Crease - Hockey</desc>
          </programme>
 </tv>
