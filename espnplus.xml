@@ -3,624 +3,561 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250531040000 -0500" stop="20250531060000 -0500" channel="ESPN+ 1">
-            <title lang="en">En Español-Formula 3 España Sprint Race</title>
-            <desc lang="en">En Español-Formula 3 España Sprint Race - Motor Sports</desc>
+         <programme start="20250601000000 -0500" stop="20250601020000 -0500" channel="ESPN+ 1">
+            <title lang="en">UFC Fight Night Post Show: Blanchfield vs. Barber</title>
+            <desc lang="en">UFC Fight Night Post Show: Blanchfield vs. Barber - MMA</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250531040500 -0500" stop="20250531060500 -0500" channel="ESPN+ 2">
-            <title lang="en">Formula 3 Spain Sprint Race</title>
-            <desc lang="en">Formula 3 Spain Sprint Race - Motor Sports</desc>
+         <programme start="20250601022500 -0500" stop="20250601042500 -0500" channel="ESPN+ 2">
+            <title lang="en">En Español-Formula 3 España Feature Race</title>
+            <desc lang="en">En Español-Formula 3 España Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250531052000 -0500" stop="20250531072000 -0500" channel="ESPN+ 3">
-            <title lang="en">Porsche Supercup Spain Qualifying</title>
-            <desc lang="en">Porsche Supercup Spain Qualifying - Motor Sports</desc>
+         <programme start="20250601023000 -0500" stop="20250601043000 -0500" channel="ESPN+ 3">
+            <title lang="en">Formula 3 Spain Feature Race</title>
+            <desc lang="en">Formula 3 Spain Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250531080500 -0500" stop="20250531100500 -0500" channel="ESPN+ 4">
-            <title lang="en">En Español-Formula 2 España Sprint Race</title>
-            <desc lang="en">En Español-Formula 2 España Sprint Race - Motor Sports</desc>
+         <programme start="20250601035000 -0500" stop="20250601055000 -0500" channel="ESPN+ 4">
+            <title lang="en">En Español-Formula 2 España Feature Race</title>
+            <desc lang="en">En Español-Formula 2 España Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250531081500 -0500" stop="20250531101500 -0500" channel="ESPN+ 5">
-            <title lang="en">Formula 2 Spain Sprint Race</title>
-            <desc lang="en">Formula 2 Spain Sprint Race - Motor Sports</desc>
+         <programme start="20250601040000 -0500" stop="20250601060000 -0500" channel="ESPN+ 5">
+            <title lang="en">Formula 2 Spain Feature Race</title>
+            <desc lang="en">Formula 2 Spain Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250531100000 -0500" stop="20250531120000 -0500" channel="ESPN+ 6">
-            <title lang="en">the Memorial Tournament presented by Workday: Main Feed (Third Round)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Main Feed (Third Round) - Golf</desc>
+         <programme start="20250601054000 -0500" stop="20250601074000 -0500" channel="ESPN+ 6">
+            <title lang="en">En Español-Porsche Supercup España Race</title>
+            <desc lang="en">En Español-Porsche Supercup España Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250531100000 -0500" stop="20250531120000 -0500" channel="ESPN+ 7">
-            <title lang="en">the Memorial Tournament presented by Workday: Clark &amp; Homa Featured Groups (Third Round) (Featured Groups)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Clark &amp; Homa Featured Groups (Third Round) (Featured Groups) - Golf</desc>
+         <programme start="20250601054500 -0500" stop="20250601074500 -0500" channel="ESPN+ 7">
+            <title lang="en">Porsche Supercup Spain Race</title>
+            <desc lang="en">Porsche Supercup Spain Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250531101500 -0500" stop="20250531121500 -0500" channel="ESPN+ 8">
-            <title lang="en">the Memorial Tournament presented by Workday: Thomas Marquee Group (Third Round) (Marquee Group)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Thomas Marquee Group (Third Round) (Marquee Group) - Golf</desc>
+         <programme start="20250601084500 -0500" stop="20250601104500 -0500" channel="ESPN+ 8">
+            <title lang="en">the Memorial Tournament presented by Workday: Main Feed (Final Round)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Main Feed (Final Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250531104500 -0500" stop="20250531124500 -0500" channel="ESPN+ 9">
-            <title lang="en">the Memorial Tournament presented by Workday: Featured Holes #4, #12, #15 &amp; #16 (Third Round) (Featured Hole)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Featured Holes #4, #12, #15 &amp; #16 (Third Round) (Featured Hole) - Golf</desc>
+         <programme start="20250601085500 -0500" stop="20250601105500 -0500" channel="ESPN+ 9">
+            <title lang="en">F1: Mixed On-Board Camera</title>
+            <desc lang="en">F1: Mixed On-Board Camera - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250531110000 -0500" stop="20250531130000 -0500" channel="ESPN+ 10">
-            <title lang="en">ACL Signature #4 2025 (Pro Doubles)</title>
-            <desc lang="en">ACL Signature #4 2025 (Pro Doubles) - Cornhole</desc>
+         <programme start="20250601085500 -0500" stop="20250601105500 -0500" channel="ESPN+ 10">
+            <title lang="en">F1: Driver Tracker</title>
+            <desc lang="en">F1: Driver Tracker - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 11">
-            <title lang="en">NCAA Baseball Regionals (Site 7 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 7 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601090000 -0500" stop="20250601110000 -0500" channel="ESPN+ 11">
+            <title lang="en">the Memorial Tournament presented by Workday: Clark Marquee Group (Final Round) (Marquee Group)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Clark Marquee Group (Final Round) (Marquee Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 12">
-            <title lang="en">NCAA Baseball Regionals (Site 13 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 13 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601090000 -0500" stop="20250601110000 -0500" channel="ESPN+ 12">
+            <title lang="en">Borussia Dortmund vs. FC Schalke 04 (Final)</title>
+            <desc lang="en">Borussia Dortmund vs. FC Schalke 04 (Final) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 13">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601093000 -0500" stop="20250601113000 -0500" channel="ESPN+ 13">
+            <title lang="en">the Memorial Tournament presented by Workday: Featured Holes #4, #12, #15 &amp; #16 (Final Round) (Featured Hole)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Featured Holes #4, #12, #15 &amp; #16 (Final Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 14">
-            <title lang="en">NCAA Baseball Regionals (Site 9 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 9 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601101500 -0500" stop="20250601121500 -0500" channel="ESPN+ 14">
+            <title lang="en">the Memorial Tournament presented by Workday: Homa &amp; Thomas Featured Groups (Final Round) (Featured Groups)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Homa &amp; Thomas Featured Groups (Final Round) (Featured Groups) - Golf</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 15">
-            <title lang="en">NCAA Baseball Regionals (Site 14 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 14 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601110000 -0500" stop="20250601130000 -0500" channel="ESPN+ 15">
+            <title lang="en">ESPN BET at the Memorial Tournament presented by Workday (Final Round)</title>
+            <desc lang="en">ESPN BET at the Memorial Tournament presented by Workday (Final Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 16">
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 16">
             <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
             <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 17">
-            <title lang="en">NCAA Baseball Regionals (Site 11 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 11 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 17">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 11 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 11 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 18">
-            <title lang="en">NCAA Baseball Regionals (Site 5 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 5 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 18">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 9 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 9 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 19">
-            <title lang="en">Squeeze Play Presented by Capital One</title>
-            <desc lang="en">Squeeze Play Presented by Capital One - Baseball</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 19">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 5 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 5 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250531120000 -0500" stop="20250531140000 -0500" channel="ESPN+ 20">
-            <title lang="en">ESPN BET at the Memorial Tournament presented by Workday (Third Round)</title>
-            <desc lang="en">ESPN BET at the Memorial Tournament presented by Workday (Third Round) - Golf</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 20">
+            <title lang="en">Squeeze Play Presented by Capital One</title>
+            <desc lang="en">Squeeze Play Presented by Capital One - Baseball</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250531130000 -0500" stop="20250531150000 -0500" channel="ESPN+ 21">
-            <title lang="en">Maryland Whipsnakes vs. Utah Archers</title>
-            <desc lang="en">Maryland Whipsnakes vs. Utah Archers - Lacrosse</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 21">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 7 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 7 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 22">
-            <title lang="en">NCAA Baseball Regionals (Site 6 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 6 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 22">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 14 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 14 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 23">
-            <title lang="en">NCAA Baseball Regionals (Site 10 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 10 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 23">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 13 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 13 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 24">
-            <title lang="en">Walker&#x27;s Cay Open</title>
-            <desc lang="en">Walker&#x27;s Cay Open - Fishing</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 24">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 25">
-            <title lang="en">the Memorial Tournament presented by Workday: Schauffele Featured Group (Third Round)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Schauffele Featured Group (Third Round) - Golf</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 25">
+            <title lang="en">Arlington Renegades vs. San Antonio Brahmas</title>
+            <desc lang="en">Arlington Renegades vs. San Antonio Brahmas - Football</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 26">
-            <title lang="en">the Memorial Tournament presented by Workday: Morikawa Featured Group (Third Round) (Featured Group 1)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Morikawa Featured Group (Third Round) (Featured Group 1) - Golf</desc>
+         <programme start="20250601120000 -0500" stop="20250601140000 -0500" channel="ESPN+ 26">
+            <title lang="en">En Español-Arlington Renegades vs. San Antonio Brahmas</title>
+            <desc lang="en">En Español-Arlington Renegades vs. San Antonio Brahmas - Football</desc>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 27">
-            <title lang="en">the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) (Featured Hole)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) (Featured Hole) - Golf</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 27">
+            <title lang="en">Oviedo vs. Cadiz (Spanish Segunda Division)</title>
+            <desc lang="en">Oviedo vs. Cadiz (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20250531140000 -0500" stop="20250531160000 -0500" channel="ESPN+ 28">
-            <title lang="en">the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) (Featured Hole)</title>
-            <desc lang="en">the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) (Featured Hole) - Golf</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 28">
+            <title lang="en">En Español-Levante vs. SD Eibar (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Levante vs. SD Eibar (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 29">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 29">
+            <title lang="en">Cartagena vs. Mirandés (Spanish Segunda Division)</title>
+            <desc lang="en">Cartagena vs. Mirandés (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 30">
      <display-name lang="en">ESPN+ 30</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 30">
-            <title lang="en">NCAA Baseball Regionals (Site 16 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 16 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 30">
+            <title lang="en">Deportivo La Coruña vs. Elche (Spanish Segunda Division)</title>
+            <desc lang="en">Deportivo La Coruña vs. Elche (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 31">
      <display-name lang="en">ESPN+ 31</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 31">
-            <title lang="en">NCAA Baseball Regionals (Site 8 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 8 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 31">
+            <title lang="en">En Español-Almería vs. Tenerife (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Almería vs. Tenerife (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 32">
      <display-name lang="en">ESPN+ 32</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 32">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 32">
+            <title lang="en">Levante vs. SD Eibar (Spanish Segunda Division)</title>
+            <desc lang="en">Levante vs. SD Eibar (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 33">
      <display-name lang="en">ESPN+ 33</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 33">
-            <title lang="en">NCAA Baseball Regionals (Site 3 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 3 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 33">
+            <title lang="en">En Español-Oviedo vs. Cadiz (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Oviedo vs. Cadiz (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 34">
      <display-name lang="en">ESPN+ 34</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 34">
-            <title lang="en">NCAA Baseball Regionals (Site 15 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 15 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 34">
+            <title lang="en">En Español-Racing Santander vs. Granada (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Racing Santander vs. Granada (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 35">
      <display-name lang="en">ESPN+ 35</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 35">
-            <title lang="en">NCAA Baseball Regionals (Site 4 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 4 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 35">
+            <title lang="en">En Español-Deportivo La Coruña vs. Elche (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Deportivo La Coruña vs. Elche (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 36">
      <display-name lang="en">ESPN+ 36</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 36">
-            <title lang="en">NCAA Baseball Regionals (Site 1 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 1 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 36">
+            <title lang="en">Almería vs. Tenerife (Spanish Segunda Division)</title>
+            <desc lang="en">Almería vs. Tenerife (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 37">
      <display-name lang="en">ESPN+ 37</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 37">
-            <title lang="en">NCAA Baseball Regionals (Site 2 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 2 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 37">
+            <title lang="en">En Español-Cartagena vs. Mirandés (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Cartagena vs. Mirandés (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 38">
      <display-name lang="en">ESPN+ 38</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 38">
-            <title lang="en">NCAA Baseball Regionals (Site 12 / Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 12 / Game 3) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601122000 -0500" stop="20250601142000 -0500" channel="ESPN+ 38">
+            <title lang="en">Racing Santander vs. Granada (Spanish Segunda Division)</title>
+            <desc lang="en">Racing Santander vs. Granada (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 39">
      <display-name lang="en">ESPN+ 39</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 39">
-            <title lang="en">Houston Roughnecks vs. Michigan Panthers</title>
-            <desc lang="en">Houston Roughnecks vs. Michigan Panthers - Football</desc>
+         <programme start="20250601122500 -0500" stop="20250601142500 -0500" channel="ESPN+ 39">
+            <title lang="en">En Español-LALIGA Hypermotion Jornada 42 Multigoal Show (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-LALIGA Hypermotion Jornada 42 Multigoal Show (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 40">
      <display-name lang="en">ESPN+ 40</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 40">
-            <title lang="en">En Español-Houston Roughnecks vs. Michigan Panthers</title>
-            <desc lang="en">En Español-Houston Roughnecks vs. Michigan Panthers - Football</desc>
+         <programme start="20250601122500 -0500" stop="20250601142500 -0500" channel="ESPN+ 40">
+            <title lang="en">LALIGA Hypermotion Round 42 Multigoal Show (Spanish Segunda Division)</title>
+            <desc lang="en">LALIGA Hypermotion Round 42 Multigoal Show (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 41">
      <display-name lang="en">ESPN+ 41</display-name>
    </channel>
-         <programme start="20250531150000 -0500" stop="20250531170000 -0500" channel="ESPN+ 41">
-            <title lang="en">#2 Oklahoma vs. #6 Texas (Game #7)</title>
-            <desc lang="en">#2 Oklahoma vs. #6 Texas (Game #7) - Softball</desc>
+         <programme start="20250601130000 -0500" stop="20250601150000 -0500" channel="ESPN+ 41">
+            <title lang="en">the Memorial Tournament presented by Workday: Featured Hole #16 (Final Round) (Featured Hole)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Featured Hole #16 (Final Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 42">
      <display-name lang="en">ESPN+ 42</display-name>
    </channel>
-         <programme start="20250531160000 -0500" stop="20250531180000 -0500" channel="ESPN+ 42">
-            <title lang="en">Westchester SC vs. Hartford Athletic</title>
-            <desc lang="en">Westchester SC vs. Hartford Athletic - Soccer</desc>
+         <programme start="20250601130000 -0500" stop="20250601150000 -0500" channel="ESPN+ 42">
+            <title lang="en">the Memorial Tournament presented by Workday: Featured Hole #15 (Final Round) (Featured Hole)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Featured Hole #15 (Final Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 43">
      <display-name lang="en">ESPN+ 43</display-name>
    </channel>
-         <programme start="20250531160500 -0500" stop="20250531180500 -0500" channel="ESPN+ 43">
-            <title lang="en">Wausau Woodchucks vs. Green Bay Rockers</title>
-            <desc lang="en">Wausau Woodchucks vs. Green Bay Rockers - Baseball</desc>
+         <programme start="20250601130000 -0500" stop="20250601150000 -0500" channel="ESPN+ 43">
+            <title lang="en">the Memorial Tournament presented by Workday: Thomas Featured Group  (Final Round) (Featured Group 1)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Thomas Featured Group  (Final Round) (Featured Group 1) - Golf</desc>
          </programme>
    <channel id="ESPN+ 44">
      <display-name lang="en">ESPN+ 44</display-name>
    </channel>
-         <programme start="20250531170000 -0500" stop="20250531190000 -0500" channel="ESPN+ 44">
-            <title lang="en">ACL Signature #4 2025 (Pro Singles &amp; Doubles Final)</title>
-            <desc lang="en">ACL Signature #4 2025 (Pro Singles &amp; Doubles Final) - Cornhole</desc>
+         <programme start="20250601130000 -0500" stop="20250601150000 -0500" channel="ESPN+ 44">
+            <title lang="en">the Memorial Tournament presented by Workday: Schauffele Featured Group  (Final Round)</title>
+            <desc lang="en">the Memorial Tournament presented by Workday: Schauffele Featured Group  (Final Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 45">
      <display-name lang="en">ESPN+ 45</display-name>
    </channel>
-         <programme start="20250531170000 -0500" stop="20250531190000 -0500" channel="ESPN+ 45">
-            <title lang="en">Sat, 5/31 - ESPN FC</title>
-            <desc lang="en">Sat, 5/31 - ESPN FC - Soccer</desc>
+         <programme start="20250601140000 -0500" stop="20250601160000 -0500" channel="ESPN+ 45">
+            <title lang="en">New England Free Jacks vs. Seattle Seawolves</title>
+            <desc lang="en">New England Free Jacks vs. Seattle Seawolves - Rugby</desc>
          </programme>
    <channel id="ESPN+ 46">
      <display-name lang="en">ESPN+ 46</display-name>
    </channel>
-         <programme start="20250531170000 -0500" stop="20250531190000 -0500" channel="ESPN+ 46">
-            <title lang="en">Portland Hearts of Pine vs. Detroit City FC</title>
-            <desc lang="en">Portland Hearts of Pine vs. Detroit City FC - Soccer</desc>
+         <programme start="20250601143500 -0500" stop="20250601163500 -0500" channel="ESPN+ 46">
+            <title lang="en">Rockford Rivets vs. Kenosha Kingfish</title>
+            <desc lang="en">Rockford Rivets vs. Kenosha Kingfish - Baseball</desc>
          </programme>
    <channel id="ESPN+ 47">
      <display-name lang="en">ESPN+ 47</display-name>
    </channel>
-         <programme start="20250531170000 -0500" stop="20250531190000 -0500" channel="ESPN+ 47">
-            <title lang="en">2025 NCAA Division I Outdoor Track and Field East First Round (East First Round)</title>
-            <desc lang="en">2025 NCAA Division I Outdoor Track and Field East First Round (East First Round) - No Sport</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 47">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 48">
      <display-name lang="en">ESPN+ 48</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 48">
-            <title lang="en">NCAA Baseball Regionals (Site 7 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 7 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 48">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 10 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 10 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 49">
      <display-name lang="en">ESPN+ 49</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 49">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 49">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 3 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 3 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 50">
      <display-name lang="en">ESPN+ 50</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 50">
-            <title lang="en">NCAA Baseball Regionals (Site 9 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 9 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 50">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 2 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 2 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 51">
      <display-name lang="en">ESPN+ 51</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 51">
-            <title lang="en">NCAA Baseball Regionals (Site 10 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 10 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 51">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 52">
      <display-name lang="en">ESPN+ 52</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 52">
-            <title lang="en">NCAA Baseball Regionals (Site 13 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 13 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 52">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 1 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 1 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 53">
      <display-name lang="en">ESPN+ 53</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 53">
-            <title lang="en">NCAA Baseball Regionals (Site 5 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 5 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 53">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 4 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 4 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 54">
      <display-name lang="en">ESPN+ 54</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 54">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 54">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 6 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 6 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 55">
      <display-name lang="en">ESPN+ 55</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 55">
-            <title lang="en">NCAA Baseball Regionals (Site 11 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 11 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 55">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 16 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 16 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 56">
      <display-name lang="en">ESPN+ 56</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 56">
-            <title lang="en">NCAA Baseball Regionals (Site 14 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 14 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601150000 -0500" stop="20250601170000 -0500" channel="ESPN+ 56">
+            <title lang="en">#9 UCLA vs. #7 Tennessee (Game #9)</title>
+            <desc lang="en">#9 UCLA vs. #7 Tennessee (Game #9) - No Sport</desc>
          </programme>
    <channel id="ESPN+ 57">
      <display-name lang="en">ESPN+ 57</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 57">
-            <title lang="en">NCAA Baseball Regionals (Site 6 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 6 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601170000 -0500" stop="20250601190000 -0500" channel="ESPN+ 57">
+            <title lang="en">Sun, 6/1 - ESPN FC</title>
+            <desc lang="en">Sun, 6/1 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 58">
      <display-name lang="en">ESPN+ 58</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 58">
-            <title lang="en">Old Glory DC vs. RFC Los Angeles</title>
-            <desc lang="en">Old Glory DC vs. RFC Los Angeles - Rugby</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 58">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 12 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 12 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 59">
      <display-name lang="en">ESPN+ 59</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 59">
-            <title lang="en">Loudoun United FC vs. Louisville City FC</title>
-            <desc lang="en">Loudoun United FC vs. Louisville City FC - Soccer</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 59">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 14 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 14 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 60">
      <display-name lang="en">ESPN+ 60</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 60">
-            <title lang="en">Charleston Battery vs. Greenville Triumph SC</title>
-            <desc lang="en">Charleston Battery vs. Greenville Triumph SC - Soccer</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 60">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 13 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 13 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 61">
      <display-name lang="en">ESPN+ 61</display-name>
    </channel>
-         <programme start="20250531180000 -0500" stop="20250531200000 -0500" channel="ESPN+ 61">
-            <title lang="en">2025 NCAA Division I Outdoor Track and Field West First Round (West First Round)</title>
-            <desc lang="en">2025 NCAA Division I Outdoor Track and Field West First Round (West First Round) - No Sport</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 61">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 8 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 8 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 62">
      <display-name lang="en">ESPN+ 62</display-name>
    </channel>
-         <programme start="20250531183000 -0500" stop="20250531203000 -0500" channel="ESPN+ 62">
-            <title lang="en">En Español - UFC Fight Night: Blanchfield vs. Barber</title>
-            <desc lang="en">En Español - UFC Fight Night: Blanchfield vs. Barber - MMA</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 62">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 11 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 11 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 63">
      <display-name lang="en">ESPN+ 63</display-name>
    </channel>
-         <programme start="20250531183000 -0500" stop="20250531203000 -0500" channel="ESPN+ 63">
-            <title lang="en">UFC Fight Night: Blanchfield vs. Barber</title>
-            <desc lang="en">UFC Fight Night: Blanchfield vs. Barber - MMA</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 63">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 7 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 7 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 64">
      <display-name lang="en">ESPN+ 64</display-name>
    </channel>
-         <programme start="20250531183500 -0500" stop="20250531203500 -0500" channel="ESPN+ 64">
-            <title lang="en">Eau Claire Express vs. Duluth Huskies</title>
-            <desc lang="en">Eau Claire Express vs. Duluth Huskies - Baseball</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 64">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 15 / Game 5) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 15 / Game 5) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 65">
      <display-name lang="en">ESPN+ 65</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 65">
-            <title lang="en">Boston Cannons vs. New York Atlas</title>
-            <desc lang="en">Boston Cannons vs. New York Atlas - Lacrosse</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 65">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 9 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 9 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 66">
      <display-name lang="en">ESPN+ 66</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 66">
-            <title lang="en">Chicago Hounds vs. NOLA Gold</title>
-            <desc lang="en">Chicago Hounds vs. NOLA Gold - Rugby</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 66">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 67">
      <display-name lang="en">ESPN+ 67</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 67">
-            <title lang="en">Pittsburgh Riverhounds SC vs. Rhode Island FC</title>
-            <desc lang="en">Pittsburgh Riverhounds SC vs. Rhode Island FC - Soccer</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 67">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 68">
      <display-name lang="en">ESPN+ 68</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 68">
-            <title lang="en">Chattanooga Red Wolves SC vs. Forward Madison</title>
-            <desc lang="en">Chattanooga Red Wolves SC vs. Forward Madison - Soccer</desc>
+         <programme start="20250601180000 -0500" stop="20250601200000 -0500" channel="ESPN+ 68">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 5 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 5 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 69">
      <display-name lang="en">ESPN+ 69</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 69">
-            <title lang="en">Charlotte Independence vs. Lexington Sporting Club</title>
-            <desc lang="en">Charlotte Independence vs. Lexington Sporting Club - Soccer</desc>
+         <programme start="20250601180500 -0500" stop="20250601200500 -0500" channel="ESPN+ 69">
+            <title lang="en">Thunder Bay Border Cats vs. Willmar Stingers</title>
+            <desc lang="en">Thunder Bay Border Cats vs. Willmar Stingers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 70">
      <display-name lang="en">ESPN+ 70</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 70">
-            <title lang="en">Richmond Kickers vs. North Carolina FC</title>
-            <desc lang="en">Richmond Kickers vs. North Carolina FC - Soccer</desc>
+         <programme start="20250601190000 -0500" stop="20250601210000 -0500" channel="ESPN+ 70">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 10 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 10 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 71">
      <display-name lang="en">ESPN+ 71</display-name>
    </channel>
-         <programme start="20250531190000 -0500" stop="20250531210000 -0500" channel="ESPN+ 71">
-            <title lang="en">#12 Texas Tech vs. #9 UCLA (Game #8)</title>
-            <desc lang="en">#12 Texas Tech vs. #9 UCLA (Game #8) - Softball</desc>
+         <programme start="20250601190000 -0500" stop="20250601210000 -0500" channel="ESPN+ 71">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 2 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 2 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 72">
      <display-name lang="en">ESPN+ 72</display-name>
    </channel>
-         <programme start="20250531193000 -0500" stop="20250531213000 -0500" channel="ESPN+ 72">
-            <title lang="en">Tampa Bay Rowdies vs. South Georgia Tormenta FC</title>
-            <desc lang="en">Tampa Bay Rowdies vs. South Georgia Tormenta FC - Soccer</desc>
+         <programme start="20250601190000 -0500" stop="20250601210000 -0500" channel="ESPN+ 72">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 16 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 16 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 73">
      <display-name lang="en">ESPN+ 73</display-name>
    </channel>
-         <programme start="20250531193000 -0500" stop="20250531213000 -0500" channel="ESPN+ 73">
-            <title lang="en">Miami FC vs. FC Naples</title>
-            <desc lang="en">Miami FC vs. FC Naples - Soccer</desc>
+         <programme start="20250601190000 -0500" stop="20250601210000 -0500" channel="ESPN+ 73">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 4 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 4 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 74">
      <display-name lang="en">ESPN+ 74</display-name>
    </channel>
-         <programme start="20250531203000 -0500" stop="20250531223000 -0500" channel="ESPN+ 74">
-            <title lang="en">FC Tulsa vs. Birmingham Legion FC</title>
-            <desc lang="en">FC Tulsa vs. Birmingham Legion FC - Soccer</desc>
+         <programme start="20250601190000 -0500" stop="20250601210000 -0500" channel="ESPN+ 74">
+            <title lang="en">#16 Oregon vs. #2 Oklahoma (Game #10)</title>
+            <desc lang="en">#16 Oregon vs. #2 Oklahoma (Game #10) - No Sport</desc>
          </programme>
    <channel id="ESPN+ 75">
      <display-name lang="en">ESPN+ 75</display-name>
    </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 75">
-            <title lang="en">NCAA Baseball Regionals (Site 1 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 1 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601210000 -0500" stop="20250601230000 -0500" channel="ESPN+ 75">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 3 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 3 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 76">
      <display-name lang="en">ESPN+ 76</display-name>
    </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 76">
-            <title lang="en">NCAA Baseball Regionals (Site 3 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 3 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601210000 -0500" stop="20250601230000 -0500" channel="ESPN+ 76">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 1 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 1 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 77">
      <display-name lang="en">ESPN+ 77</display-name>
    </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 77">
-            <title lang="en">NCAA Baseball Regionals (Site 15 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 15 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601210000 -0500" stop="20250601230000 -0500" channel="ESPN+ 77">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 6 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 6 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 78">
      <display-name lang="en">ESPN+ 78</display-name>
    </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 78">
-            <title lang="en">NCAA Baseball Regionals (Site 8 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 8 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601220000 -0500" stop="20250601240000 -0500" channel="ESPN+ 78">
+            <title lang="en">NCAA Baseball Regionals (Site 8 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals (Site 8 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 79">
      <display-name lang="en">ESPN+ 79</display-name>
    </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 79">
-            <title lang="en">NCAA Baseball Regionals (Site 16 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 16 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250601220000 -0500" stop="20250601240000 -0500" channel="ESPN+ 79">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 15 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 15 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 80">
      <display-name lang="en">ESPN+ 80</display-name>
    </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 80">
-            <title lang="en">NCAA Baseball Regionals (Site 4 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 4 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 81">
-     <display-name lang="en">ESPN+ 81</display-name>
-   </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 81">
-            <title lang="en">NCAA Baseball Regionals (Site 12 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 12 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 82">
-     <display-name lang="en">ESPN+ 82</display-name>
-   </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 82">
-            <title lang="en">NCAA Baseball Regionals (Site 2 / Game 4) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals (Site 2 / Game 4) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 83">
-     <display-name lang="en">ESPN+ 83</display-name>
-   </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 83">
-            <title lang="en">NJCAA Baseball Tournament (Championship)</title>
-            <desc lang="en">NJCAA Baseball Tournament (Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 84">
-     <display-name lang="en">ESPN+ 84</display-name>
-   </channel>
-         <programme start="20250531210000 -0500" stop="20250531230000 -0500" channel="ESPN+ 84">
-            <title lang="en">El Paso Locomotive FC vs. Colorado Springs Switchbacks FC</title>
-            <desc lang="en">El Paso Locomotive FC vs. Colorado Springs Switchbacks FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 85">
-     <display-name lang="en">ESPN+ 85</display-name>
-   </channel>
-         <programme start="20250531220000 -0500" stop="20250531240000 -0500" channel="ESPN+ 85">
-            <title lang="en">Firefighters vs. Bananas</title>
-            <desc lang="en">Firefighters vs. Bananas - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 86">
-     <display-name lang="en">ESPN+ 86</display-name>
-   </channel>
-         <programme start="20250531220000 -0500" stop="20250531240000 -0500" channel="ESPN+ 86">
-            <title lang="en">Sacramento Republic FC vs. Las Vegas Lights FC</title>
-            <desc lang="en">Sacramento Republic FC vs. Las Vegas Lights FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 87">
-     <display-name lang="en">ESPN+ 87</display-name>
-   </channel>
-         <programme start="20250531220000 -0500" stop="20250531240000 -0500" channel="ESPN+ 87">
-            <title lang="en">Monterey Bay FC vs. Orange County SC</title>
-            <desc lang="en">Monterey Bay FC vs. Orange County SC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 88">
-     <display-name lang="en">ESPN+ 88</display-name>
-   </channel>
-         <programme start="20250531223000 -0500" stop="20250531243000 -0500" channel="ESPN+ 88">
-            <title lang="en">Phoenix Rising FC vs. New Mexico United</title>
-            <desc lang="en">Phoenix Rising FC vs. New Mexico United - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 89">
-     <display-name lang="en">ESPN+ 89</display-name>
-   </channel>
-         <programme start="20250531223000 -0500" stop="20250531243000 -0500" channel="ESPN+ 89">
-            <title lang="en">AV Alta FC vs. Oakland Roots SC</title>
-            <desc lang="en">AV Alta FC vs. Oakland Roots SC - Soccer</desc>
+         <programme start="20250601220000 -0500" stop="20250601240000 -0500" channel="ESPN+ 80">
+            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 12 / Game 6) (NCAA Baseball Championship)</title>
+            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 12 / Game 6) (NCAA Baseball Championship) - Baseball</desc>
          </programme>
 </tv>
