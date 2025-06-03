@@ -3,211 +3,57 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250602052500 -0500" stop="20250602072500 -0500" channel="ESPN+ 1">
-            <title lang="en">Australia vs. Argentina (International Friendly)</title>
-            <desc lang="en">Australia vs. Argentina (International Friendly) - Soccer</desc>
+         <programme start="20250603173000 -0500" stop="20250603193000 -0500" channel="ESPN+ 1">
+            <title lang="en">Tue, 6/3 - ESPN FC</title>
+            <desc lang="en">Tue, 6/3 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250602080000 -0500" stop="20250602100000 -0500" channel="ESPN+ 2">
-            <title lang="en">Mon, 6/2 - LALIGA Hypermotion Highlights Show</title>
-            <desc lang="en">Mon, 6/2 - LALIGA Hypermotion Highlights Show - Soccer</desc>
+         <programme start="20250603173000 -0500" stop="20250603193000 -0500" channel="ESPN+ 2">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - Soccer</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250602080000 -0500" stop="20250602100000 -0500" channel="ESPN+ 3">
-            <title lang="en">En Español - Lun, 6/2 - LALIGA Hypermotion Highlights Show</title>
-            <desc lang="en">En Español - Lun, 6/2 - LALIGA Hypermotion Highlights Show - Soccer</desc>
+         <programme start="20250603183000 -0500" stop="20250603203000 -0500" channel="ESPN+ 3">
+            <title lang="en">Newport Gulls vs. Valley Blue Sox</title>
+            <desc lang="en">Newport Gulls vs. Valley Blue Sox - Baseball</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250602120000 -0500" stop="20250602140000 -0500" channel="ESPN+ 4">
-            <title lang="en">Squeeze Play Presented by Capital One</title>
-            <desc lang="en">Squeeze Play Presented by Capital One - Baseball</desc>
+         <programme start="20250603193500 -0500" stop="20250603213500 -0500" channel="ESPN+ 4">
+            <title lang="en">Rochester Honkers vs. Waterloo Bucks</title>
+            <desc lang="en">Rochester Honkers vs. Waterloo Bucks - Baseball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250602120000 -0500" stop="20250602140000 -0500" channel="ESPN+ 5">
-            <title lang="en">#7 Tennessee vs. #6 Texas (Game #11)</title>
-            <desc lang="en">#7 Tennessee vs. #6 Texas (Game #11) - Softball</desc>
+         <programme start="20250603193500 -0500" stop="20250603213500 -0500" channel="ESPN+ 5">
+            <title lang="en">Eau Claire Express vs. La Crosse Loggers</title>
+            <desc lang="en">Eau Claire Express vs. La Crosse Loggers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250602120000 -0500" stop="20250602140000 -0500" channel="ESPN+ 6">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250603200000 -0500" stop="20250603220000 -0500" channel="ESPN+ 6">
+            <title lang="en">En Español-2025-26 Concacaf W Champions Cup - Draw</title>
+            <desc lang="en">En Español-2025-26 Concacaf W Champions Cup - Draw - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 7">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 4 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 4 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
+         <programme start="20250603220000 -0500" stop="20250603240000 -0500" channel="ESPN+ 7">
+            <title lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 2)</title>
+            <desc lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 2) - MMA</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 8">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 16 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 16 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 9">
-     <display-name lang="en">ESPN+ 9</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 9">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 1 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 1 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 10">
-     <display-name lang="en">ESPN+ 10</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 10">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 13 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 13 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 11">
-     <display-name lang="en">ESPN+ 11</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 11">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 15 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 15 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 12">
-     <display-name lang="en">ESPN+ 12</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 12">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 10 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 10 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 13">
-     <display-name lang="en">ESPN+ 13</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 13">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 11 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 11 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 14">
-     <display-name lang="en">ESPN+ 14</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 14">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 8 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 8 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 15">
-     <display-name lang="en">ESPN+ 15</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 15">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 7 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 7 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 16">
-     <display-name lang="en">ESPN+ 16</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 16">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 14 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 14 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 17">
-     <display-name lang="en">ESPN+ 17</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 17">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 5 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 5 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 18">
-     <display-name lang="en">ESPN+ 18</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 18">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 9 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 9 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 19">
-     <display-name lang="en">ESPN+ 19</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 19">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 6 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 6 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 20">
-     <display-name lang="en">ESPN+ 20</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 20">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 3 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 3 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 21">
-     <display-name lang="en">ESPN+ 21</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 21">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 12 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 12 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 22">
-     <display-name lang="en">ESPN+ 22</display-name>
-   </channel>
-         <programme start="20250602120500 -0500" stop="20250602140500 -0500" channel="ESPN+ 22">
-            <title lang="en">NCAA Baseball Regionals Presented by Capital One (Site 2 / Game 7) (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Regionals Presented by Capital One (Site 2 / Game 7) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 23">
-     <display-name lang="en">ESPN+ 23</display-name>
-   </channel>
-         <programme start="20250602123500 -0500" stop="20250602143500 -0500" channel="ESPN+ 23">
-            <title lang="en">La Crosse Loggers vs. Duluth Huskies</title>
-            <desc lang="en">La Crosse Loggers vs. Duluth Huskies - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 24">
-     <display-name lang="en">ESPN+ 24</display-name>
-   </channel>
-         <programme start="20250602143000 -0500" stop="20250602163000 -0500" channel="ESPN+ 24">
-            <title lang="en">#6 Texas vs. #7 Tennessee (Game #12 (If NEC))</title>
-            <desc lang="en">#6 Texas vs. #7 Tennessee (Game #12 (If NEC)) - Softball</desc>
-         </programme>
-   <channel id="ESPN+ 25">
-     <display-name lang="en">ESPN+ 25</display-name>
-   </channel>
-         <programme start="20250602173000 -0500" stop="20250602193000 -0500" channel="ESPN+ 25">
-            <title lang="en">Mon, 6/2 - ESPN FC</title>
-            <desc lang="en">Mon, 6/2 - ESPN FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 26">
-     <display-name lang="en">ESPN+ 26</display-name>
-   </channel>
-         <programme start="20250602190000 -0500" stop="20250602210000 -0500" channel="ESPN+ 26">
-            <title lang="en">Oklahoma vs. #12 Texas Tech (Game #13)</title>
-            <desc lang="en">Oklahoma vs. #12 Texas Tech (Game #13) - Softball</desc>
-         </programme>
-   <channel id="ESPN+ 27">
-     <display-name lang="en">ESPN+ 27</display-name>
-   </channel>
-         <programme start="20250602190500 -0500" stop="20250602210500 -0500" channel="ESPN+ 27">
-            <title lang="en">Madison Mallards vs. Royal Oak Leprechauns</title>
-            <desc lang="en">Madison Mallards vs. Royal Oak Leprechauns - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 28">
-     <display-name lang="en">ESPN+ 28</display-name>
-   </channel>
-         <programme start="20250602193000 -0500" stop="20250602213000 -0500" channel="ESPN+ 28">
-            <title lang="en">The Point Presented by Orkin</title>
-            <desc lang="en">The Point Presented by Orkin - Hockey</desc>
-         </programme>
-   <channel id="ESPN+ 29">
-     <display-name lang="en">ESPN+ 29</display-name>
-   </channel>
-         <programme start="20250602203000 -0500" stop="20250602223000 -0500" channel="ESPN+ 29">
-            <title lang="en">Mon, 6/2 - Futbol Americas</title>
-            <desc lang="en">Mon, 6/2 - Futbol Americas - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 30">
-     <display-name lang="en">ESPN+ 30</display-name>
-   </channel>
-         <programme start="20250602213000 -0500" stop="20250602233000 -0500" channel="ESPN+ 30">
-            <title lang="en">#12 Texas Tech vs. Oklahoma (Game #14 (If NEC))</title>
-            <desc lang="en">#12 Texas Tech vs. Oklahoma (Game #14 (If NEC)) - Softball</desc>
+         <programme start="20250603220000 -0500" stop="20250603240000 -0500" channel="ESPN+ 8">
+            <title lang="en">Futbol W: Post USWNT vs. Jamaica</title>
+            <desc lang="en">Futbol W: Post USWNT vs. Jamaica - Soccer</desc>
          </programme>
 </tv>
