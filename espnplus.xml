@@ -3,162 +3,267 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250604100000 -0500" stop="20250604120000 -0500" channel="ESPN+ 1">
-            <title lang="en">The CONCAFA SC vs. AFC Bournemouth (Men&#x27;s Group Stage)</title>
-            <desc lang="en">The CONCAFA SC vs. AFC Bournemouth (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605064500 -0500" stop="20250605084500 -0500" channel="ESPN+ 1">
+            <title lang="en">RBC Canadian Open: Main Feed (First Round)</title>
+            <desc lang="en">RBC Canadian Open: Main Feed (First Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250604100000 -0500" stop="20250604120000 -0500" channel="ESPN+ 2">
-            <title lang="en">En Español-The CONCAFA SC vs. AFC Bournemouth</title>
-            <desc lang="en">En Español-The CONCAFA SC vs. AFC Bournemouth - Soccer</desc>
+         <programme start="20250605070000 -0500" stop="20250605090000 -0500" channel="ESPN+ 2">
+            <title lang="en">RBC Canadian Open: Featured Holes #4, #7, #11 &amp; #14 (First Round) (Featured Hole)</title>
+            <desc lang="en">RBC Canadian Open: Featured Holes #4, #7, #11 &amp; #14 (First Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250604110000 -0500" stop="20250604130000 -0500" channel="ESPN+ 3">
-            <title lang="en">Seleccion Potrero vs. Trident FC (Men&#x27;s Group Stage)</title>
-            <desc lang="en">Seleccion Potrero vs. Trident FC (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605071500 -0500" stop="20250605091500 -0500" channel="ESPN+ 3">
+            <title lang="en">RBC Canadian Open: Homa &amp; Taylor Featured Groups (First Round) (Featured Groups)</title>
+            <desc lang="en">RBC Canadian Open: Homa &amp; Taylor Featured Groups (First Round) (Featured Groups) - Golf</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250604110000 -0500" stop="20250604130000 -0500" channel="ESPN+ 4">
-            <title lang="en">En Español-Selección Potrero vs. Trident FC</title>
-            <desc lang="en">En Español-Selección Potrero vs. Trident FC - Soccer</desc>
+         <programme start="20250605073000 -0500" stop="20250605093000 -0500" channel="ESPN+ 4">
+            <title lang="en">RBC Canadian Open: McIlroy Marquee Group (First Round) (Marquee Group)</title>
+            <desc lang="en">RBC Canadian Open: McIlroy Marquee Group (First Round) (Marquee Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250604110500 -0500" stop="20250604130500 -0500" channel="ESPN+ 5">
-            <title lang="en">Duluth Huskies vs. Thunder Bay Border Cats</title>
-            <desc lang="en">Duluth Huskies vs. Thunder Bay Border Cats - Baseball</desc>
+         <programme start="20250605100000 -0500" stop="20250605120000 -0500" channel="ESPN+ 5">
+            <title lang="en">TST: West Ham United vs. Tenfifteen FC (Men&#x27;s Group Stage)</title>
+            <desc lang="en">TST: West Ham United vs. Tenfifteen FC (Men&#x27;s Group Stage) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250604120000 -0500" stop="20250604140000 -0500" channel="ESPN+ 6">
-            <title lang="en">En Español-Club America vs. Drip FC</title>
-            <desc lang="en">En Español-Club America vs. Drip FC - Soccer</desc>
+         <programme start="20250605110000 -0500" stop="20250605130000 -0500" channel="ESPN+ 6">
+            <title lang="en">LALIGA 2024/25 Top Goals</title>
+            <desc lang="en">LALIGA 2024/25 Top Goals - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250604120000 -0500" stop="20250604140000 -0500" channel="ESPN+ 7">
-            <title lang="en">Club America vs. Drip FC (Men&#x27;s Group Stage)</title>
-            <desc lang="en">Club America vs. Drip FC (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605110000 -0500" stop="20250605130000 -0500" channel="ESPN+ 7">
+            <title lang="en">En Español - LALIGA 2024/25 Top Goals</title>
+            <desc lang="en">En Español - LALIGA 2024/25 Top Goals - Soccer</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250604120000 -0500" stop="20250604140000 -0500" channel="ESPN+ 8">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250605110000 -0500" stop="20250605130000 -0500" channel="ESPN+ 8">
+            <title lang="en">TST: Raleigh Rebels FC vs. KwikGoal FC (Men&#x27;s Group Stage)</title>
+            <desc lang="en">TST: Raleigh Rebels FC vs. KwikGoal FC (Men&#x27;s Group Stage) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250604163000 -0500" stop="20250604183000 -0500" channel="ESPN+ 9">
-            <title lang="en">Hashtag United vs. Pasha Luxury FC (Men&#x27;s Group Stage)</title>
-            <desc lang="en">Hashtag United vs. Pasha Luxury FC (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605120000 -0500" stop="20250605140000 -0500" channel="ESPN+ 9">
+            <title lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Group Stage)</title>
+            <desc lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Group Stage) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250604173000 -0500" stop="20250604193000 -0500" channel="ESPN+ 10">
-            <title lang="en">Wed, 6/4 - ESPN FC</title>
-            <desc lang="en">Wed, 6/4 - ESPN FC - Soccer</desc>
+         <programme start="20250605120000 -0500" stop="20250605140000 -0500" channel="ESPN+ 10">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250604173000 -0500" stop="20250604193000 -0500" channel="ESPN+ 11">
-            <title lang="en">West Ham United vs. Villarreal CF (Men&#x27;s Group Stage)</title>
-            <desc lang="en">West Ham United vs. Villarreal CF (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605140000 -0500" stop="20250605160000 -0500" channel="ESPN+ 11">
+            <title lang="en">Top Rank Boxing: Keyshawn vs. De Los Santos Press Conference</title>
+            <desc lang="en">Top Rank Boxing: Keyshawn vs. De Los Santos Press Conference - Boxing</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250604173000 -0500" stop="20250604193000 -0500" channel="ESPN+ 12">
-            <title lang="en">En Español-West Ham United vs. Villarreal CF</title>
-            <desc lang="en">En Español-West Ham United vs. Villarreal CF - Soccer</desc>
+         <programme start="20250605140000 -0500" stop="20250605160000 -0500" channel="ESPN+ 12">
+            <title lang="en">Huk Charleston Billfish Cup</title>
+            <desc lang="en">Huk Charleston Billfish Cup - Fishing</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250604183000 -0500" stop="20250604203000 -0500" channel="ESPN+ 13">
-            <title lang="en">Upper Valley Nighthawks vs. Keene Swamp Bats</title>
-            <desc lang="en">Upper Valley Nighthawks vs. Keene Swamp Bats - Baseball</desc>
+         <programme start="20250605150000 -0500" stop="20250605170000 -0500" channel="ESPN+ 13">
+            <title lang="en">RBC Canadian Open: Featured Hole #7 (First Round) (Featured Hole)</title>
+            <desc lang="en">RBC Canadian Open: Featured Hole #7 (First Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250604183000 -0500" stop="20250604203000 -0500" channel="ESPN+ 14">
-            <title lang="en">Vermont Mountaineers vs. Newport Gulls</title>
-            <desc lang="en">Vermont Mountaineers vs. Newport Gulls - Baseball</desc>
+         <programme start="20250605150000 -0500" stop="20250605170000 -0500" channel="ESPN+ 14">
+            <title lang="en">RBC Canadian Open: Clark Featured Group (First Round) (Featured Group 1)</title>
+            <desc lang="en">RBC Canadian Open: Clark Featured Group (First Round) (Featured Group 1) - Golf</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250604183000 -0500" stop="20250604203000 -0500" channel="ESPN+ 15">
-            <title lang="en">The CONCAFA SC vs. Real Athletico (Men&#x27;s Group Stage)</title>
-            <desc lang="en">The CONCAFA SC vs. Real Athletico (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605150000 -0500" stop="20250605170000 -0500" channel="ESPN+ 15">
+            <title lang="en">RBC Canadian Open: Featured Hole #14 (First Round) (Featured Hole)</title>
+            <desc lang="en">RBC Canadian Open: Featured Hole #14 (First Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250604190000 -0500" stop="20250604210000 -0500" channel="ESPN+ 16">
-            <title lang="en">Chicago Hounds vs. Houston SaberCats</title>
-            <desc lang="en">Chicago Hounds vs. Houston SaberCats - Rugby</desc>
+         <programme start="20250605150000 -0500" stop="20250605170000 -0500" channel="ESPN+ 16">
+            <title lang="en">RBC Canadian Open: Lowry Featured Group (First Round)</title>
+            <desc lang="en">RBC Canadian Open: Lowry Featured Group (First Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250604190500 -0500" stop="20250604210500 -0500" channel="ESPN+ 17">
-            <title lang="en">Green Bay Rockers vs. Madison Mallards</title>
-            <desc lang="en">Green Bay Rockers vs. Madison Mallards - Baseball</desc>
+         <programme start="20250605163000 -0500" stop="20250605183000 -0500" channel="ESPN+ 17">
+            <title lang="en">TST: Seleccion Potrero vs. Certified Lions FC (Men&#x27;s Group Stage)</title>
+            <desc lang="en">TST: Seleccion Potrero vs. Certified Lions FC (Men&#x27;s Group Stage) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250604200000 -0500" stop="20250604220000 -0500" channel="ESPN+ 18">
-            <title lang="en">Seleccion Potrero vs. Atlético de Madrid (Men&#x27;s Group Stage)</title>
-            <desc lang="en">Seleccion Potrero vs. Atlético de Madrid (Men&#x27;s Group Stage) - Soccer</desc>
+         <programme start="20250605163000 -0500" stop="20250605183000 -0500" channel="ESPN+ 18">
+            <title lang="en">TST: En Español-Selección Potrero vs. Certified Lions FC</title>
+            <desc lang="en">TST: En Español-Selección Potrero vs. Certified Lions FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250604200000 -0500" stop="20250604220000 -0500" channel="ESPN+ 19">
-            <title lang="en">En Español-Selección Potrero vs. Atlético de Madrid</title>
-            <desc lang="en">En Español-Selección Potrero vs. Atlético de Madrid - Soccer</desc>
+         <programme start="20250605170000 -0500" stop="20250605190000 -0500" channel="ESPN+ 19">
+            <title lang="en">UFC 316 Press Conference: Dvalishvili vs. O&#x27;Malley 2</title>
+            <desc lang="en">UFC 316 Press Conference: Dvalishvili vs. O&#x27;Malley 2 - MMA</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250604200000 -0500" stop="20250604220000 -0500" channel="ESPN+ 20">
-            <title lang="en">Birmingham Legion FC vs. Indy Eleven</title>
-            <desc lang="en">Birmingham Legion FC vs. Indy Eleven - Soccer</desc>
+         <programme start="20250605173000 -0500" stop="20250605193000 -0500" channel="ESPN+ 20">
+            <title lang="en">Thu, 6/5 - ESPN FC</title>
+            <desc lang="en">Thu, 6/5 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250604200000 -0500" stop="20250604220000 -0500" channel="ESPN+ 21">
-            <title lang="en">7Innings Live-#12 Texas Tech vs. #6 Texas</title>
-            <desc lang="en">7Innings Live-#12 Texas Tech vs. #6 Texas - Softball</desc>
+         <programme start="20250605173000 -0500" stop="20250605193000 -0500" channel="ESPN+ 21">
+            <title lang="en">TST: Wrexham Red Dragons vs. The CONCAFA SC (Men&#x27;s Group Stage)</title>
+            <desc lang="en">TST: Wrexham Red Dragons vs. The CONCAFA SC (Men&#x27;s Group Stage) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250604200000 -0500" stop="20250604220000 -0500" channel="ESPN+ 22">
-            <title lang="en">#12 Texas Tech vs. #6 Texas (WCWS Finals Game 1)</title>
-            <desc lang="en">#12 Texas Tech vs. #6 Texas (WCWS Finals Game 1) - Softball</desc>
+         <programme start="20250605173000 -0500" stop="20250605193000 -0500" channel="ESPN+ 22">
+            <title lang="en">TST: En Español-Wrexham Red Dragons vs. The CONCAFA SC</title>
+            <desc lang="en">TST: En Español-Wrexham Red Dragons vs. The CONCAFA SC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250604200000 -0500" stop="20250604220000 -0500" channel="ESPN+ 23">
-            <title lang="en">En Español-#12 Texas Tech vs. #6 Texas (WCWS Finals Game 1)</title>
-            <desc lang="en">En Español-#12 Texas Tech vs. #6 Texas (WCWS Finals Game 1) - Softball</desc>
+         <programme start="20250605180500 -0500" stop="20250605200500 -0500" channel="ESPN+ 23">
+            <title lang="en">Willmar Stingers vs. Minot Hot Tots</title>
+            <desc lang="en">Willmar Stingers vs. Minot Hot Tots - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 24">
+     <display-name lang="en">ESPN+ 24</display-name>
+   </channel>
+         <programme start="20250605183000 -0500" stop="20250605203000 -0500" channel="ESPN+ 24">
+            <title lang="en">North Shore Navigators vs. Keene Swamp Bats</title>
+            <desc lang="en">North Shore Navigators vs. Keene Swamp Bats - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 25">
+     <display-name lang="en">ESPN+ 25</display-name>
+   </channel>
+         <programme start="20250605183000 -0500" stop="20250605203000 -0500" channel="ESPN+ 25">
+            <title lang="en">En Español-US Women vs. Austin Rise FC</title>
+            <desc lang="en">En Español-US Women vs. Austin Rise FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 26">
+     <display-name lang="en">ESPN+ 26</display-name>
+   </channel>
+         <programme start="20250605183000 -0500" stop="20250605203000 -0500" channel="ESPN+ 26">
+            <title lang="en">US Women vs. Austin Rise FC (Women&#x27;s Group Stage)</title>
+            <desc lang="en">US Women vs. Austin Rise FC (Women&#x27;s Group Stage) - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 27">
+     <display-name lang="en">ESPN+ 27</display-name>
+   </channel>
+         <programme start="20250605190000 -0500" stop="20250605210000 -0500" channel="ESPN+ 27">
+            <title lang="en">En Español - Top Rank Boxing on ESPN: Ramirez vs. Flannery (Main Card)</title>
+            <desc lang="en">En Español - Top Rank Boxing on ESPN: Ramirez vs. Flannery (Main Card) - Boxing</desc>
+         </programme>
+   <channel id="ESPN+ 28">
+     <display-name lang="en">ESPN+ 28</display-name>
+   </channel>
+         <programme start="20250605190000 -0500" stop="20250605210000 -0500" channel="ESPN+ 28">
+            <title lang="en">Top Rank Boxing on ESPN: Ramirez vs. Flannery (Main Card)</title>
+            <desc lang="en">Top Rank Boxing on ESPN: Ramirez vs. Flannery (Main Card) - Boxing</desc>
+         </programme>
+   <channel id="ESPN+ 29">
+     <display-name lang="en">ESPN+ 29</display-name>
+   </channel>
+         <programme start="20250605193000 -0500" stop="20250605213000 -0500" channel="ESPN+ 29">
+            <title lang="en">NCAA Women&#x27;s College World Series Pregame Show</title>
+            <desc lang="en">NCAA Women&#x27;s College World Series Pregame Show - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20250605193500 -0500" stop="20250605213500 -0500" channel="ESPN+ 30">
+            <title lang="en">Royal Oak Leprechauns vs. Wisconsin Rapids Rafters</title>
+            <desc lang="en">Royal Oak Leprechauns vs. Wisconsin Rapids Rafters - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 31">
+     <display-name lang="en">ESPN+ 31</display-name>
+   </channel>
+         <programme start="20250605200000 -0500" stop="20250605220000 -0500" channel="ESPN+ 31">
+            <title lang="en">TST: Nani FC vs. Club America (Men&#x27;s Group Stage)</title>
+            <desc lang="en">TST: Nani FC vs. Club America (Men&#x27;s Group Stage) - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 32">
+     <display-name lang="en">ESPN+ 32</display-name>
+   </channel>
+         <programme start="20250605200000 -0500" stop="20250605220000 -0500" channel="ESPN+ 32">
+            <title lang="en">TST: En Español-Nani FC vs. Club America</title>
+            <desc lang="en">TST: En Español-Nani FC vs. Club America - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 33">
+     <display-name lang="en">ESPN+ 33</display-name>
+   </channel>
+         <programme start="20250605200000 -0500" stop="20250605220000 -0500" channel="ESPN+ 33">
+            <title lang="en">#6 Texas vs. #12 Texas Tech (WCWS Finals Game 2)</title>
+            <desc lang="en">#6 Texas vs. #12 Texas Tech (WCWS Finals Game 2) - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 34">
+     <display-name lang="en">ESPN+ 34</display-name>
+   </channel>
+         <programme start="20250605200000 -0500" stop="20250605220000 -0500" channel="ESPN+ 34">
+            <title lang="en">En Español-#6 Texas vs. #12 Texas Tech (WCWS Finals Game 2)</title>
+            <desc lang="en">En Español-#6 Texas vs. #12 Texas Tech (WCWS Finals Game 2) - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 35">
+     <display-name lang="en">ESPN+ 35</display-name>
+   </channel>
+         <programme start="20250605200000 -0500" stop="20250605220000 -0500" channel="ESPN+ 35">
+            <title lang="en">7Innings Live-#6 Texas vs. #12 Texas Tech</title>
+            <desc lang="en">7Innings Live-#6 Texas vs. #12 Texas Tech - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 36">
+     <display-name lang="en">ESPN+ 36</display-name>
+   </channel>
+         <programme start="20250605203000 -0500" stop="20250605223000 -0500" channel="ESPN+ 36">
+            <title lang="en">Thu, 6/5 - Futbol Americas</title>
+            <desc lang="en">Thu, 6/5 - Futbol Americas - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 37">
+     <display-name lang="en">ESPN+ 37</display-name>
+   </channel>
+         <programme start="20250605205500 -0500" stop="20250605225500 -0500" channel="ESPN+ 37">
+            <title lang="en">Calgary Wild FC vs. Halifax Tides FC</title>
+            <desc lang="en">Calgary Wild FC vs. Halifax Tides FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 38">
+     <display-name lang="en">ESPN+ 38</display-name>
+   </channel>
+         <programme start="20250605223000 -0500" stop="20250605243000 -0500" channel="ESPN+ 38">
+            <title lang="en">NCAA Women&#x27;s College World Series Trophy Presentation</title>
+            <desc lang="en">NCAA Women&#x27;s College World Series Trophy Presentation - Softball</desc>
          </programme>
 </tv>
