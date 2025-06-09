@@ -3,295 +3,71 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250608000000 -0500" stop="20250608020000 -0500" channel="ESPN+ 1">
-            <title lang="en">State of Boxing Post Show: Mason vs. Nakathila</title>
-            <desc lang="en">State of Boxing Post Show: Mason vs. Nakathila - Boxing</desc>
+         <programme start="20250609103000 -0500" stop="20250609123000 -0500" channel="ESPN+ 1">
+            <title lang="en">2025 WSL Championship Tour: Trestles Pro</title>
+            <desc lang="en">2025 WSL Championship Tour: Trestles Pro - Surfing</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250608010000 -0500" stop="20250608030000 -0500" channel="ESPN+ 2">
-            <title lang="en">UFC 316 Post Show: Dvalishvili vs. O&#x27;Malley 2</title>
-            <desc lang="en">UFC 316 Post Show: Dvalishvili vs. O&#x27;Malley 2 - MMA</desc>
+         <programme start="20250609120000 -0500" stop="20250609140000 -0500" channel="ESPN+ 2">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250608035500 -0500" stop="20250608055500 -0500" channel="ESPN+ 3">
-            <title lang="en">LALIGA FC Futures U-12 (3rd Place Match)</title>
-            <desc lang="en">LALIGA FC Futures U-12 (3rd Place Match) - No Sport</desc>
+         <programme start="20250609170000 -0500" stop="20250609190000 -0500" channel="ESPN+ 3">
+            <title lang="en">Mon, 6/9 - ESPN FC</title>
+            <desc lang="en">Mon, 6/9 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250608043000 -0500" stop="20250608063000 -0500" channel="ESPN+ 4">
-            <title lang="en">Top Rank Boxing on ESPN: Nakatani vs. Nishida (Main Card)</title>
-            <desc lang="en">Top Rank Boxing on ESPN: Nakatani vs. Nishida (Main Card) - Boxing</desc>
+         <programme start="20250609183000 -0500" stop="20250609203000 -0500" channel="ESPN+ 4">
+            <title lang="en">Valley Blue Sox vs. Newport Gulls</title>
+            <desc lang="en">Valley Blue Sox vs. Newport Gulls - Baseball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250608043000 -0500" stop="20250608063000 -0500" channel="ESPN+ 5">
-            <title lang="en">En Español - Top Rank Boxing on ESPN: Nakatani vs. Nishida (Main Card)</title>
-            <desc lang="en">En Español - Top Rank Boxing on ESPN: Nakatani vs. Nishida (Main Card) - Boxing</desc>
+         <programme start="20250609183500 -0500" stop="20250609203500 -0500" channel="ESPN+ 5">
+            <title lang="en">Eau Claire Express vs. Thunder Bay Border Cats</title>
+            <desc lang="en">Eau Claire Express vs. Thunder Bay Border Cats - Baseball</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250608062500 -0500" stop="20250608082500 -0500" channel="ESPN+ 6">
-            <title lang="en">LALIGA FC Futures U-12 (Semifinals)</title>
-            <desc lang="en">LALIGA FC Futures U-12 (Semifinals) - No Sport</desc>
+         <programme start="20250609190000 -0500" stop="20250609210000 -0500" channel="ESPN+ 6">
+            <title lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Championship)</title>
+            <desc lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Championship) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250608070000 -0500" stop="20250608090000 -0500" channel="ESPN+ 7">
-            <title lang="en">LALIGA FC Futures U-12 (Final)</title>
-            <desc lang="en">LALIGA FC Futures U-12 (Final) - No Sport</desc>
+         <programme start="20250609190000 -0500" stop="20250609210000 -0500" channel="ESPN+ 7">
+            <title lang="en">En Español-The Soccer Tournament - Women&#x27;s Bracket (Final Femenina)</title>
+            <desc lang="en">En Español-The Soccer Tournament - Women&#x27;s Bracket (Final Femenina) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250608074500 -0500" stop="20250608094500 -0500" channel="ESPN+ 8">
-            <title lang="en">RBC Canadian Open:  Clark Marquee Group (Final Round) (Marquee Group)</title>
-            <desc lang="en">RBC Canadian Open:  Clark Marquee Group (Final Round) (Marquee Group) - Golf</desc>
+         <programme start="20250609193500 -0500" stop="20250609213500 -0500" channel="ESPN+ 8">
+            <title lang="en">Mankato MoonDogs vs. St. Cloud Rox</title>
+            <desc lang="en">Mankato MoonDogs vs. St. Cloud Rox - Baseball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250608074500 -0500" stop="20250608094500 -0500" channel="ESPN+ 9">
-            <title lang="en">RBC Canadian Open: Main Feed (Final Round)</title>
-            <desc lang="en">RBC Canadian Open: Main Feed (Final Round) - Golf</desc>
+         <programme start="20250609203000 -0500" stop="20250609223000 -0500" channel="ESPN+ 9">
+            <title lang="en">En Español-The Soccer Tournament - Men&#x27;s Bracket (Final Masculina)</title>
+            <desc lang="en">En Español-The Soccer Tournament - Men&#x27;s Bracket (Final Masculina) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250608083000 -0500" stop="20250608103000 -0500" channel="ESPN+ 10">
-            <title lang="en">RBC Canadian Open: Featured Holes #4, #7, #11 &amp; #14 (Final Round) (Featured Hole)</title>
-            <desc lang="en">RBC Canadian Open: Featured Holes #4, #7, #11 &amp; #14 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 11">
-     <display-name lang="en">ESPN+ 11</display-name>
-   </channel>
-         <programme start="20250608090000 -0500" stop="20250608110000 -0500" channel="ESPN+ 11">
-            <title lang="en">RBC Canadian Open: MacIntyre &amp; Lowry Featured Groups (Final Round) (Featured Groups)</title>
-            <desc lang="en">RBC Canadian Open: MacIntyre &amp; Lowry Featured Groups (Final Round) (Featured Groups) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 12">
-     <display-name lang="en">ESPN+ 12</display-name>
-   </channel>
-         <programme start="20250608120000 -0500" stop="20250608140000 -0500" channel="ESPN+ 12">
-            <title lang="en">Miami vs. Louisville (Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">Miami vs. Louisville (Game 3) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 13">
-     <display-name lang="en">ESPN+ 13</display-name>
-   </channel>
-         <programme start="20250608120000 -0500" stop="20250608140000 -0500" channel="ESPN+ 13">
-            <title lang="en">Duke vs. Murray State (Game 2) (NCAA Baseball Championship)</title>
-            <desc lang="en">Duke vs. Murray State (Game 2) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 14">
-     <display-name lang="en">ESPN+ 14</display-name>
-   </channel>
-         <programme start="20250608120000 -0500" stop="20250608140000 -0500" channel="ESPN+ 14">
-            <title lang="en">Arizona vs. #5 North Carolina (Game 3) (NCAA Baseball Championship)</title>
-            <desc lang="en">Arizona vs. #5 North Carolina (Game 3) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 15">
-     <display-name lang="en">ESPN+ 15</display-name>
-   </channel>
-         <programme start="20250608122000 -0500" stop="20250608142000 -0500" channel="ESPN+ 15">
-            <title lang="en">Racing Santander vs. Mirandés (Semifinals, Leg 1) (Spanish Segunda Division)</title>
-            <desc lang="en">Racing Santander vs. Mirandés (Semifinals, Leg 1) (Spanish Segunda Division) - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 16">
-     <display-name lang="en">ESPN+ 16</display-name>
-   </channel>
-         <programme start="20250608122000 -0500" stop="20250608142000 -0500" channel="ESPN+ 16">
-            <title lang="en">En Español-Racing Santander vs. Mirandés (Semifinal - Partido de Ida) (Spanish Segunda Division)</title>
-            <desc lang="en">En Español-Racing Santander vs. Mirandés (Semifinal - Partido de Ida) (Spanish Segunda Division) - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 17">
-     <display-name lang="en">ESPN+ 17</display-name>
-   </channel>
-         <programme start="20250608130000 -0500" stop="20250608150000 -0500" channel="ESPN+ 17">
-            <title lang="en">Ocean State Waves vs. Valley Blue Sox</title>
-            <desc lang="en">Ocean State Waves vs. Valley Blue Sox - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 18">
-     <display-name lang="en">ESPN+ 18</display-name>
-   </channel>
-         <programme start="20250608130000 -0500" stop="20250608150000 -0500" channel="ESPN+ 18">
-            <title lang="en">RBC Canadian Open: Featured Hole #14 (Final Round) (Featured Hole)</title>
-            <desc lang="en">RBC Canadian Open: Featured Hole #14 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 19">
-     <display-name lang="en">ESPN+ 19</display-name>
-   </channel>
-         <programme start="20250608130000 -0500" stop="20250608150000 -0500" channel="ESPN+ 19">
-            <title lang="en">RBC Canadian Open: Aberg Featured Group (Final Round)</title>
-            <desc lang="en">RBC Canadian Open: Aberg Featured Group (Final Round) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 20">
-     <display-name lang="en">ESPN+ 20</display-name>
-   </channel>
-         <programme start="20250608130000 -0500" stop="20250608150000 -0500" channel="ESPN+ 20">
-            <title lang="en">RBC Canadian Open: Featured Hole #11 (Final Round) (Featured Hole)</title>
-            <desc lang="en">RBC Canadian Open: Featured Hole #11 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 21">
-     <display-name lang="en">ESPN+ 21</display-name>
-   </channel>
-         <programme start="20250608130000 -0500" stop="20250608150000 -0500" channel="ESPN+ 21">
-            <title lang="en">RBC Canadian Open: Lowry Featured Group (Final Round) (Featured Group 1)</title>
-            <desc lang="en">RBC Canadian Open: Lowry Featured Group (Final Round) (Featured Group 1) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 22">
-     <display-name lang="en">ESPN+ 22</display-name>
-   </channel>
-         <programme start="20250608133000 -0500" stop="20250608153000 -0500" channel="ESPN+ 22">
-            <title lang="en">Top Rank Boxing on ESPN: Turchi vs. Volkovs (Main Card)</title>
-            <desc lang="en">Top Rank Boxing on ESPN: Turchi vs. Volkovs (Main Card) - Boxing</desc>
-         </programme>
-   <channel id="ESPN+ 23">
-     <display-name lang="en">ESPN+ 23</display-name>
-   </channel>
-         <programme start="20250608133000 -0500" stop="20250608153000 -0500" channel="ESPN+ 23">
-            <title lang="en">En Español - Top Rank Boxing on ESPN: Turchi vs. Volkovs (Main Card)</title>
-            <desc lang="en">En Español - Top Rank Boxing on ESPN: Turchi vs. Volkovs (Main Card) - Boxing</desc>
-         </programme>
-   <channel id="ESPN+ 24">
-     <display-name lang="en">ESPN+ 24</display-name>
-   </channel>
-         <programme start="20250608150000 -0500" stop="20250608170000 -0500" channel="ESPN+ 24">
-            <title lang="en">#15 UCLA vs. UTSA (Game 2) (NCAA Baseball Championship)</title>
-            <desc lang="en">#15 UCLA vs. UTSA (Game 2) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 25">
-     <display-name lang="en">ESPN+ 25</display-name>
-   </channel>
-         <programme start="20250608150000 -0500" stop="20250608170000 -0500" channel="ESPN+ 25">
-            <title lang="en">#3 Arkansas vs. #14 Tennessee (Game 2) (NCAA Baseball Championship)</title>
-            <desc lang="en">#3 Arkansas vs. #14 Tennessee (Game 2) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 26">
-     <display-name lang="en">ESPN+ 26</display-name>
-   </channel>
-         <programme start="20250608150000 -0500" stop="20250608170000 -0500" channel="ESPN+ 26">
-            <title lang="en">NCAA Baseball Super Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Super Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 27">
-     <display-name lang="en">ESPN+ 27</display-name>
-   </channel>
-         <programme start="20250608150000 -0500" stop="20250608170000 -0500" channel="ESPN+ 27">
-            <title lang="en">En Español-Michigan Panthers vs. Birmingham Stallions</title>
-            <desc lang="en">En Español-Michigan Panthers vs. Birmingham Stallions - Football</desc>
-         </programme>
-   <channel id="ESPN+ 28">
-     <display-name lang="en">ESPN+ 28</display-name>
-   </channel>
-         <programme start="20250608150000 -0500" stop="20250608170000 -0500" channel="ESPN+ 28">
-            <title lang="en">Michigan Panthers vs. Birmingham Stallions</title>
-            <desc lang="en">Michigan Panthers vs. Birmingham Stallions - Football</desc>
-         </programme>
-   <channel id="ESPN+ 29">
-     <display-name lang="en">ESPN+ 29</display-name>
-   </channel>
-         <programme start="20250608150000 -0500" stop="20250608170000 -0500" channel="ESPN+ 29">
-            <title lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Semifinal)</title>
-            <desc lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Semifinal) - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 30">
-     <display-name lang="en">ESPN+ 30</display-name>
-   </channel>
-         <programme start="20250608150500 -0500" stop="20250608170500 -0500" channel="ESPN+ 30">
-            <title lang="en">Waterloo Bucks vs. Eau Claire Express</title>
-            <desc lang="en">Waterloo Bucks vs. Eau Claire Express - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 31">
-     <display-name lang="en">ESPN+ 31</display-name>
-   </channel>
-         <programme start="20250608163000 -0500" stop="20250608183000 -0500" channel="ESPN+ 31">
-            <title lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Semifinal)</title>
-            <desc lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Semifinal) - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 32">
-     <display-name lang="en">ESPN+ 32</display-name>
-   </channel>
-         <programme start="20250608170000 -0500" stop="20250608190000 -0500" channel="ESPN+ 32">
-            <title lang="en">Martha&#x27;s Vineyard Sharks vs. Keene Swamp Bats</title>
-            <desc lang="en">Martha&#x27;s Vineyard Sharks vs. Keene Swamp Bats - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 33">
-     <display-name lang="en">ESPN+ 33</display-name>
-   </channel>
-         <programme start="20250608173000 -0500" stop="20250608193000 -0500" channel="ESPN+ 33">
-            <title lang="en">Sun, 6/8 - ESPN FC</title>
-            <desc lang="en">Sun, 6/8 - ESPN FC - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 34">
-     <display-name lang="en">ESPN+ 34</display-name>
-   </channel>
-         <programme start="20250608180000 -0500" stop="20250608200000 -0500" channel="ESPN+ 34">
-            <title lang="en">#6 LSU vs. West Virginia (Game 2) (NCAA Baseball Championship)</title>
-            <desc lang="en">#6 LSU vs. West Virginia (Game 2) (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 35">
-     <display-name lang="en">ESPN+ 35</display-name>
-   </channel>
-         <programme start="20250608180000 -0500" stop="20250608200000 -0500" channel="ESPN+ 35">
-            <title lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Semifinal)</title>
-            <desc lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Semifinal) - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 36">
-     <display-name lang="en">ESPN+ 36</display-name>
-   </channel>
-         <programme start="20250608180500 -0500" stop="20250608200500 -0500" channel="ESPN+ 36">
-            <title lang="en">Duluth Huskies vs. Rochester Honkers</title>
-            <desc lang="en">Duluth Huskies vs. Rochester Honkers - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 37">
-     <display-name lang="en">ESPN+ 37</display-name>
-   </channel>
-         <programme start="20250608183000 -0500" stop="20250608203000 -0500" channel="ESPN+ 37">
-            <title lang="en">Sanford Mainers vs. Vermont Mountaineers</title>
-            <desc lang="en">Sanford Mainers vs. Vermont Mountaineers - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 38">
-     <display-name lang="en">ESPN+ 38</display-name>
-   </channel>
-         <programme start="20250608193000 -0500" stop="20250608213000 -0500" channel="ESPN+ 38">
-            <title lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Semifinal)</title>
-            <desc lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Semifinal) - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 39">
-     <display-name lang="en">ESPN+ 39</display-name>
-   </channel>
-         <programme start="20250608200000 -0500" stop="20250608220000 -0500" channel="ESPN+ 39">
-            <title lang="en">Houston SaberCats vs. Anthem Rugby Carolina</title>
-            <desc lang="en">Houston SaberCats vs. Anthem Rugby Carolina - Rugby</desc>
-         </programme>
-   <channel id="ESPN+ 40">
-     <display-name lang="en">ESPN+ 40</display-name>
-   </channel>
-         <programme start="20250608210000 -0500" stop="20250608230000 -0500" channel="ESPN+ 40">
-            <title lang="en">NCAA Baseball Super Regionals Presented by Capital One (NCAA Baseball Championship)</title>
-            <desc lang="en">NCAA Baseball Super Regionals Presented by Capital One (NCAA Baseball Championship) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 41">
-     <display-name lang="en">ESPN+ 41</display-name>
-   </channel>
-         <programme start="20250608210000 -0500" stop="20250608230000 -0500" channel="ESPN+ 41">
-            <title lang="en">Seattle Seawolves vs. Miami Sharks</title>
-            <desc lang="en">Seattle Seawolves vs. Miami Sharks - Rugby</desc>
-         </programme>
-   <channel id="ESPN+ 42">
-     <display-name lang="en">ESPN+ 42</display-name>
-   </channel>
-         <programme start="20250608210000 -0500" stop="20250608230000 -0500" channel="ESPN+ 42">
-            <title lang="en">Sun, 6/8 - Futbol Americas</title>
-            <desc lang="en">Sun, 6/8 - Futbol Americas - No Sport</desc>
+         <programme start="20250609203000 -0500" stop="20250609223000 -0500" channel="ESPN+ 10">
+            <title lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Championship)</title>
+            <desc lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Championship) - Soccer</desc>
          </programme>
 </tv>
