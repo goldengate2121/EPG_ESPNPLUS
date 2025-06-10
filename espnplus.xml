@@ -3,71 +3,71 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250609103000 -0500" stop="20250609123000 -0500" channel="ESPN+ 1">
+         <programme start="20250610110000 -0500" stop="20250610130000 -0500" channel="ESPN+ 1">
             <title lang="en">2025 WSL Championship Tour: Trestles Pro</title>
             <desc lang="en">2025 WSL Championship Tour: Trestles Pro - Surfing</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250609120000 -0500" stop="20250609140000 -0500" channel="ESPN+ 2">
+         <programme start="20250610120000 -0500" stop="20250610140000 -0500" channel="ESPN+ 2">
             <title lang="en">The Pat McAfee Show</title>
             <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250609170000 -0500" stop="20250609190000 -0500" channel="ESPN+ 3">
-            <title lang="en">Mon, 6/9 - ESPN FC</title>
-            <desc lang="en">Mon, 6/9 - ESPN FC - Soccer</desc>
+         <programme start="20250610173000 -0500" stop="20250610193000 -0500" channel="ESPN+ 3">
+            <title lang="en">Tue, 6/10 - ESPN FC</title>
+            <desc lang="en">Tue, 6/10 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250609183000 -0500" stop="20250609203000 -0500" channel="ESPN+ 4">
-            <title lang="en">Valley Blue Sox vs. Newport Gulls</title>
-            <desc lang="en">Valley Blue Sox vs. Newport Gulls - Baseball</desc>
+         <programme start="20250610175500 -0500" stop="20250610195500 -0500" channel="ESPN+ 4">
+            <title lang="en">Halifax Tides FC vs. Ottawa Rapid FC</title>
+            <desc lang="en">Halifax Tides FC vs. Ottawa Rapid FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250609183500 -0500" stop="20250609203500 -0500" channel="ESPN+ 5">
-            <title lang="en">Eau Claire Express vs. Thunder Bay Border Cats</title>
-            <desc lang="en">Eau Claire Express vs. Thunder Bay Border Cats - Baseball</desc>
+         <programme start="20250610183000 -0500" stop="20250610203000 -0500" channel="ESPN+ 5">
+            <title lang="en">Newport Gulls vs. Keene Swamp Bats</title>
+            <desc lang="en">Newport Gulls vs. Keene Swamp Bats - Baseball</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250609190000 -0500" stop="20250609210000 -0500" channel="ESPN+ 6">
-            <title lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Championship)</title>
-            <desc lang="en">The Soccer Tournament - Women&#x27;s Bracket (Women&#x27;s Championship) - Soccer</desc>
+         <programme start="20250610183000 -0500" stop="20250610203000 -0500" channel="ESPN+ 6">
+            <title lang="en">Martha&#x27;s Vineyard Sharks vs. Danbury Westerners</title>
+            <desc lang="en">Martha&#x27;s Vineyard Sharks vs. Danbury Westerners - Baseball</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250609190000 -0500" stop="20250609210000 -0500" channel="ESPN+ 7">
-            <title lang="en">En Español-The Soccer Tournament - Women&#x27;s Bracket (Final Femenina)</title>
-            <desc lang="en">En Español-The Soccer Tournament - Women&#x27;s Bracket (Final Femenina) - Soccer</desc>
+         <programme start="20250610190500 -0500" stop="20250610210500 -0500" channel="ESPN+ 7">
+            <title lang="en">Green Bay Rockers vs. Traverse City Pit Spitters</title>
+            <desc lang="en">Green Bay Rockers vs. Traverse City Pit Spitters - Baseball</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250609193500 -0500" stop="20250609213500 -0500" channel="ESPN+ 8">
-            <title lang="en">Mankato MoonDogs vs. St. Cloud Rox</title>
-            <desc lang="en">Mankato MoonDogs vs. St. Cloud Rox - Baseball</desc>
+         <programme start="20250610193500 -0500" stop="20250610213500 -0500" channel="ESPN+ 8">
+            <title lang="en">Wausau Woodchucks vs. Fond du Lac Dock Spiders</title>
+            <desc lang="en">Wausau Woodchucks vs. Fond du Lac Dock Spiders - Baseball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250609203000 -0500" stop="20250609223000 -0500" channel="ESPN+ 9">
-            <title lang="en">En Español-The Soccer Tournament - Men&#x27;s Bracket (Final Masculina)</title>
-            <desc lang="en">En Español-The Soccer Tournament - Men&#x27;s Bracket (Final Masculina) - Soccer</desc>
+         <programme start="20250610203000 -0500" stop="20250610223000 -0500" channel="ESPN+ 9">
+            <title lang="en">Tue, 6/10 - Futbol W</title>
+            <desc lang="en">Tue, 6/10 - Futbol W - Soccer</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250609203000 -0500" stop="20250609223000 -0500" channel="ESPN+ 10">
-            <title lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Championship)</title>
-            <desc lang="en">The Soccer Tournament - Men&#x27;s Bracket (Men&#x27;s Championship) - Soccer</desc>
+         <programme start="20250610220000 -0500" stop="20250610240000 -0500" channel="ESPN+ 10">
+            <title lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 3)</title>
+            <desc lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 3) - MMA</desc>
          </programme>
 </tv>
