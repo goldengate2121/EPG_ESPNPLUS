@@ -3,71 +3,155 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250610110000 -0500" stop="20250610130000 -0500" channel="ESPN+ 1">
-            <title lang="en">2025 WSL Championship Tour: Trestles Pro</title>
-            <desc lang="en">2025 WSL Championship Tour: Trestles Pro - Surfing</desc>
+         <programme start="20250611095800 -0500" stop="20250611115800 -0500" channel="ESPN+ 1">
+            <title lang="en">West Indies Women vs. South Africa Women (1st ODI)</title>
+            <desc lang="en">West Indies Women vs. South Africa Women (1st ODI) - Cricket</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250610120000 -0500" stop="20250610140000 -0500" channel="ESPN+ 2">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250611110000 -0500" stop="20250611130000 -0500" channel="ESPN+ 2">
+            <title lang="en">2025 WSL Championship Tour: Trestles Pro</title>
+            <desc lang="en">2025 WSL Championship Tour: Trestles Pro - Surfing</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250610173000 -0500" stop="20250610193000 -0500" channel="ESPN+ 3">
-            <title lang="en">Tue, 6/10 - ESPN FC</title>
-            <desc lang="en">Tue, 6/10 - ESPN FC - Soccer</desc>
+         <programme start="20250611120000 -0500" stop="20250611140000 -0500" channel="ESPN+ 3">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250610175500 -0500" stop="20250610195500 -0500" channel="ESPN+ 4">
-            <title lang="en">Halifax Tides FC vs. Ottawa Rapid FC</title>
-            <desc lang="en">Halifax Tides FC vs. Ottawa Rapid FC - Soccer</desc>
+         <programme start="20250611145000 -0500" stop="20250611165000 -0500" channel="ESPN+ 4">
+            <title lang="en">Oviedo vs. Almería (Semifinals, Leg 2) (Spanish Segunda Division)</title>
+            <desc lang="en">Oviedo vs. Almería (Semifinals, Leg 2) (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250610183000 -0500" stop="20250610203000 -0500" channel="ESPN+ 5">
-            <title lang="en">Newport Gulls vs. Keene Swamp Bats</title>
-            <desc lang="en">Newport Gulls vs. Keene Swamp Bats - Baseball</desc>
+         <programme start="20250611145500 -0500" stop="20250611165500 -0500" channel="ESPN+ 5">
+            <title lang="en">En Español-Oviedo vs. Almería (Semifinal - Partido de Vuelta) (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Oviedo vs. Almería (Semifinal - Partido de Vuelta) (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250610183000 -0500" stop="20250610203000 -0500" channel="ESPN+ 6">
-            <title lang="en">Martha&#x27;s Vineyard Sharks vs. Danbury Westerners</title>
-            <desc lang="en">Martha&#x27;s Vineyard Sharks vs. Danbury Westerners - Baseball</desc>
+         <programme start="20250611150000 -0500" stop="20250611170000 -0500" channel="ESPN+ 6">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships -  Men&#x27;s Decathlon - 100m</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships -  Men&#x27;s Decathlon - 100m - No Sport</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250610190500 -0500" stop="20250610210500 -0500" channel="ESPN+ 7">
-            <title lang="en">Green Bay Rockers vs. Traverse City Pit Spitters</title>
-            <desc lang="en">Green Bay Rockers vs. Traverse City Pit Spitters - Baseball</desc>
+         <programme start="20250611154000 -0500" stop="20250611174000 -0500" channel="ESPN+ 7">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Long Jump</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Long Jump - No Sport</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250610193500 -0500" stop="20250610213500 -0500" channel="ESPN+ 8">
-            <title lang="en">Wausau Woodchucks vs. Fond du Lac Dock Spiders</title>
-            <desc lang="en">Wausau Woodchucks vs. Fond du Lac Dock Spiders - Baseball</desc>
+         <programme start="20250611163000 -0500" stop="20250611183000 -0500" channel="ESPN+ 8">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Hammer</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Hammer - No Sport</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250610203000 -0500" stop="20250610223000 -0500" channel="ESPN+ 9">
-            <title lang="en">Tue, 6/10 - Futbol W</title>
-            <desc lang="en">Tue, 6/10 - Futbol W - Soccer</desc>
+         <programme start="20250611165500 -0500" stop="20250611185500 -0500" channel="ESPN+ 9">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Shot Put</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Shot Put - No Sport</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250610220000 -0500" stop="20250610240000 -0500" channel="ESPN+ 10">
-            <title lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 3)</title>
-            <desc lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 3) - MMA</desc>
+         <programme start="20250611170000 -0500" stop="20250611190000 -0500" channel="ESPN+ 10">
+            <title lang="en">Wed, 6/11 - ESPN FC</title>
+            <desc lang="en">Wed, 6/11 - ESPN FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 11">
+     <display-name lang="en">ESPN+ 11</display-name>
+   </channel>
+         <programme start="20250611180000 -0500" stop="20250611200000 -0500" channel="ESPN+ 11">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - High Jump</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - High Jump - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 12">
+     <display-name lang="en">ESPN+ 12</display-name>
+   </channel>
+         <programme start="20250611183000 -0500" stop="20250611203000 -0500" channel="ESPN+ 12">
+            <title lang="en">Mystic Schooners vs. Valley Blue Sox</title>
+            <desc lang="en">Mystic Schooners vs. Valley Blue Sox - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 13">
+     <display-name lang="en">ESPN+ 13</display-name>
+   </channel>
+         <programme start="20250611183000 -0500" stop="20250611203000 -0500" channel="ESPN+ 13">
+            <title lang="en">Ocean State Waves vs. Newport Gulls</title>
+            <desc lang="en">Ocean State Waves vs. Newport Gulls - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 14">
+     <display-name lang="en">ESPN+ 14</display-name>
+   </channel>
+         <programme start="20250611183000 -0500" stop="20250611203000 -0500" channel="ESPN+ 14">
+            <title lang="en">North Adams SteepleCATS vs. Keene Swamp Bats</title>
+            <desc lang="en">North Adams SteepleCATS vs. Keene Swamp Bats - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 15">
+     <display-name lang="en">ESPN+ 15</display-name>
+   </channel>
+         <programme start="20250611190000 -0500" stop="20250611210000 -0500" channel="ESPN+ 15">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships (Men&#x27;s Day 1)</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships (Men&#x27;s Day 1) - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 16">
+     <display-name lang="en">ESPN+ 16</display-name>
+   </channel>
+         <programme start="20250611193500 -0500" stop="20250611213500 -0500" channel="ESPN+ 16">
+            <title lang="en">Badlands Big Sticks vs. Willmar Stingers</title>
+            <desc lang="en">Badlands Big Sticks vs. Willmar Stingers - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 17">
+     <display-name lang="en">ESPN+ 17</display-name>
+   </channel>
+         <programme start="20250611193500 -0500" stop="20250611213500 -0500" channel="ESPN+ 17">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Pole Vault</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Pole Vault - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 18">
+     <display-name lang="en">ESPN+ 18</display-name>
+   </channel>
+         <programme start="20250611201500 -0500" stop="20250611221500 -0500" channel="ESPN+ 18">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Javelin</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Javelin - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 19">
+     <display-name lang="en">ESPN+ 19</display-name>
+   </channel>
+         <programme start="20250611204000 -0500" stop="20250611224000 -0500" channel="ESPN+ 19">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Long Jump</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Long Jump - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 20">
+     <display-name lang="en">ESPN+ 20</display-name>
+   </channel>
+         <programme start="20250611211000 -0500" stop="20250611231000 -0500" channel="ESPN+ 20">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Shot Put</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Shot Put - No Sport</desc>
+         </programme>
+   <channel id="ESPN+ 21">
+     <display-name lang="en">ESPN+ 21</display-name>
+   </channel>
+         <programme start="20250611215500 -0500" stop="20250611235500 -0500" channel="ESPN+ 21">
+            <title lang="en">Vancouver Rise FC vs. AFC Toronto</title>
+            <desc lang="en">Vancouver Rise FC vs. AFC Toronto - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 22">
+     <display-name lang="en">ESPN+ 22</display-name>
+   </channel>
+         <programme start="20250611220000 -0500" stop="20250611240000 -0500" channel="ESPN+ 22">
+            <title lang="en">Spokane Velocity vs. Charlotte Independence</title>
+            <desc lang="en">Spokane Velocity vs. Charlotte Independence - Soccer</desc>
          </programme>
 </tv>
