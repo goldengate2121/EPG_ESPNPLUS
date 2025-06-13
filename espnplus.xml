@@ -3,197 +3,183 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250612110000 -0500" stop="20250612130000 -0500" channel="ESPN+ 1">
-            <title lang="en">LALIGA 2024/25 Champions: FC Barcelona</title>
-            <desc lang="en">LALIGA 2024/25 Champions: FC Barcelona - Soccer</desc>
+         <programme start="20250613110500 -0500" stop="20250613130500 -0500" channel="ESPN+ 1">
+            <title lang="en">F1 Academy: Canada Practice</title>
+            <desc lang="en">F1 Academy: Canada Practice - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250612110000 -0500" stop="20250612130000 -0500" channel="ESPN+ 2">
-            <title lang="en">En Español - LALIGA 2024/25 Champions: FC Barcelona</title>
-            <desc lang="en">En Español - LALIGA 2024/25 Champions: FC Barcelona - Soccer</desc>
+         <programme start="20250613120000 -0500" stop="20250613140000 -0500" channel="ESPN+ 2">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250612110000 -0500" stop="20250612130000 -0500" channel="ESPN+ 3">
-            <title lang="en">2025 WSL Championship Tour: Trestles Pro</title>
-            <desc lang="en">2025 WSL Championship Tour: Trestles Pro - Surfing</desc>
+         <programme start="20250613140000 -0500" stop="20250613160000 -0500" channel="ESPN+ 3">
+            <title lang="en">UmpCast - Arizona vs. #13 Coastal Carolina (Game #1) (College World Series) (UmpCast)</title>
+            <desc lang="en">UmpCast - Arizona vs. #13 Coastal Carolina (Game #1) (College World Series) (UmpCast) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250612120000 -0500" stop="20250612140000 -0500" channel="ESPN+ 4">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - The Pat McAfee Show</desc>
+         <programme start="20250613140000 -0500" stop="20250613160000 -0500" channel="ESPN+ 4">
+            <title lang="en">Arizona vs. #13 Coastal Carolina (Game #1) (College World Series)</title>
+            <desc lang="en">Arizona vs. #13 Coastal Carolina (Game #1) (College World Series) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250612124500 -0500" stop="20250612144500 -0500" channel="ESPN+ 5">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - 110 Hurdles</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - 110 Hurdles - No Sport</desc>
+         <programme start="20250613150000 -0500" stop="20250613170000 -0500" channel="ESPN+ 5">
+            <title lang="en">Gulfport Mississippi Open</title>
+            <desc lang="en">Gulfport Mississippi Open - Fishing</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250612133000 -0500" stop="20250612153000 -0500" channel="ESPN+ 6">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Discus</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Discus - No Sport</desc>
+         <programme start="20250613160000 -0500" stop="20250613180000 -0500" channel="ESPN+ 6">
+            <title lang="en">UFC Fight Night Pre-Show: Usman vs. Buckley</title>
+            <desc lang="en">UFC Fight Night Pre-Show: Usman vs. Buckley - MMA</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250612144500 -0500" stop="20250612164500 -0500" channel="ESPN+ 7">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Pole Vault</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Pole Vault - No Sport</desc>
+         <programme start="20250613160000 -0500" stop="20250613180000 -0500" channel="ESPN+ 7">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Heptathlon - 100 Hurdles</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Heptathlon - 100 Hurdles - No Sport</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250612145000 -0500" stop="20250612165000 -0500" channel="ESPN+ 8">
-            <title lang="en">Mirandés vs. Racing Santander (Semifinals, Leg 2) (Spanish Segunda Division)</title>
-            <desc lang="en">Mirandés vs. Racing Santander (Semifinals, Leg 2) (Spanish Segunda Division) - Soccer</desc>
+         <programme start="20250613170000 -0500" stop="20250613190000 -0500" channel="ESPN+ 8">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Heptathlon - High Jump</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Heptathlon - High Jump - No Sport</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250612145500 -0500" stop="20250612165500 -0500" channel="ESPN+ 9">
-            <title lang="en">En Español-Mirandés vs. Racing Santander (Semifinal - Partido de Vuelta) (Spanish Segunda Division)</title>
-            <desc lang="en">En Español-Mirandés vs. Racing Santander (Semifinal - Partido de Vuelta) (Spanish Segunda Division) - Soccer</desc>
+         <programme start="20250613171500 -0500" stop="20250613191500 -0500" channel="ESPN+ 9">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Discus</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Discus - No Sport</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250612150000 -0500" stop="20250612170000 -0500" channel="ESPN+ 10">
-            <title lang="en">Gulfport Mississippi Open</title>
-            <desc lang="en">Gulfport Mississippi Open - Fishing</desc>
+         <programme start="20250613173000 -0500" stop="20250613193000 -0500" channel="ESPN+ 10">
+            <title lang="en">Fri, 6/13 - ESPN FC</title>
+            <desc lang="en">Fri, 6/13 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250612163000 -0500" stop="20250612183000 -0500" channel="ESPN+ 11">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Hammer</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Hammer - No Sport</desc>
+         <programme start="20250613180000 -0500" stop="20250613200000 -0500" channel="ESPN+ 11">
+            <title lang="en">Boston Cannons vs. Philadelphia Waterdogs</title>
+            <desc lang="en">Boston Cannons vs. Philadelphia Waterdogs - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250612171500 -0500" stop="20250612191500 -0500" channel="ESPN+ 12">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Javelin</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Decathlon - Javelin - No Sport</desc>
+         <programme start="20250613183000 -0500" stop="20250613203000 -0500" channel="ESPN+ 12">
+            <title lang="en">Valley Blue Sox vs. Newport Gulls</title>
+            <desc lang="en">Valley Blue Sox vs. Newport Gulls - Baseball</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250612173000 -0500" stop="20250612193000 -0500" channel="ESPN+ 13">
-            <title lang="en">Thu, 6/12 - ESPN FC</title>
-            <desc lang="en">Thu, 6/12 - ESPN FC - Soccer</desc>
+         <programme start="20250613183000 -0500" stop="20250613203000 -0500" channel="ESPN+ 13">
+            <title lang="en">Upper Valley Nighthawks vs. Keene Swamp Bats</title>
+            <desc lang="en">Upper Valley Nighthawks vs. Keene Swamp Bats - Baseball</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250612183500 -0500" stop="20250612203500 -0500" channel="ESPN+ 14">
-            <title lang="en">Madison Mallards vs. Royal Oak Leprechauns</title>
-            <desc lang="en">Madison Mallards vs. Royal Oak Leprechauns - Baseball</desc>
+         <programme start="20250613183000 -0500" stop="20250613203000 -0500" channel="ESPN+ 14">
+            <title lang="en">North Shore Navigators vs. Sanford Mainers</title>
+            <desc lang="en">North Shore Navigators vs. Sanford Mainers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250612190000 -0500" stop="20250612210000 -0500" channel="ESPN+ 15">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships (Women&#x27;s Day 1)</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships (Women&#x27;s Day 1) - No Sport</desc>
+         <programme start="20250613183000 -0500" stop="20250613203000 -0500" channel="ESPN+ 15">
+            <title lang="en">F1 Academy: Canada Qualifying</title>
+            <desc lang="en">F1 Academy: Canada Qualifying - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250612190500 -0500" stop="20250612210500 -0500" channel="ESPN+ 16">
-            <title lang="en">Wausau Ignite vs. Madison Nightmares</title>
-            <desc lang="en">Wausau Ignite vs. Madison Nightmares - Softball</desc>
+         <programme start="20250613183000 -0500" stop="20250613203000 -0500" channel="ESPN+ 16">
+            <title lang="en">One Knoxville SC vs. Richmond Kickers</title>
+            <desc lang="en">One Knoxville SC vs. Richmond Kickers - Soccer</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250612193000 -0500" stop="20250612213000 -0500" channel="ESPN+ 17">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Pole Vault</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Pole Vault - No Sport</desc>
+         <programme start="20250613183500 -0500" stop="20250613203500 -0500" channel="ESPN+ 17">
+            <title lang="en">Rockford Rivets vs. Battle Creek Battle Jacks</title>
+            <desc lang="en">Rockford Rivets vs. Battle Creek Battle Jacks - Baseball</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250612193500 -0500" stop="20250612213500 -0500" channel="ESPN+ 18">
-            <title lang="en">Minot Hot Tots vs. Bismarck Larks</title>
-            <desc lang="en">Minot Hot Tots vs. Bismarck Larks - Baseball</desc>
+         <programme start="20250613190000 -0500" stop="20250613210000 -0500" channel="ESPN+ 18">
+            <title lang="en">UmpCast - Louisville vs. #8 Oregon State (Game #2) (College World Series) (UmpCast)</title>
+            <desc lang="en">UmpCast - Louisville vs. #8 Oregon State (Game #2) (College World Series) (UmpCast) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250612200000 -0500" stop="20250612220000 -0500" channel="ESPN+ 19">
-            <title lang="en">Thu, 6/12 - State of Boxing</title>
-            <desc lang="en">Thu, 6/12 - State of Boxing - Boxing</desc>
+         <programme start="20250613190000 -0500" stop="20250613210000 -0500" channel="ESPN+ 19">
+            <title lang="en">Louisville vs. Oregon State (Game #2) (College World Series)</title>
+            <desc lang="en">Louisville vs. Oregon State (Game #2) (College World Series) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250612200000 -0500" stop="20250612220000 -0500" channel="ESPN+ 20">
-            <title lang="en">Prefight Show - 2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights</title>
-            <desc lang="en">Prefight Show - 2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights - MMA</desc>
+         <programme start="20250613190000 -0500" stop="20250613210000 -0500" channel="ESPN+ 20">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Heptathlon - Shot Put</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Heptathlon - Shot Put - No Sport</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250612200000 -0500" stop="20250612220000 -0500" channel="ESPN+ 21">
-            <title lang="en">Union Omaha vs. Greenville Triumph SC</title>
-            <desc lang="en">Union Omaha vs. Greenville Triumph SC - Soccer</desc>
+         <programme start="20250613193000 -0500" stop="20250613213000 -0500" channel="ESPN+ 21">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s High Jump</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s High Jump - No Sport</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250612200500 -0500" stop="20250612220500 -0500" channel="ESPN+ 22">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Javelin</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Javelin - No Sport</desc>
+         <programme start="20250613193500 -0500" stop="20250613213500 -0500" channel="ESPN+ 22">
+            <title lang="en">Badlands Big Sticks vs. La Crosse Loggers</title>
+            <desc lang="en">Badlands Big Sticks vs. La Crosse Loggers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250612203000 -0500" stop="20250612223000 -0500" channel="ESPN+ 23">
-            <title lang="en">2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights</title>
-            <desc lang="en">2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights - MMA</desc>
+         <programme start="20250613200000 -0500" stop="20250613220000 -0500" channel="ESPN+ 23">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Triple Jump</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Men&#x27;s Triple Jump - No Sport</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250612203000 -0500" stop="20250612223000 -0500" channel="ESPN+ 24">
-            <title lang="en">En Español - 2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights</title>
-            <desc lang="en">En Español - 2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights - MMA</desc>
+         <programme start="20250613200000 -0500" stop="20250613220000 -0500" channel="ESPN+ 24">
+            <title lang="en">NCAA Outdoor Track &amp; Field Championships (Men&#x27;s Day 2)</title>
+            <desc lang="en">NCAA Outdoor Track &amp; Field Championships (Men&#x27;s Day 2) - No Sport</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250612203000 -0500" stop="20250612223000 -0500" channel="ESPN+ 25">
-            <title lang="en">Thu, 6/12 - Futbol Americas</title>
-            <desc lang="en">Thu, 6/12 - Futbol Americas - Soccer</desc>
+         <programme start="20250613203000 -0500" stop="20250613223000 -0500" channel="ESPN+ 25">
+            <title lang="en">California Redwoods vs. Utah Archers</title>
+            <desc lang="en">California Redwoods vs. Utah Archers - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250612204000 -0500" stop="20250612224000 -0500" channel="ESPN+ 26">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Long Jump</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Long Jump - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 27">
-     <display-name lang="en">ESPN+ 27</display-name>
-   </channel>
-         <programme start="20250612210000 -0500" stop="20250612230000 -0500" channel="ESPN+ 27">
-            <title lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Shot Put</title>
-            <desc lang="en">NCAA Outdoor Track &amp; Field Championships - Women&#x27;s Shot Put - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 28">
-     <display-name lang="en">ESPN+ 28</display-name>
-   </channel>
-         <programme start="20250612230000 -0500" stop="20250612250000 -0500" channel="ESPN+ 28">
-            <title lang="en">En Español - 2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights (Main Card)</title>
-            <desc lang="en">En Español - 2025 PFL World Tournament (Semifinals): Welterweights &amp; Featherweights (Main Card) - MMA</desc>
+         <programme start="20250613223000 -0500" stop="20250613243000 -0500" channel="ESPN+ 26">
+            <title lang="en">NCAA Men&#x27;s Track &amp; Field Trophy Presentation</title>
+            <desc lang="en">NCAA Men&#x27;s Track &amp; Field Trophy Presentation - No Sport</desc>
          </programme>
 </tv>
