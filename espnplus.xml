@@ -3,176 +3,309 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250620080000 -0500" stop="20250620100000 -0500" channel="ESPN+ 1">
-            <title lang="en">Travelers Championship: Main Feed (Second Round)</title>
-            <desc lang="en">Travelers Championship: Main Feed (Second Round) - Golf</desc>
+         <programme start="20250621080000 -0500" stop="20250621100000 -0500" channel="ESPN+ 1">
+            <title lang="en">Travelers Championship: Main Feed (Third Round)</title>
+            <desc lang="en">Travelers Championship: Main Feed (Third Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250620090000 -0500" stop="20250620110000 -0500" channel="ESPN+ 2">
-            <title lang="en">Travelers Championship: Featured Holes #5, #11, #15 &amp; #16 (Second Round) (Featured Holes #5, #11, #15 &amp; #16)</title>
-            <desc lang="en">Travelers Championship: Featured Holes #5, #11, #15 &amp; #16 (Second Round) (Featured Holes #5, #11, #15 &amp; #16) - Golf</desc>
+         <programme start="20250621084500 -0500" stop="20250621104500 -0500" channel="ESPN+ 2">
+            <title lang="en">Travelers Championship: Finau &amp; Hovland Featured Groups (Third Round) (Featured Groups)</title>
+            <desc lang="en">Travelers Championship: Finau &amp; Hovland Featured Groups (Third Round) (Featured Groups) - Golf</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250620100000 -0500" stop="20250620120000 -0500" channel="ESPN+ 3">
-            <title lang="en">West Indies Women vs. South Africa Women (1st T20)</title>
-            <desc lang="en">West Indies Women vs. South Africa Women (1st T20) - Cricket</desc>
+         <programme start="20250621090000 -0500" stop="20250621110000 -0500" channel="ESPN+ 3">
+            <title lang="en">Travelers Championship: Schauffele Marquee Group (Third Round) (Marquee Group)</title>
+            <desc lang="en">Travelers Championship: Schauffele Marquee Group (Third Round) (Marquee Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250620100000 -0500" stop="20250620120000 -0500" channel="ESPN+ 4">
-            <title lang="en">UFC Fight Night Pre-Show Presented by No. 12 Irish Whiskey: Hill vs. Rountree Jr.</title>
-            <desc lang="en">UFC Fight Night Pre-Show Presented by No. 12 Irish Whiskey: Hill vs. Rountree Jr. - MMA</desc>
+         <programme start="20250621090000 -0500" stop="20250621110000 -0500" channel="ESPN+ 4">
+            <title lang="en">Travelers Championship: Featured Holes #5, #11, #15 &amp; #16 (Third Round) (Featured Hole)</title>
+            <desc lang="en">Travelers Championship: Featured Holes #5, #11, #15 &amp; #16 (Third Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250620101500 -0500" stop="20250620121500 -0500" channel="ESPN+ 5">
-            <title lang="en">Travelers Championship: Thomas &amp; Schauffele Featured Groups (Second Round) (Thomas &amp; Schauffele Featured Groups)</title>
-            <desc lang="en">Travelers Championship: Thomas &amp; Schauffele Featured Groups (Second Round) (Thomas &amp; Schauffele Featured Groups) - Golf</desc>
+         <programme start="20250621110000 -0500" stop="20250621130000 -0500" channel="ESPN+ 5">
+            <title lang="en">ACL Signature #5 2025 - Pro Doubles (Pro Doubles)</title>
+            <desc lang="en">ACL Signature #5 2025 - Pro Doubles (Pro Doubles) - Cornhole</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250620103000 -0500" stop="20250620123000 -0500" channel="ESPN+ 6">
-            <title lang="en">Travelers Championship: Scheffler Marquee Group (Second Round) (Scheffler Marquee Group)</title>
-            <desc lang="en">Travelers Championship: Scheffler Marquee Group (Second Round) (Scheffler Marquee Group) - Golf</desc>
+         <programme start="20250621110000 -0500" stop="20250621130000 -0500" channel="ESPN+ 6">
+            <title lang="en">ESPN BET at the Travelers Championship (Third Round) (ESPN BET on PGA TOUR LIVE)</title>
+            <desc lang="en">ESPN BET at the Travelers Championship (Third Round) (ESPN BET on PGA TOUR LIVE) - Golf</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250620120000 -0500" stop="20250620140000 -0500" channel="ESPN+ 7">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250621120000 -0500" stop="20250621140000 -0500" channel="ESPN+ 7">
+            <title lang="en">UFC Fight Night Presented by Bud Light: Hill vs. Rountree Jr.</title>
+            <desc lang="en">UFC Fight Night Presented by Bud Light: Hill vs. Rountree Jr. - MMA</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250620130000 -0500" stop="20250620150000 -0500" channel="ESPN+ 8">
-            <title lang="en">ESPN BET at the Travelers Championship (Second Round) (ESPN BET on PGA TOUR LIVE)</title>
-            <desc lang="en">ESPN BET at the Travelers Championship (Second Round) (ESPN BET on PGA TOUR LIVE) - Golf</desc>
+         <programme start="20250621120000 -0500" stop="20250621140000 -0500" channel="ESPN+ 8">
+            <title lang="en">UFC Fight Night Post Show: Hill vs. Rountree Jr.</title>
+            <desc lang="en">UFC Fight Night Post Show: Hill vs. Rountree Jr. - MMA</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250620140000 -0500" stop="20250620160000 -0500" channel="ESPN+ 9">
-            <title lang="en">Flames Central</title>
-            <desc lang="en">Flames Central - NCAA</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 9">
+            <title lang="en">Phoenix Mercury vs. Chicago Sky</title>
+            <desc lang="en">Phoenix Mercury vs. Chicago Sky - Basketball</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250620150000 -0500" stop="20250620170000 -0500" channel="ESPN+ 10">
-            <title lang="en">Travelers Championship: McIlroy Featured Group (Second Round)</title>
-            <desc lang="en">Travelers Championship: McIlroy Featured Group (Second Round) - Golf</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 10">
+            <title lang="en">En Español-Phoenix Mercury vs. Chicago Sky</title>
+            <desc lang="en">En Español-Phoenix Mercury vs. Chicago Sky - Basketball</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250620150000 -0500" stop="20250620170000 -0500" channel="ESPN+ 11">
-            <title lang="en">Travelers Championship: Featured Hole #16 (Second Round) (Featured Hole #16)</title>
-            <desc lang="en">Travelers Championship: Featured Hole #16 (Second Round) (Featured Hole #16) - Golf</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 11">
+            <title lang="en">Travelers Championship: Featured Hole #15 (Third Round) (Featured Hole)</title>
+            <desc lang="en">Travelers Championship: Featured Hole #15 (Third Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250620150000 -0500" stop="20250620170000 -0500" channel="ESPN+ 12">
-            <title lang="en">Travelers Championship: Featured Hole #15 (Second Round) (Featured Hole #15)</title>
-            <desc lang="en">Travelers Championship: Featured Hole #15 (Second Round) (Featured Hole #15) - Golf</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 12">
+            <title lang="en">Travelers Championship: McIlroy Featured Group (Third Round)</title>
+            <desc lang="en">Travelers Championship: McIlroy Featured Group (Third Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250620150000 -0500" stop="20250620170000 -0500" channel="ESPN+ 13">
-            <title lang="en">Travelers Championship: Aberg Featured Group (Second Round) (Aberg Featured Group)</title>
-            <desc lang="en">Travelers Championship: Aberg Featured Group (Second Round) (Aberg Featured Group) - Golf</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 13">
+            <title lang="en">Travelers Championship: Featured Hole #16 (Third Round) (Featured Hole)</title>
+            <desc lang="en">Travelers Championship: Featured Hole #16 (Third Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250620160000 -0500" stop="20250620180000 -0500" channel="ESPN+ 14">
-            <title lang="en">ACL Signature #5 2025 - Pro Singles (Pro Singles)</title>
-            <desc lang="en">ACL Signature #5 2025 - Pro Singles (Pro Singles) - Cornhole</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 14">
+            <title lang="en">New York Atlas vs. Philadelphia Waterdogs</title>
+            <desc lang="en">New York Atlas vs. Philadelphia Waterdogs - Golf</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250620163000 -0500" stop="20250620183000 -0500" channel="ESPN+ 15">
-            <title lang="en">Prefight Show - 2025 PFL World Tournament (Semifinals): Lightweights, Bantamweights &amp; Women&#x27;s Flyweights</title>
-            <desc lang="en">Prefight Show - 2025 PFL World Tournament (Semifinals): Lightweights, Bantamweights &amp; Women&#x27;s Flyweights - MMA</desc>
+         <programme start="20250621130000 -0500" stop="20250621150000 -0500" channel="ESPN+ 15">
+            <title lang="en">Utah Warriors vs. Houston SaberCats (Conference Final)</title>
+            <desc lang="en">Utah Warriors vs. Houston SaberCats (Conference Final) - Rugby</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250620170000 -0500" stop="20250620190000 -0500" channel="ESPN+ 16">
-            <title lang="en">En Español - 2025 PFL World Tournament (Semifinals): Lightweights, Bantamweights &amp; Women&#x27;s Flyweights</title>
-            <desc lang="en">En Español - 2025 PFL World Tournament (Semifinals): Lightweights, Bantamweights &amp; Women&#x27;s Flyweights - MMA</desc>
+         <programme start="20250621135500 -0500" stop="20250621155500 -0500" channel="ESPN+ 16">
+            <title lang="en">Oviedo vs. Mirandés (Final, Leg 2) (Spanish Segunda Division)</title>
+            <desc lang="en">Oviedo vs. Mirandés (Final, Leg 2) (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250620170000 -0500" stop="20250620190000 -0500" channel="ESPN+ 17">
-            <title lang="en">2025 PFL World Tournament (Semifinals): Lightweights, Bantamweights &amp; Women&#x27;s Flyweights</title>
-            <desc lang="en">2025 PFL World Tournament (Semifinals): Lightweights, Bantamweights &amp; Women&#x27;s Flyweights - MMA</desc>
+         <programme start="20250621145000 -0500" stop="20250621165000 -0500" channel="ESPN+ 17">
+            <title lang="en">En Español-Oviedo vs. Mirandés (Final, vuelta) (Spanish Segunda Division)</title>
+            <desc lang="en">En Español-Oviedo vs. Mirandés (Final, vuelta) (Spanish Segunda Division) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250620173000 -0500" stop="20250620193000 -0500" channel="ESPN+ 18">
-            <title lang="en">Fri, 6/20 - ESPN FC</title>
-            <desc lang="en">Fri, 6/20 - ESPN FC - Soccer</desc>
+         <programme start="20250621145000 -0500" stop="20250621165000 -0500" channel="ESPN+ 18">
+            <title lang="en">Detroit City FC vs. Miami FC</title>
+            <desc lang="en">Detroit City FC vs. Miami FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250620183000 -0500" stop="20250620203000 -0500" channel="ESPN+ 19">
-            <title lang="en">Mystic Schooners vs. Newport Gulls</title>
-            <desc lang="en">Mystic Schooners vs. Newport Gulls - Baseball</desc>
+         <programme start="20250621160000 -0500" stop="20250621180000 -0500" channel="ESPN+ 19">
+            <title lang="en">Boston Cannons vs. Maryland Whipsnakes</title>
+            <desc lang="en">Boston Cannons vs. Maryland Whipsnakes - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250620183000 -0500" stop="20250620203000 -0500" channel="ESPN+ 20">
-            <title lang="en">North Shore Navigators vs. Vermont Mountaineers</title>
-            <desc lang="en">North Shore Navigators vs. Vermont Mountaineers - Baseball</desc>
+         <programme start="20250621160000 -0500" stop="20250621180000 -0500" channel="ESPN+ 20">
+            <title lang="en">Pittsburgh Riverhounds SC vs. Tampa Bay Rowdies</title>
+            <desc lang="en">Pittsburgh Riverhounds SC vs. Tampa Bay Rowdies - Soccer</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250620183000 -0500" stop="20250620203000 -0500" channel="ESPN+ 21">
-            <title lang="en">Bristol Blues vs. Valley Blue Sox</title>
-            <desc lang="en">Bristol Blues vs. Valley Blue Sox - Baseball</desc>
+         <programme start="20250621173000 -0500" stop="20250621193000 -0500" channel="ESPN+ 21">
+            <title lang="en">Keene Swamp Bats vs. Bristol Blues</title>
+            <desc lang="en">Keene Swamp Bats vs. Bristol Blues - Baseball</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250620193000 -0500" stop="20250620213000 -0500" channel="ESPN+ 22">
-            <title lang="en">Hartford Athletic vs. Loudoun United FC</title>
-            <desc lang="en">Hartford Athletic vs. Loudoun United FC - Soccer</desc>
+         <programme start="20250621173000 -0500" stop="20250621193000 -0500" channel="ESPN+ 22">
+            <title lang="en">Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik</title>
+            <desc lang="en">Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik - Boxing</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250620193500 -0500" stop="20250620213500 -0500" channel="ESPN+ 23">
-            <title lang="en">Wausau Woodchucks vs. Lakeshore Chinooks</title>
-            <desc lang="en">Wausau Woodchucks vs. Lakeshore Chinooks - Baseball</desc>
+         <programme start="20250621173000 -0500" stop="20250621193000 -0500" channel="ESPN+ 23">
+            <title lang="en">En Español - Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik</title>
+            <desc lang="en">En Español - Top Rank Boxing on ESPN: Mielnicki Jr. vs. Gardzielik - Boxing</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250620193500 -0500" stop="20250620213500 -0500" channel="ESPN+ 24">
-            <title lang="en">Minot Honeybees vs. Wausau Ignite</title>
-            <desc lang="en">Minot Honeybees vs. Wausau Ignite - Softball</desc>
+         <programme start="20250621180000 -0500" stop="20250621200000 -0500" channel="ESPN+ 24">
+            <title lang="en">NCAA Men&#x27;s College World Series Studio</title>
+            <desc lang="en">NCAA Men&#x27;s College World Series Studio - Baseball</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250620203500 -0500" stop="20250620223500 -0500" channel="ESPN+ 25">
-            <title lang="en">Duluth Huskies vs. Badlands Big Sticks</title>
-            <desc lang="en">Duluth Huskies vs. Badlands Big Sticks - Baseball</desc>
+         <programme start="20250621180000 -0500" stop="20250621200000 -0500" channel="ESPN+ 25">
+            <title lang="en">New England Free Jacks vs. Chicago Hounds (Conference Final)</title>
+            <desc lang="en">New England Free Jacks vs. Chicago Hounds (Conference Final) - MMA</desc>
+         </programme>
+   <channel id="ESPN+ 26">
+     <display-name lang="en">ESPN+ 26</display-name>
+   </channel>
+         <programme start="20250621180000 -0500" stop="20250621200000 -0500" channel="ESPN+ 26">
+            <title lang="en">Ottawa Rapid FC vs. Calgary Wild FC</title>
+            <desc lang="en">Ottawa Rapid FC vs. Calgary Wild FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 27">
+     <display-name lang="en">ESPN+ 27</display-name>
+   </channel>
+         <programme start="20250621183500 -0500" stop="20250621203500 -0500" channel="ESPN+ 27">
+            <title lang="en">2025 WSL Championship Tour: Vivo Rio Pro</title>
+            <desc lang="en">2025 WSL Championship Tour: Vivo Rio Pro - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 28">
+     <display-name lang="en">ESPN+ 28</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 28">
+            <title lang="en">#13 Coastal Carolina vs. #6 LSU (MCWS Finals Game 1) (College World Series)</title>
+            <desc lang="en">#13 Coastal Carolina vs. #6 LSU (MCWS Finals Game 1) (College World Series) - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 29">
+     <display-name lang="en">ESPN+ 29</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 29">
+            <title lang="en">UmpCast - #13 Coastal Carolina vs. #6 LSU (MCWS Finals Game 1) (College World Series) (UmpCast)</title>
+            <desc lang="en">UmpCast - #13 Coastal Carolina vs. #6 LSU (MCWS Finals Game 1) (College World Series) (UmpCast) - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 30">
+            <title lang="en">En Español-#13 Coastal Carolina vs. #6 LSU (MCWS Finals Game 1) (College World Series)</title>
+            <desc lang="en">En Español-#13 Coastal Carolina vs. #6 LSU (MCWS Finals Game 1) (College World Series) - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 31">
+     <display-name lang="en">ESPN+ 31</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 31">
+            <title lang="en">En Español - UFC Fight Night: Hill vs. Rountree Jr. </title>
+            <desc lang="en">En Español - UFC Fight Night: Hill vs. Rountree Jr.  - Lacrosse</desc>
+         </programme>
+   <channel id="ESPN+ 32">
+     <display-name lang="en">ESPN+ 32</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 32">
+            <title lang="en">Rhode Island FC vs. Sacramento Republic FC</title>
+            <desc lang="en">Rhode Island FC vs. Sacramento Republic FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 33">
+     <display-name lang="en">ESPN+ 33</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 33">
+            <title lang="en">Charleston Battery vs. Phoenix Rising FC</title>
+            <desc lang="en">Charleston Battery vs. Phoenix Rising FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 34">
+     <display-name lang="en">ESPN+ 34</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 34">
+            <title lang="en">One Knoxville SC vs. South Georgia Tormenta FC</title>
+            <desc lang="en">One Knoxville SC vs. South Georgia Tormenta FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 35">
+     <display-name lang="en">ESPN+ 35</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 35">
+            <title lang="en">Richmond Kickers vs. Spokane Velocity</title>
+            <desc lang="en">Richmond Kickers vs. Spokane Velocity - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 36">
+     <display-name lang="en">ESPN+ 36</display-name>
+   </channel>
+         <programme start="20250621190000 -0500" stop="20250621210000 -0500" channel="ESPN+ 36">
+            <title lang="en">Texoma FC vs. Charlotte Independence</title>
+            <desc lang="en">Texoma FC vs. Charlotte Independence - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 37">
+     <display-name lang="en">ESPN+ 37</display-name>
+   </channel>
+         <programme start="20250621190500 -0500" stop="20250621210500 -0500" channel="ESPN+ 37">
+            <title lang="en">Royal Oak Leprechauns vs. Traverse City Pit Spitters</title>
+            <desc lang="en">Royal Oak Leprechauns vs. Traverse City Pit Spitters - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 38">
+     <display-name lang="en">ESPN+ 38</display-name>
+   </channel>
+         <programme start="20250621193000 -0500" stop="20250621213000 -0500" channel="ESPN+ 38">
+            <title lang="en">Birmingham Legion FC vs. Oakland Roots SC</title>
+            <desc lang="en">Birmingham Legion FC vs. Oakland Roots SC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 39">
+     <display-name lang="en">ESPN+ 39</display-name>
+   </channel>
+         <programme start="20250621193500 -0500" stop="20250621213500 -0500" channel="ESPN+ 39">
+            <title lang="en">Rockford Rivets vs. Battle Creek Battle Jacks</title>
+            <desc lang="en">Rockford Rivets vs. Battle Creek Battle Jacks - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 40">
+     <display-name lang="en">ESPN+ 40</display-name>
+   </channel>
+         <programme start="20250621200000 -0500" stop="20250621220000 -0500" channel="ESPN+ 40">
+            <title lang="en">New Mexico United vs. San Antonio FC</title>
+            <desc lang="en">New Mexico United vs. San Antonio FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 41">
+     <display-name lang="en">ESPN+ 41</display-name>
+   </channel>
+         <programme start="20250621203000 -0500" stop="20250621223000 -0500" channel="ESPN+ 41">
+            <title lang="en">AV Alta FC vs. Portland Hearts of Pine</title>
+            <desc lang="en">AV Alta FC vs. Portland Hearts of Pine - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 42">
+     <display-name lang="en">ESPN+ 42</display-name>
+   </channel>
+         <programme start="20250621210000 -0500" stop="20250621230000 -0500" channel="ESPN+ 42">
+            <title lang="en">Sat, 6/21 - ESPN FC</title>
+            <desc lang="en">Sat, 6/21 - ESPN FC - Rugby</desc>
+         </programme>
+   <channel id="ESPN+ 43">
+     <display-name lang="en">ESPN+ 43</display-name>
+   </channel>
+         <programme start="20250621210000 -0500" stop="20250621230000 -0500" channel="ESPN+ 43">
+            <title lang="en">Greenville Triumph SC vs. Chattanooga Red Wolves SC</title>
+            <desc lang="en">Greenville Triumph SC vs. Chattanooga Red Wolves SC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 44">
+     <display-name lang="en">ESPN+ 44</display-name>
+   </channel>
+         <programme start="20250621230000 -0500" stop="20250621250000 -0500" channel="ESPN+ 44">
+            <title lang="en">Madison Nightmares vs. Mankato Habaneros</title>
+            <desc lang="en">Madison Nightmares vs. Mankato Habaneros - Soccer</desc>
          </programme>
 </tv>
