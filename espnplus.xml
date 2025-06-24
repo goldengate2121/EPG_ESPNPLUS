@@ -3,176 +3,64 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250622000000 -0500" stop="20250622020000 -0500" channel="ESPN+ 1">
-            <title lang="en">Futbol Americas: Gold Cup Special</title>
-            <desc lang="en">Futbol Americas: Gold Cup Special - Soccer</desc>
+         <programme start="20250624000000 -0500" stop="20250624020000 -0500" channel="ESPN+ 1">
+            <title lang="en">Futbol Americas: Post CWC Inter Miami vs. Palmeiras</title>
+            <desc lang="en">Futbol Americas: Post CWC Inter Miami vs. Palmeiras - Soccer</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250622063000 -0500" stop="20250622083000 -0500" channel="ESPN+ 2">
-            <title lang="en">2025 WSL Championship Tour: Vivo Rio Pro</title>
-            <desc lang="en">2025 WSL Championship Tour: Vivo Rio Pro - No Sport</desc>
+         <programme start="20250624060000 -0500" stop="20250624080000 -0500" channel="ESPN+ 2">
+            <title lang="en">Wimbledon Tennis Championships Qualifying (First Round)</title>
+            <desc lang="en">Wimbledon Tennis Championships Qualifying (First Round) - Tennis</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250622080000 -0500" stop="20250622100000 -0500" channel="ESPN+ 3">
-            <title lang="en">Travelers Championship: Main Feed (Final Round)</title>
-            <desc lang="en">Travelers Championship: Main Feed (Final Round) - Golf</desc>
+         <programme start="20250624120000 -0500" stop="20250624140000 -0500" channel="ESPN+ 3">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250622084500 -0500" stop="20250622104500 -0500" channel="ESPN+ 4">
-            <title lang="en">Travelers Championship: Featured Holes #5, #11, #15 &amp; #16 (Final Round) (Featured Hole)</title>
-            <desc lang="en">Travelers Championship: Featured Holes #5, #11, #15 &amp; #16 (Final Round) (Featured Hole) - Golf</desc>
+         <programme start="20250624173000 -0500" stop="20250624193000 -0500" channel="ESPN+ 4">
+            <title lang="en">Tue, 6/24 - ESPN FC</title>
+            <desc lang="en">Tue, 6/24 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250622093000 -0500" stop="20250622113000 -0500" channel="ESPN+ 5">
-            <title lang="en">Travelers Championship: Lowry &amp; Morikawa Featured Groups (Final Round) (Featured Groups)</title>
-            <desc lang="en">Travelers Championship: Lowry &amp; Morikawa Featured Groups (Final Round) (Featured Groups) - Golf</desc>
+         <programme start="20250624183000 -0500" stop="20250624203000 -0500" channel="ESPN+ 5">
+            <title lang="en">Sanford Mainers vs. Danbury Westerners</title>
+            <desc lang="en">Sanford Mainers vs. Danbury Westerners - Baseball</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250622100000 -0500" stop="20250622120000 -0500" channel="ESPN+ 6">
-            <title lang="en">West Indies Women vs. South Africa Women (2nd T20)</title>
-            <desc lang="en">West Indies Women vs. South Africa Women (2nd T20) - Cricket</desc>
+         <programme start="20250624183000 -0500" stop="20250624203000 -0500" channel="ESPN+ 6">
+            <title lang="en">North Shore Navigators vs. Keene Swamp Bats</title>
+            <desc lang="en">North Shore Navigators vs. Keene Swamp Bats - Baseball</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250622100000 -0500" stop="20250622120000 -0500" channel="ESPN+ 7">
-            <title lang="en">Travelers Championship: Schauffele Marquee Group (Final Round) (Marquee Group)</title>
-            <desc lang="en">Travelers Championship: Schauffele Marquee Group (Final Round) (Marquee Group) - Golf</desc>
+         <programme start="20250624190500 -0500" stop="20250624210500 -0500" channel="ESPN+ 7">
+            <title lang="en">Wisconsin Rapids Rafters vs. Rockford Rivets</title>
+            <desc lang="en">Wisconsin Rapids Rafters vs. Rockford Rivets - Baseball</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250622110000 -0500" stop="20250622130000 -0500" channel="ESPN+ 8">
-            <title lang="en">ESPN BET at the Travelers Championship (Final Round) (ESPN BET on PGA TOUR LIVE)</title>
-            <desc lang="en">ESPN BET at the Travelers Championship (Final Round) (ESPN BET on PGA TOUR LIVE) - Golf</desc>
+         <programme start="20250624193500 -0500" stop="20250624213500 -0500" channel="ESPN+ 8">
+            <title lang="en">Minot Hot Tots vs. Mankato MoonDogs</title>
+            <desc lang="en">Minot Hot Tots vs. Mankato MoonDogs - Baseball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250622120000 -0500" stop="20250622140000 -0500" channel="ESPN+ 9">
-            <title lang="en">Utah Archers vs. Denver Outlaws</title>
-            <desc lang="en">Utah Archers vs. Denver Outlaws - Lacrosse</desc>
-         </programme>
-   <channel id="ESPN+ 10">
-     <display-name lang="en">ESPN+ 10</display-name>
-   </channel>
-         <programme start="20250622130000 -0500" stop="20250622150000 -0500" channel="ESPN+ 10">
-            <title lang="en">Travelers Championship: Featured Hole #15 (Final Round) (Featured Hole)</title>
-            <desc lang="en">Travelers Championship: Featured Hole #15 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 11">
-     <display-name lang="en">ESPN+ 11</display-name>
-   </channel>
-         <programme start="20250622130000 -0500" stop="20250622150000 -0500" channel="ESPN+ 11">
-            <title lang="en">Travelers Championship: Scheffler Featured Group (Final Round) (Featured Group 1)</title>
-            <desc lang="en">Travelers Championship: Scheffler Featured Group (Final Round) (Featured Group 1) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 12">
-     <display-name lang="en">ESPN+ 12</display-name>
-   </channel>
-         <programme start="20250622130000 -0500" stop="20250622150000 -0500" channel="ESPN+ 12">
-            <title lang="en">Travelers Championship: Featured Hole #16 (Final Round) (Featured Hole)</title>
-            <desc lang="en">Travelers Championship: Featured Hole #16 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 13">
-     <display-name lang="en">ESPN+ 13</display-name>
-   </channel>
-         <programme start="20250622130000 -0500" stop="20250622150000 -0500" channel="ESPN+ 13">
-            <title lang="en">Travelers Championship: Schauffele Featured Group (Final Round)</title>
-            <desc lang="en">Travelers Championship: Schauffele Featured Group (Final Round) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 14">
-     <display-name lang="en">ESPN+ 14</display-name>
-   </channel>
-         <programme start="20250622140000 -0500" stop="20250622160000 -0500" channel="ESPN+ 14">
-            <title lang="en">NCAA Men&#x27;s College World Series Studio</title>
-            <desc lang="en">NCAA Men&#x27;s College World Series Studio - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 15">
-     <display-name lang="en">ESPN+ 15</display-name>
-   </channel>
-         <programme start="20250622140500 -0500" stop="20250622160500 -0500" channel="ESPN+ 15">
-            <title lang="en">St. Cloud Rox vs. Minot Hot Tots</title>
-            <desc lang="en">St. Cloud Rox vs. Minot Hot Tots - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 16">
-     <display-name lang="en">ESPN+ 16</display-name>
-   </channel>
-         <programme start="20250622143000 -0500" stop="20250622163000 -0500" channel="ESPN+ 16">
-            <title lang="en">#6 LSU vs. #13 Coastal Carolina (MCWS Finals Game 2) (College World Series)</title>
-            <desc lang="en">#6 LSU vs. #13 Coastal Carolina (MCWS Finals Game 2) (College World Series) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 17">
-     <display-name lang="en">ESPN+ 17</display-name>
-   </channel>
-         <programme start="20250622143000 -0500" stop="20250622163000 -0500" channel="ESPN+ 17">
-            <title lang="en">UmpCast - #6 LSU vs. #13 Coastal Carolina (MCWS Finals Game 2) (College World Series) (UmpCast)</title>
-            <desc lang="en">UmpCast - #6 LSU vs. #13 Coastal Carolina (MCWS Finals Game 2) (College World Series) (UmpCast) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 18">
-     <display-name lang="en">ESPN+ 18</display-name>
-   </channel>
-         <programme start="20250622143000 -0500" stop="20250622163000 -0500" channel="ESPN+ 18">
-            <title lang="en">En Español-#6 LSU vs. #13 Coastal Carolina (MCWS Finals Game 2) (College World Series)</title>
-            <desc lang="en">En Español-#6 LSU vs. #13 Coastal Carolina (MCWS Finals Game 2) (College World Series) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 19">
-     <display-name lang="en">ESPN+ 19</display-name>
-   </channel>
-         <programme start="20250622143000 -0500" stop="20250622163000 -0500" channel="ESPN+ 19">
-            <title lang="en">Carolina Chaos vs. Maryland Whipsnakes</title>
-            <desc lang="en">Carolina Chaos vs. Maryland Whipsnakes - Lacrosse</desc>
-         </programme>
-   <channel id="ESPN+ 20">
-     <display-name lang="en">ESPN+ 20</display-name>
-   </channel>
-         <programme start="20250622150000 -0500" stop="20250622170000 -0500" channel="ESPN+ 20">
-            <title lang="en">En Español-Indiana Fever vs. Las Vegas Aces</title>
-            <desc lang="en">En Español-Indiana Fever vs. Las Vegas Aces - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 21">
-     <display-name lang="en">ESPN+ 21</display-name>
-   </channel>
-         <programme start="20250622150000 -0500" stop="20250622170000 -0500" channel="ESPN+ 21">
-            <title lang="en">Indiana Fever vs. Las Vegas Aces</title>
-            <desc lang="en">Indiana Fever vs. Las Vegas Aces - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 22">
-     <display-name lang="en">ESPN+ 22</display-name>
-   </channel>
-         <programme start="20250622155500 -0500" stop="20250622175500 -0500" channel="ESPN+ 22">
-            <title lang="en">Vancouver Rise FC vs. Montreal Roses FC</title>
-            <desc lang="en">Vancouver Rise FC vs. Montreal Roses FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 23">
-     <display-name lang="en">ESPN+ 23</display-name>
-   </channel>
-         <programme start="20250622173000 -0500" stop="20250622193000 -0500" channel="ESPN+ 23">
-            <title lang="en">NCAA Men&#x27;s College World Series Presented by Capital One Trophy Presentation (Trophy Presentation) (College World Series)</title>
-            <desc lang="en">NCAA Men&#x27;s College World Series Presented by Capital One Trophy Presentation (Trophy Presentation) (College World Series) - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 24">
-     <display-name lang="en">ESPN+ 24</display-name>
-   </channel>
-         <programme start="20250622180000 -0500" stop="20250622200000 -0500" channel="ESPN+ 24">
-            <title lang="en">Sun, 6/22 - ESPN FC</title>
-            <desc lang="en">Sun, 6/22 - ESPN FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 25">
-     <display-name lang="en">ESPN+ 25</display-name>
-   </channel>
-         <programme start="20250622183500 -0500" stop="20250622203500 -0500" channel="ESPN+ 25">
-            <title lang="en">Bismarck Larks vs. Badlands Big Sticks</title>
-            <desc lang="en">Bismarck Larks vs. Badlands Big Sticks - Baseball</desc>
+         <programme start="20250624220000 -0500" stop="20250624240000 -0500" channel="ESPN+ 9">
+            <title lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 5)</title>
+            <desc lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 5) - MMA</desc>
          </programme>
 </tv>
