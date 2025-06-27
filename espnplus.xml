@@ -3,169 +3,302 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250626060000 -0500" stop="20250626080000 -0500" channel="ESPN+ 1">
-            <title lang="en">2025 WSL Championship Tour: Vivo Rio Pro</title>
-            <desc lang="en">2025 WSL Championship Tour: Vivo Rio Pro - Surfing</desc>
+         <programme start="20250627000000 -0500" stop="20250627020000 -0500" channel="ESPN+ 1">
+            <title lang="en">Futbol Americas: Post CWC Real Madrid and Pachua</title>
+            <desc lang="en">Futbol Americas: Post CWC Real Madrid and Pachua - Soccer</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250626060000 -0500" stop="20250626080000 -0500" channel="ESPN+ 2">
-            <title lang="en">Wimbledon Tennis Championships Qualifying (Third Round)</title>
-            <desc lang="en">Wimbledon Tennis Championships Qualifying (Third Round) - Tennis</desc>
+         <programme start="20250627035000 -0500" stop="20250627055000 -0500" channel="ESPN+ 2">
+            <title lang="en">En Español-Formula 3 Austria Practice</title>
+            <desc lang="en">En Español-Formula 3 Austria Practice - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250626064500 -0500" stop="20250626084500 -0500" channel="ESPN+ 3">
-            <title lang="en">Rocket Classic: Main Feed (First Round)</title>
-            <desc lang="en">Rocket Classic: Main Feed (First Round) - Golf</desc>
+         <programme start="20250627035500 -0500" stop="20250627055500 -0500" channel="ESPN+ 3">
+            <title lang="en">Formula 3 Austria Practice</title>
+            <desc lang="en">Formula 3 Austria Practice - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250626070000 -0500" stop="20250626090000 -0500" channel="ESPN+ 4">
-            <title lang="en">Rocket Classic: Featured Holes #5, #11, #15 &amp; #17 (First Round) (Featured Hole)</title>
-            <desc lang="en">Rocket Classic: Featured Holes #5, #11, #15 &amp; #17 (First Round) (Featured Hole) - Golf</desc>
+         <programme start="20250627045000 -0500" stop="20250627065000 -0500" channel="ESPN+ 4">
+            <title lang="en">En Español-Formula 2 Austria Practice</title>
+            <desc lang="en">En Español-Formula 2 Austria Practice - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250626071500 -0500" stop="20250626091500 -0500" channel="ESPN+ 5">
-            <title lang="en">Rocket Classic: Morikawa Marquee Group (First Round) (Morikawa Marquee Group)</title>
-            <desc lang="en">Rocket Classic: Morikawa Marquee Group (First Round) (Morikawa Marquee Group) - Golf</desc>
+         <programme start="20250627050500 -0500" stop="20250627070500 -0500" channel="ESPN+ 5">
+            <title lang="en">Formula 2 Austria Practice</title>
+            <desc lang="en">Formula 2 Austria Practice - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250626071500 -0500" stop="20250626091500 -0500" channel="ESPN+ 6">
-            <title lang="en">Rocket Classic: Clark &amp; Fowler Featured Groups (First Round) (Clark &amp; Fowler Featured Groups)</title>
-            <desc lang="en">Rocket Classic: Clark &amp; Fowler Featured Groups (First Round) (Clark &amp; Fowler Featured Groups) - Golf</desc>
+         <programme start="20250627064500 -0500" stop="20250627084500 -0500" channel="ESPN+ 6">
+            <title lang="en">Rocket Classic: Main Feed (Second Round)</title>
+            <desc lang="en">Rocket Classic: Main Feed (Second Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250626094500 -0500" stop="20250626114500 -0500" channel="ESPN+ 7">
-            <title lang="en">West Indies vs. Australia (1st Test - Day 2)</title>
-            <desc lang="en">West Indies vs. Australia (1st Test - Day 2) - Cricket</desc>
+         <programme start="20250627070000 -0500" stop="20250627090000 -0500" channel="ESPN+ 7">
+            <title lang="en">Rocket Classic: Featured Holes #5, #11, #15 &amp; #17 (Second Round) (Featured Hole)</title>
+            <desc lang="en">Rocket Classic: Featured Holes #5, #11, #15 &amp; #17 (Second Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250626110000 -0500" stop="20250626130000 -0500" channel="ESPN+ 8">
-            <title lang="en">LALIGA Best Goalkeeper</title>
-            <desc lang="en">LALIGA Best Goalkeeper - Soccer</desc>
+         <programme start="20250627071500 -0500" stop="20250627091500 -0500" channel="ESPN+ 8">
+            <title lang="en">Rocket Classic: Tom Kim &amp; Cameron Young Featured Groups (Second Round) (Tom Kim &amp; Cameron Young Featured Groups)</title>
+            <desc lang="en">Rocket Classic: Tom Kim &amp; Cameron Young Featured Groups (Second Round) (Tom Kim &amp; Cameron Young Featured Groups) - Golf</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250626110000 -0500" stop="20250626130000 -0500" channel="ESPN+ 9">
-            <title lang="en">En Español - LALIGA Best Goalkeeper</title>
-            <desc lang="en">En Español - LALIGA Best Goalkeeper - Soccer</desc>
+         <programme start="20250627071500 -0500" stop="20250627091500 -0500" channel="ESPN+ 9">
+            <title lang="en">Rocket Classic: Matsuyama Marquee Group (Second Round) (Matsuyama Marquee Group)</title>
+            <desc lang="en">Rocket Classic: Matsuyama Marquee Group (Second Round) (Matsuyama Marquee Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250626120000 -0500" stop="20250626140000 -0500" channel="ESPN+ 10">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250627085500 -0500" stop="20250627105500 -0500" channel="ESPN+ 10">
+            <title lang="en">En Español-Formula 3 Austria Qualifying</title>
+            <desc lang="en">En Español-Formula 3 Austria Qualifying - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250626150000 -0500" stop="20250626170000 -0500" channel="ESPN+ 11">
-            <title lang="en">Rocket Classic: Matsuyama Featured Group (First Round)</title>
-            <desc lang="en">Rocket Classic: Matsuyama Featured Group (First Round) - Golf</desc>
+         <programme start="20250627090000 -0500" stop="20250627110000 -0500" channel="ESPN+ 11">
+            <title lang="en">Formula 3 Austria Qualifying</title>
+            <desc lang="en">Formula 3 Austria Qualifying - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250626150000 -0500" stop="20250626170000 -0500" channel="ESPN+ 12">
-            <title lang="en">Rocket Classic: Cameron Young Featured Group (First Round) (Cameron Young Featured Group)</title>
-            <desc lang="en">Rocket Classic: Cameron Young Featured Group (First Round) (Cameron Young Featured Group) - Golf</desc>
+         <programme start="20250627094000 -0500" stop="20250627114000 -0500" channel="ESPN+ 12">
+            <title lang="en">En Español-Formula 2 Austria Qualifying</title>
+            <desc lang="en">En Español-Formula 2 Austria Qualifying - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250626150000 -0500" stop="20250626170000 -0500" channel="ESPN+ 13">
-            <title lang="en">Rocket Classic: Featured Hole #17 (First Round) (Featured Hole #17)</title>
-            <desc lang="en">Rocket Classic: Featured Hole #17 (First Round) (Featured Hole #17) - Golf</desc>
+         <programme start="20250627094500 -0500" stop="20250627114500 -0500" channel="ESPN+ 13">
+            <title lang="en">West Indies vs. Australia (1st Test - Day 3)</title>
+            <desc lang="en">West Indies vs. Australia (1st Test - Day 3) - Cricket</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250626150000 -0500" stop="20250626170000 -0500" channel="ESPN+ 14">
-            <title lang="en">Rocket Classic: Featured Hole #15 (First Round) (Featured Hole #15)</title>
-            <desc lang="en">Rocket Classic: Featured Hole #15 (First Round) (Featured Hole #15) - Golf</desc>
+         <programme start="20250627095500 -0500" stop="20250627115500 -0500" channel="ESPN+ 14">
+            <title lang="en">Formula 2 Austria Qualifying</title>
+            <desc lang="en">Formula 2 Austria Qualifying - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250626170500 -0500" stop="20250626190500 -0500" channel="ESPN+ 15">
-            <title lang="en">Battle Creek Battle Jacks vs. Kalamazoo Growlers</title>
-            <desc lang="en">Battle Creek Battle Jacks vs. Kalamazoo Growlers - Baseball</desc>
+         <programme start="20250627120000 -0500" stop="20250627140000 -0500" channel="ESPN+ 15">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250626173500 -0500" stop="20250626193500 -0500" channel="ESPN+ 16">
-            <title lang="en">Mankato Habaneros vs. Wausau Ignite</title>
-            <desc lang="en">Mankato Habaneros vs. Wausau Ignite - Softball</desc>
+         <programme start="20250627123500 -0500" stop="20250627143500 -0500" channel="ESPN+ 16">
+            <title lang="en">Porsche Supercup Austria Practice</title>
+            <desc lang="en">Porsche Supercup Austria Practice - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250626180000 -0500" stop="20250626200000 -0500" channel="ESPN+ 17">
-            <title lang="en">UFC 317 Press Conference: Topuria vs. Oliveira</title>
-            <desc lang="en">UFC 317 Press Conference: Topuria vs. Oliveira - MMA</desc>
+         <programme start="20250627140000 -0500" stop="20250627160000 -0500" channel="ESPN+ 17">
+            <title lang="en">Flames Central</title>
+            <desc lang="en">Flames Central - NCAA</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250626180000 -0500" stop="20250626200000 -0500" channel="ESPN+ 18">
-            <title lang="en">Thu, 6/26 - ESPN FC</title>
-            <desc lang="en">Thu, 6/26 - ESPN FC - Soccer</desc>
+         <programme start="20250627150000 -0500" stop="20250627170000 -0500" channel="ESPN+ 18">
+            <title lang="en">Rocket Classic: Fowler Featured Group (Second Round) (Fowler Featured Group)</title>
+            <desc lang="en">Rocket Classic: Fowler Featured Group (Second Round) (Fowler Featured Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250626180500 -0500" stop="20250626200500 -0500" channel="ESPN+ 19">
-            <title lang="en">Waterloo Bucks vs. Willmar Stingers</title>
-            <desc lang="en">Waterloo Bucks vs. Willmar Stingers - Baseball</desc>
+         <programme start="20250627150000 -0500" stop="20250627170000 -0500" channel="ESPN+ 19">
+            <title lang="en">Rocket Classic: Featured Hole  #17 (Second Round) (Featured Hole  #17)</title>
+            <desc lang="en">Rocket Classic: Featured Hole  #17 (Second Round) (Featured Hole  #17) - Golf</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250626183000 -0500" stop="20250626203000 -0500" channel="ESPN+ 20">
-            <title lang="en">Sanford Mainers vs. Bristol Blues</title>
-            <desc lang="en">Sanford Mainers vs. Bristol Blues - Baseball</desc>
+         <programme start="20250627150000 -0500" stop="20250627170000 -0500" channel="ESPN+ 20">
+            <title lang="en">Rocket Classic: Morikawa Featured Group (Second Round)</title>
+            <desc lang="en">Rocket Classic: Morikawa Featured Group (Second Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250626183000 -0500" stop="20250626203000 -0500" channel="ESPN+ 21">
-            <title lang="en">Martha&#x27;s Vineyard Sharks vs. Valley Blue Sox</title>
-            <desc lang="en">Martha&#x27;s Vineyard Sharks vs. Valley Blue Sox - Baseball</desc>
+         <programme start="20250627150000 -0500" stop="20250627170000 -0500" channel="ESPN+ 21">
+            <title lang="en">Rocket Classic: Featured Hole #15 (Second Round) (Featured Hole #15)</title>
+            <desc lang="en">Rocket Classic: Featured Hole #15 (Second Round) (Featured Hole #15) - Golf</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250626190000 -0500" stop="20250626210000 -0500" channel="ESPN+ 22">
-            <title lang="en">PFL Weigh-In Show</title>
-            <desc lang="en">PFL Weigh-In Show - MMA</desc>
+         <programme start="20250627150000 -0500" stop="20250627170000 -0500" channel="ESPN+ 22">
+            <title lang="en">UFC 317 Pre-Show: Topuria vs. Oliveira</title>
+            <desc lang="en">UFC 317 Pre-Show: Topuria vs. Oliveira - MMA</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250626200000 -0500" stop="20250626220000 -0500" channel="ESPN+ 23">
-            <title lang="en">Thu, 6/26 - State of Boxing</title>
-            <desc lang="en">Thu, 6/26 - State of Boxing - Boxing</desc>
+         <programme start="20250627160000 -0500" stop="20250627180000 -0500" channel="ESPN+ 23">
+            <title lang="en">2025 Wimbledon Preview Show</title>
+            <desc lang="en">2025 Wimbledon Preview Show - Tennis</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250626230000 -0500" stop="20250626250000 -0500" channel="ESPN+ 24">
-            <title lang="en">Futbol Americas: Post CWC Real Madrid and Pachua</title>
-            <desc lang="en">Futbol Americas: Post CWC Real Madrid and Pachua - Soccer</desc>
+         <programme start="20250627163000 -0500" stop="20250627183000 -0500" channel="ESPN+ 24">
+            <title lang="en">Ocean State Waves vs. Keene Swamp Bats</title>
+            <desc lang="en">Ocean State Waves vs. Keene Swamp Bats - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 25">
+     <display-name lang="en">ESPN+ 25</display-name>
+   </channel>
+         <programme start="20250627173000 -0500" stop="20250627193000 -0500" channel="ESPN+ 25">
+            <title lang="en">Fri, 6/27 - ESPN FC</title>
+            <desc lang="en">Fri, 6/27 - ESPN FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 26">
+     <display-name lang="en">ESPN+ 26</display-name>
+   </channel>
+         <programme start="20250627180000 -0500" stop="20250627200000 -0500" channel="ESPN+ 26">
+            <title lang="en">Top Rank Boxing on ESPN: Mbilli vs. Sulecki (Main Card)</title>
+            <desc lang="en">Top Rank Boxing on ESPN: Mbilli vs. Sulecki (Main Card) - Boxing</desc>
+         </programme>
+   <channel id="ESPN+ 27">
+     <display-name lang="en">ESPN+ 27</display-name>
+   </channel>
+         <programme start="20250627180000 -0500" stop="20250627200000 -0500" channel="ESPN+ 27">
+            <title lang="en">En Español - Top Rank Boxing on ESPN: Mbilli vs. Sulecki (Main Card)</title>
+            <desc lang="en">En Español - Top Rank Boxing on ESPN: Mbilli vs. Sulecki (Main Card) - Boxing</desc>
+         </programme>
+   <channel id="ESPN+ 28">
+     <display-name lang="en">ESPN+ 28</display-name>
+   </channel>
+         <programme start="20250627180000 -0500" stop="20250627200000 -0500" channel="ESPN+ 28">
+            <title lang="en">The Point Presented by Orkin</title>
+            <desc lang="en">The Point Presented by Orkin - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 29">
+     <display-name lang="en">ESPN+ 29</display-name>
+   </channel>
+         <programme start="20250627183000 -0500" stop="20250627203000 -0500" channel="ESPN+ 29">
+            <title lang="en">Martha&#x27;s Vineyard Sharks vs. Valley Blue Sox</title>
+            <desc lang="en">Martha&#x27;s Vineyard Sharks vs. Valley Blue Sox - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20250627183000 -0500" stop="20250627203000 -0500" channel="ESPN+ 30">
+            <title lang="en">North Shore Navigators vs. Newport Gulls</title>
+            <desc lang="en">North Shore Navigators vs. Newport Gulls - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 31">
+     <display-name lang="en">ESPN+ 31</display-name>
+   </channel>
+         <programme start="20250627183000 -0500" stop="20250627203000 -0500" channel="ESPN+ 31">
+            <title lang="en">Danbury Westerners vs. Mystic Schooners</title>
+            <desc lang="en">Danbury Westerners vs. Mystic Schooners - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 32">
+     <display-name lang="en">ESPN+ 32</display-name>
+   </channel>
+         <programme start="20250627190000 -0500" stop="20250627210000 -0500" channel="ESPN+ 32">
+            <title lang="en">Ocean State Waves vs. Keene Swamp Bats</title>
+            <desc lang="en">Ocean State Waves vs. Keene Swamp Bats - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 33">
+     <display-name lang="en">ESPN+ 33</display-name>
+   </channel>
+         <programme start="20250627190000 -0500" stop="20250627210000 -0500" channel="ESPN+ 33">
+            <title lang="en">NHL Draft</title>
+            <desc lang="en">NHL Draft - Hockey</desc>
+         </programme>
+   <channel id="ESPN+ 34">
+     <display-name lang="en">ESPN+ 34</display-name>
+   </channel>
+         <programme start="20250627190000 -0500" stop="20250627210000 -0500" channel="ESPN+ 34">
+            <title lang="en">Rhode Island FC vs. Portland Hearts of Pine</title>
+            <desc lang="en">Rhode Island FC vs. Portland Hearts of Pine - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 35">
+     <display-name lang="en">ESPN+ 35</display-name>
+   </channel>
+         <programme start="20250627193500 -0500" stop="20250627213500 -0500" channel="ESPN+ 35">
+            <title lang="en">Waterloo Bucks vs. Rochester Honkers</title>
+            <desc lang="en">Waterloo Bucks vs. Rochester Honkers - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 36">
+     <display-name lang="en">ESPN+ 36</display-name>
+   </channel>
+         <programme start="20250627193500 -0500" stop="20250627213500 -0500" channel="ESPN+ 36">
+            <title lang="en">Green Bay Rockers vs. Wausau Woodchucks</title>
+            <desc lang="en">Green Bay Rockers vs. Wausau Woodchucks - Baseball</desc>
+         </programme>
+   <channel id="ESPN+ 37">
+     <display-name lang="en">ESPN+ 37</display-name>
+   </channel>
+         <programme start="20250627193500 -0500" stop="20250627213500 -0500" channel="ESPN+ 37">
+            <title lang="en">Wausau Ignite vs. La Crosse Steam</title>
+            <desc lang="en">Wausau Ignite vs. La Crosse Steam - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 38">
+     <display-name lang="en">ESPN+ 38</display-name>
+   </channel>
+         <programme start="20250627200000 -0500" stop="20250627220000 -0500" channel="ESPN+ 38">
+            <title lang="en">Prefight Show - 2025 PFL World Tournament (Semifinals): Middleweights, Light Heavyweights, &amp; Heavyweights</title>
+            <desc lang="en">Prefight Show - 2025 PFL World Tournament (Semifinals): Middleweights, Light Heavyweights, &amp; Heavyweights - MMA</desc>
+         </programme>
+   <channel id="ESPN+ 39">
+     <display-name lang="en">ESPN+ 39</display-name>
+   </channel>
+         <programme start="20250627200000 -0500" stop="20250627220000 -0500" channel="ESPN+ 39">
+            <title lang="en">UFC 317 Ceremonial Weigh-In: Topuria vs. Oliveira</title>
+            <desc lang="en">UFC 317 Ceremonial Weigh-In: Topuria vs. Oliveira - MMA</desc>
+         </programme>
+   <channel id="ESPN+ 40">
+     <display-name lang="en">ESPN+ 40</display-name>
+   </channel>
+         <programme start="20250627203000 -0500" stop="20250627223000 -0500" channel="ESPN+ 40">
+            <title lang="en">En Español - 2025 PFL World Tournament (Semifinals): Middleweights, Light Heavyweights, &amp; Heavyweights</title>
+            <desc lang="en">En Español - 2025 PFL World Tournament (Semifinals): Middleweights, Light Heavyweights, &amp; Heavyweights - MMA</desc>
+         </programme>
+   <channel id="ESPN+ 41">
+     <display-name lang="en">ESPN+ 41</display-name>
+   </channel>
+         <programme start="20250627203000 -0500" stop="20250627223000 -0500" channel="ESPN+ 41">
+            <title lang="en">2025 PFL World Tournament (Semifinals): Middleweights, Light Heavyweights, &amp; Heavyweights</title>
+            <desc lang="en">2025 PFL World Tournament (Semifinals): Middleweights, Light Heavyweights, &amp; Heavyweights - MMA</desc>
+         </programme>
+   <channel id="ESPN+ 42">
+     <display-name lang="en">ESPN+ 42</display-name>
+   </channel>
+         <programme start="20250627210000 -0500" stop="20250627230000 -0500" channel="ESPN+ 42">
+            <title lang="en">Denver Outlaws vs. California Redwoods</title>
+            <desc lang="en">Denver Outlaws vs. California Redwoods - Lacrosse</desc>
+         </programme>
+   <channel id="ESPN+ 43">
+     <display-name lang="en">ESPN+ 43</display-name>
+   </channel>
+         <programme start="20250627233000 -0500" stop="20250627253000 -0500" channel="ESPN+ 43">
+            <title lang="en">Utah Archers vs. New York Atlas</title>
+            <desc lang="en">Utah Archers vs. New York Atlas - Lacrosse</desc>
          </programme>
 </tv>
