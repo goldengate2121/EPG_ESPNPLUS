@@ -3,302 +3,351 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250718013000 -0500" stop="20250718033000 -0500" channel="ESPN+ 1">
-            <title lang="en">2025 WSL Championship Tour: J-Bay Open</title>
-            <desc lang="en">2025 WSL Championship Tour: J-Bay Open - Surfing</desc>
+         <programme start="20250719090000 -0500" stop="20250719110000 -0500" channel="ESPN+ 1">
+            <title lang="en">2025 Warrior Games: Cycling Competition</title>
+            <desc lang="en">2025 Warrior Games: Cycling Competition - No Sport</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250718100000 -0500" stop="20250718120000 -0500" channel="ESPN+ 2">
-            <title lang="en">Staten Island, NY (Steelers) vs. Staten Island, NY (Jets) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Staten Island, NY (Steelers) vs. Staten Island, NY (Jets) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719095500 -0500" stop="20250719115500 -0500" channel="ESPN+ 2">
+            <title lang="en">Hansa Rostock vs. Aston Villa (International Friendly)</title>
+            <desc lang="en">Hansa Rostock vs. Aston Villa (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250718100000 -0500" stop="20250718120000 -0500" channel="ESPN+ 3">
-            <title lang="en">Spring, TX (Texans) vs. Henderson, NV (Raiders) (Boys 14U Round of 16)</title>
-            <desc lang="en">Spring, TX (Texans) vs. Henderson, NV (Raiders) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719100000 -0500" stop="20250719120000 -0500" channel="ESPN+ 3">
+            <title lang="en">Staten Island, NY (Jets) vs. Costa Mesa, CA (Chargers) (High School Girls Division Quarterfinals)</title>
+            <desc lang="en">Staten Island, NY (Jets) vs. Costa Mesa, CA (Chargers) (High School Girls Division Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250718100000 -0500" stop="20250718120000 -0500" channel="ESPN+ 4">
-            <title lang="en">2025 Warrior Games: Powerlifting Competition</title>
-            <desc lang="en">2025 Warrior Games: Powerlifting Competition - No Sport</desc>
+         <programme start="20250719110000 -0500" stop="20250719130000 -0500" channel="ESPN+ 4">
+            <title lang="en">Ladera Ranch, CA (49ers) vs. Calexico, CA (Cowboys) (High School Girls Division Quarterfinals)</title>
+            <desc lang="en">Ladera Ranch, CA (49ers) vs. Calexico, CA (Cowboys) (High School Girls Division Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250718110000 -0500" stop="20250718130000 -0500" channel="ESPN+ 5">
-            <title lang="en">Oak Bluffs Bluewater Classic &amp; Texas Billfish Pachanga</title>
-            <desc lang="en">Oak Bluffs Bluewater Classic &amp; Texas Billfish Pachanga - Fishing</desc>
+         <programme start="20250719115500 -0500" stop="20250719135500 -0500" channel="ESPN+ 5">
+            <title lang="en">Eintracht Frankfurt vs. 1. FSV Frankfurt 1899 (International Friendly)</title>
+            <desc lang="en">Eintracht Frankfurt vs. 1. FSV Frankfurt 1899 (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250718110000 -0500" stop="20250718130000 -0500" channel="ESPN+ 6">
-            <title lang="en">Whitehouse, OH (Bengals) vs. Clifton Park, NY (Bills) (Boys 14U Round of 16)</title>
-            <desc lang="en">Whitehouse, OH (Bengals) vs. Clifton Park, NY (Bills) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719120000 -0500" stop="20250719140000 -0500" channel="ESPN+ 6">
+            <title lang="en">Austin, TX (Texans) vs. Henderson, NV (Raiders) (High School Girls Division Quarterfinals)</title>
+            <desc lang="en">Austin, TX (Texans) vs. Henderson, NV (Raiders) (High School Girls Division Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250718110000 -0500" stop="20250718130000 -0500" channel="ESPN+ 7">
-            <title lang="en">Leominster, MA (Patriots) vs. Austin, TX (Texans) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Leominster, MA (Patriots) vs. Austin, TX (Texans) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719120000 -0500" stop="20250719140000 -0500" channel="ESPN+ 7">
+            <title lang="en">San Diego, CA (49ers) vs. Miami, FL (Panthers) (Boys 14U Quarterfinals)</title>
+            <desc lang="en">San Diego, CA (49ers) vs. Miami, FL (Panthers) (Boys 14U Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250718120000 -0500" stop="20250718140000 -0500" channel="ESPN+ 8">
-            <title lang="en">Henderson, NV (Raiders) vs. Calvert County, MD (Ravens) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Henderson, NV (Raiders) vs. Calvert County, MD (Ravens) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719120000 -0500" stop="20250719140000 -0500" channel="ESPN+ 8">
+            <title lang="en">Live Oak, CA vs. Washington, UT</title>
+            <desc lang="en">Live Oak, CA vs. Washington, UT - Softball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250718130000 -0500" stop="20250718150000 -0500" channel="ESPN+ 9">
-            <title lang="en">Miami, FL (Dolphins) vs. Jacksonville, FL (Jaguars) (Boys 14U Round of 16)</title>
-            <desc lang="en">Miami, FL (Dolphins) vs. Jacksonville, FL (Jaguars) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719130000 -0500" stop="20250719150000 -0500" channel="ESPN+ 9">
+            <title lang="en">Oak Bluffs Bluewater Classic &amp; Texas Billfish Pachanga</title>
+            <desc lang="en">Oak Bluffs Bluewater Classic &amp; Texas Billfish Pachanga - Fishing</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250718130000 -0500" stop="20250718150000 -0500" channel="ESPN+ 10">
-            <title lang="en">Atlanta, GA (Falcons) vs. Calexico, CA (Cowboys) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Atlanta, GA (Falcons) vs. Calexico, CA (Cowboys) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719130000 -0500" stop="20250719150000 -0500" channel="ESPN+ 10">
+            <title lang="en">Landsdale, PA (Eagles) vs. Miami, FL (Buccaneers) (High School Girls Division Quarterfinals)</title>
+            <desc lang="en">Landsdale, PA (Eagles) vs. Miami, FL (Buccaneers) (High School Girls Division Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250718132500 -0500" stop="20250718152500 -0500" channel="ESPN+ 11">
-            <title lang="en">Bayer 04 Leverkusen vs. CR Flamengo U20 (International Friendly)</title>
-            <desc lang="en">Bayer 04 Leverkusen vs. CR Flamengo U20 (International Friendly) - Soccer</desc>
+         <programme start="20250719130000 -0500" stop="20250719150000 -0500" channel="ESPN+ 11">
+            <title lang="en">Clifton Park, NY (Bills) vs. Henderson, NV (Raiders) (Boys 14U Quarterfinals)</title>
+            <desc lang="en">Clifton Park, NY (Bills) vs. Henderson, NV (Raiders) (Boys 14U Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250718140000 -0500" stop="20250718160000 -0500" channel="ESPN+ 12">
-            <title lang="en">Bakersfield, CA (Chargers) vs. Long Island, NY (Ravens) (Boys 14U Round of 16)</title>
-            <desc lang="en">Bakersfield, CA (Chargers) vs. Long Island, NY (Ravens) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719140000 -0500" stop="20250719160000 -0500" channel="ESPN+ 12">
+            <title lang="en">Jacksonville, FL (Jaguars) vs. Long Island, NY (Ravens) (Boys 14U Quarterfinals)</title>
+            <desc lang="en">Jacksonville, FL (Jaguars) vs. Long Island, NY (Ravens) (Boys 14U Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250718140000 -0500" stop="20250718160000 -0500" channel="ESPN+ 13">
-            <title lang="en">Yorkville, NY (Giants) vs. Gilbert, AZ (Cardinals) (Boys 14U Round of 16)</title>
-            <desc lang="en">Yorkville, NY (Giants) vs. Gilbert, AZ (Cardinals) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719140000 -0500" stop="20250719160000 -0500" channel="ESPN+ 13">
+            <title lang="en">2025 NFL FLAG Championships (International 14U Semifinals)</title>
+            <desc lang="en">2025 NFL FLAG Championships (International 14U Semifinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250718140000 -0500" stop="20250718160000 -0500" channel="ESPN+ 14">
-            <title lang="en">Flames Central</title>
-            <desc lang="en">Flames Central - NCAA</desc>
+         <programme start="20250719140000 -0500" stop="20250719160000 -0500" channel="ESPN+ 14">
+            <title lang="en">PFL Champions Series Road to Dubai: Cape Town</title>
+            <desc lang="en">PFL Champions Series Road to Dubai: Cape Town - MMA</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250718150000 -0500" stop="20250718170000 -0500" channel="ESPN+ 15">
-            <title lang="en">Jacksonville, FL (Jaguars) vs. Costa Mesa, CA (Chargers) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Jacksonville, FL (Jaguars) vs. Costa Mesa, CA (Chargers) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719145500 -0500" stop="20250719165500 -0500" channel="ESPN+ 15">
+            <title lang="en">Sevilla vs. Sunderland (International Friendly)</title>
+            <desc lang="en">Sevilla vs. Sunderland (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250718150000 -0500" stop="20250718170000 -0500" channel="ESPN+ 16">
-            <title lang="en">Baldwin City, KS (Bears) vs. Miami, FL (Falcons) (Boys 14U Round of 16)</title>
-            <desc lang="en">Baldwin City, KS (Bears) vs. Miami, FL (Falcons) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719150000 -0500" stop="20250719170000 -0500" channel="ESPN+ 16">
+            <title lang="en">2025 NFL FLAG Championships (International 14U Semifinals)</title>
+            <desc lang="en">2025 NFL FLAG Championships (International 14U Semifinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250718160000 -0500" stop="20250718180000 -0500" channel="ESPN+ 17">
-            <title lang="en">Dallas Mavericks vs. Orlando Magic</title>
-            <desc lang="en">Dallas Mavericks vs. Orlando Magic - Basketball</desc>
+         <programme start="20250719150000 -0500" stop="20250719170000 -0500" channel="ESPN+ 17">
+            <title lang="en">Yorkville, NY (Giants) vs. Miami, FL (Falcons) (Boys 14U Quarterfinals)</title>
+            <desc lang="en">Yorkville, NY (Giants) vs. Miami, FL (Falcons) (Boys 14U Quarterfinals) - Football</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250718160000 -0500" stop="20250718180000 -0500" channel="ESPN+ 18">
-            <title lang="en">Rosemount, MN (Vikings) vs. Miami, FL (Buccaneers) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Rosemount, MN (Vikings) vs. Miami, FL (Buccaneers) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719150000 -0500" stop="20250719170000 -0500" channel="ESPN+ 18">
+            <title lang="en">Boston Cannons vs. Denver Outlaws</title>
+            <desc lang="en">Boston Cannons vs. Denver Outlaws - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250718160000 -0500" stop="20250718180000 -0500" channel="ESPN+ 19">
-            <title lang="en">Lansdale, PA (Eagles) vs. Irvine, CA (Seahawks) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Lansdale, PA (Eagles) vs. Irvine, CA (Seahawks) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719150000 -0500" stop="20250719170000 -0500" channel="ESPN+ 19">
+            <title lang="en">Monument, CO vs. Eagle, ID</title>
+            <desc lang="en">Monument, CO vs. Eagle, ID - Softball</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250718170000 -0500" stop="20250718190000 -0500" channel="ESPN+ 20">
-            <title lang="en">Ladera Ranch, CA (49ers) vs. Phoenix, AZ (Packers) (High School Girls Division Round of 16)</title>
-            <desc lang="en">Ladera Ranch, CA (49ers) vs. Phoenix, AZ (Packers) (High School Girls Division Round of 16) - Football</desc>
+         <programme start="20250719153000 -0500" stop="20250719173000 -0500" channel="ESPN+ 20">
+            <title lang="en">New York Knicks vs. Washington Wizards</title>
+            <desc lang="en">New York Knicks vs. Washington Wizards - Basketball</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250718170000 -0500" stop="20250718190000 -0500" channel="ESPN+ 21">
-            <title lang="en">Miami, FL (Panthers) vs. Aldie, VA (Commanders) (Boys 14U Round of 16)</title>
-            <desc lang="en">Miami, FL (Panthers) vs. Aldie, VA (Commanders) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719155500 -0500" stop="20250719175500 -0500" channel="ESPN+ 21">
+            <title lang="en">Calgary Wild FC vs. Ottawa Rapid FC</title>
+            <desc lang="en">Calgary Wild FC vs. Ottawa Rapid FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250718170000 -0500" stop="20250718190000 -0500" channel="ESPN+ 22">
-            <title lang="en">Fri, 7/18 - ESPN FC</title>
-            <desc lang="en">Fri, 7/18 - ESPN FC - Soccer</desc>
+         <programme start="20250719160000 -0500" stop="20250719180000 -0500" channel="ESPN+ 22">
+            <title lang="en">Sacramento Kings vs. Toronto Raptors (Semifinal)</title>
+            <desc lang="en">Sacramento Kings vs. Toronto Raptors (Semifinal) - Basketball</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250718175500 -0500" stop="20250718195500 -0500" channel="ESPN+ 23">
-            <title lang="en">UFC 318 Pre-Show: Holloway vs. Poirier 3</title>
-            <desc lang="en">UFC 318 Pre-Show: Holloway vs. Poirier 3 - MMA</desc>
+         <programme start="20250719170000 -0500" stop="20250719190000 -0500" channel="ESPN+ 23">
+            <title lang="en">2025 NFL FLAG Championships (International 14U Championship)</title>
+            <desc lang="en">2025 NFL FLAG Championships (International 14U Championship) - Football</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250718180000 -0500" stop="20250718200000 -0500" channel="ESPN+ 24">
-            <title lang="en">Philadelphia 76ers vs. Brooklyn Nets</title>
-            <desc lang="en">Philadelphia 76ers vs. Brooklyn Nets - Basketball</desc>
+         <programme start="20250719170000 -0500" stop="20250719190000 -0500" channel="ESPN+ 24">
+            <title lang="en">Sat, 7/19 - ESPN FC</title>
+            <desc lang="en">Sat, 7/19 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250718180000 -0500" stop="20250718200000 -0500" channel="ESPN+ 25">
-            <title lang="en">San Diego, CA (49ers) vs. Leominster, MA (Packers) (Boys 14U Round of 16)</title>
-            <desc lang="en">San Diego, CA (49ers) vs. Leominster, MA (Packers) (Boys 14U Round of 16) - Football</desc>
+         <programme start="20250719173000 -0500" stop="20250719193000 -0500" channel="ESPN+ 25">
+            <title lang="en">Houston Rockets vs. Minnesota Timberwolves</title>
+            <desc lang="en">Houston Rockets vs. Minnesota Timberwolves - Basketball</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250718180000 -0500" stop="20250718200000 -0500" channel="ESPN+ 26">
-            <title lang="en">2025 ISKA U.S. Open: ISKA World Professional Breaking Championships</title>
-            <desc lang="en">2025 ISKA U.S. Open: ISKA World Professional Breaking Championships - Karate</desc>
+         <programme start="20250719180000 -0500" stop="20250719200000 -0500" channel="ESPN+ 26">
+            <title lang="en">Charlotte Hornets vs. Oklahoma City Thunder (Semifinal)</title>
+            <desc lang="en">Charlotte Hornets vs. Oklahoma City Thunder (Semifinal) - Basketball</desc>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20250718180000 -0500" stop="20250718200000 -0500" channel="ESPN+ 27">
-            <title lang="en">UFC 318 Ceremonial Weigh-In: Holloway vs. Poirier 3</title>
-            <desc lang="en">UFC 318 Ceremonial Weigh-In: Holloway vs. Poirier 3 - MMA</desc>
+         <programme start="20250719180000 -0500" stop="20250719200000 -0500" channel="ESPN+ 27">
+            <title lang="en">2025 ISKA U.S. Open: U.S. Open Night of Champions</title>
+            <desc lang="en">2025 ISKA U.S. Open: U.S. Open Night of Champions - Karate</desc>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20250718183000 -0500" stop="20250718203000 -0500" channel="ESPN+ 28">
-            <title lang="en">Danbury Westerners vs. Keene Swamp Bats</title>
-            <desc lang="en">Danbury Westerners vs. Keene Swamp Bats - Baseball</desc>
+         <programme start="20250719180000 -0500" stop="20250719200000 -0500" channel="ESPN+ 28">
+            <title lang="en">En Español - UFC 318: Holloway vs. Poirier 3 (Prelims)</title>
+            <desc lang="en">En Español - UFC 318: Holloway vs. Poirier 3 (Prelims) - MMA</desc>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20250718183000 -0500" stop="20250718203000 -0500" channel="ESPN+ 29">
-            <title lang="en">North Shore Navigators vs. Vermont Mountaineers</title>
-            <desc lang="en">North Shore Navigators vs. Vermont Mountaineers - Baseball</desc>
+         <programme start="20250719180000 -0500" stop="20250719200000 -0500" channel="ESPN+ 29">
+            <title lang="en">UFC 318: Holloway vs. Poirier 3 (Prelims)</title>
+            <desc lang="en">UFC 318: Holloway vs. Poirier 3 (Prelims) - MMA</desc>
          </programme>
    <channel id="ESPN+ 30">
      <display-name lang="en">ESPN+ 30</display-name>
    </channel>
-         <programme start="20250718183000 -0500" stop="20250718203000 -0500" channel="ESPN+ 30">
-            <title lang="en">North Adams SteepleCATS vs. Sanford Mainers</title>
-            <desc lang="en">North Adams SteepleCATS vs. Sanford Mainers - Baseball</desc>
+         <programme start="20250719180000 -0500" stop="20250719200000 -0500" channel="ESPN+ 30">
+            <title lang="en">Honolulu, HI vs. Tucson, AZ</title>
+            <desc lang="en">Honolulu, HI vs. Tucson, AZ - Softball</desc>
          </programme>
    <channel id="ESPN+ 31">
      <display-name lang="en">ESPN+ 31</display-name>
    </channel>
-         <programme start="20250718183000 -0500" stop="20250718203000 -0500" channel="ESPN+ 31">
-            <title lang="en">New York Atlas vs. California Redwoods</title>
-            <desc lang="en">New York Atlas vs. California Redwoods - Lacrosse</desc>
+         <programme start="20250719183000 -0500" stop="20250719203000 -0500" channel="ESPN+ 31">
+            <title lang="en">Sanford Mainers vs. Valley Blue Sox</title>
+            <desc lang="en">Sanford Mainers vs. Valley Blue Sox - Baseball</desc>
          </programme>
    <channel id="ESPN+ 32">
      <display-name lang="en">ESPN+ 32</display-name>
    </channel>
-         <programme start="20250718190000 -0500" stop="20250718210000 -0500" channel="ESPN+ 32">
-            <title lang="en">Miami Heat vs. Milwaukee Bucks</title>
-            <desc lang="en">Miami Heat vs. Milwaukee Bucks - Basketball</desc>
+         <programme start="20250719183500 -0500" stop="20250719203500 -0500" channel="ESPN+ 32">
+            <title lang="en">Kenosha Kingfish vs. Kalamazoo Growlers</title>
+            <desc lang="en">Kenosha Kingfish vs. Kalamazoo Growlers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 33">
      <display-name lang="en">ESPN+ 33</display-name>
    </channel>
-         <programme start="20250718190000 -0500" stop="20250718210000 -0500" channel="ESPN+ 33">
-            <title lang="en">Union Omaha vs. South Georgia Tormenta FC</title>
-            <desc lang="en">Union Omaha vs. South Georgia Tormenta FC - Soccer</desc>
+         <programme start="20250719190000 -0500" stop="20250719210000 -0500" channel="ESPN+ 33">
+            <title lang="en">Loudoun United FC vs. Oakland Roots SC</title>
+            <desc lang="en">Loudoun United FC vs. Oakland Roots SC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 34">
      <display-name lang="en">ESPN+ 34</display-name>
    </channel>
-         <programme start="20250718192500 -0500" stop="20250718212500 -0500" channel="ESPN+ 34">
-            <title lang="en">AFC Toronto vs. Montreal Roses FC</title>
-            <desc lang="en">AFC Toronto vs. Montreal Roses FC - Soccer</desc>
+         <programme start="20250719190000 -0500" stop="20250719210000 -0500" channel="ESPN+ 34">
+            <title lang="en">Charlotte Independence vs. Portland Hearts of Pine</title>
+            <desc lang="en">Charlotte Independence vs. Portland Hearts of Pine - Soccer</desc>
          </programme>
    <channel id="ESPN+ 35">
      <display-name lang="en">ESPN+ 35</display-name>
    </channel>
-         <programme start="20250718193500 -0500" stop="20250718213500 -0500" channel="ESPN+ 35">
-            <title lang="en">Green Bay Rockers vs. Fond du Lac Dock Spiders</title>
-            <desc lang="en">Green Bay Rockers vs. Fond du Lac Dock Spiders - Baseball</desc>
+         <programme start="20250719190000 -0500" stop="20250719210000 -0500" channel="ESPN+ 35">
+            <title lang="en">Chattanooga Red Wolves SC vs. Spokane Velocity</title>
+            <desc lang="en">Chattanooga Red Wolves SC vs. Spokane Velocity - Soccer</desc>
          </programme>
    <channel id="ESPN+ 36">
      <display-name lang="en">ESPN+ 36</display-name>
    </channel>
-         <programme start="20250718193500 -0500" stop="20250718213500 -0500" channel="ESPN+ 36">
-            <title lang="en">Lakeshore Chinooks vs. Wausau Woodchucks</title>
-            <desc lang="en">Lakeshore Chinooks vs. Wausau Woodchucks - Baseball</desc>
+         <programme start="20250719190000 -0500" stop="20250719210000 -0500" channel="ESPN+ 36">
+            <title lang="en">One Knoxville SC vs. Westchester SC</title>
+            <desc lang="en">One Knoxville SC vs. Westchester SC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 37">
      <display-name lang="en">ESPN+ 37</display-name>
    </channel>
-         <programme start="20250718200000 -0500" stop="20250718220000 -0500" channel="ESPN+ 37">
-            <title lang="en">Utah Jazz vs. Chicago Bulls</title>
-            <desc lang="en">Utah Jazz vs. Chicago Bulls - Basketball</desc>
+         <programme start="20250719193000 -0500" stop="20250719213000 -0500" channel="ESPN+ 37">
+            <title lang="en">Cleveland Cavaliers vs. Golden State Warriors</title>
+            <desc lang="en">Cleveland Cavaliers vs. Golden State Warriors - Basketball</desc>
          </programme>
    <channel id="ESPN+ 38">
      <display-name lang="en">ESPN+ 38</display-name>
    </channel>
-         <programme start="20250718200000 -0500" stop="20250718220000 -0500" channel="ESPN+ 38">
-            <title lang="en">En Español-WNBA Skills Challenge</title>
-            <desc lang="en">En Español-WNBA Skills Challenge - Basketball</desc>
+         <programme start="20250719193000 -0500" stop="20250719213000 -0500" channel="ESPN+ 38">
+            <title lang="en">Charleston Battery vs. Miami FC</title>
+            <desc lang="en">Charleston Battery vs. Miami FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 39">
      <display-name lang="en">ESPN+ 39</display-name>
    </channel>
-         <programme start="20250718200000 -0500" stop="20250718220000 -0500" channel="ESPN+ 39">
-            <title lang="en">Kia WNBA Skills Challenge</title>
-            <desc lang="en">Kia WNBA Skills Challenge - Basketball</desc>
+         <programme start="20250719193500 -0500" stop="20250719213500 -0500" channel="ESPN+ 39">
+            <title lang="en">Eau Claire Express vs. Waterloo Bucks</title>
+            <desc lang="en">Eau Claire Express vs. Waterloo Bucks - Baseball</desc>
          </programme>
    <channel id="ESPN+ 40">
      <display-name lang="en">ESPN+ 40</display-name>
    </channel>
-         <programme start="20250718200000 -0500" stop="20250718220000 -0500" channel="ESPN+ 40">
-            <title lang="en">Vie 7/18 - UFC: Camino al Octágono</title>
-            <desc lang="en">Vie 7/18 - UFC: Camino al Octágono - MMA</desc>
+         <programme start="20250719200000 -0500" stop="20250719220000 -0500" channel="ESPN+ 40">
+            <title lang="en">Detroit Pistons vs. San Antonio Spurs</title>
+            <desc lang="en">Detroit Pistons vs. San Antonio Spurs - Basketball</desc>
          </programme>
    <channel id="ESPN+ 41">
      <display-name lang="en">ESPN+ 41</display-name>
    </channel>
-         <programme start="20250718210000 -0500" stop="20250718230000 -0500" channel="ESPN+ 41">
-            <title lang="en">Indiana Pacers vs. New Orleans Pelicans</title>
-            <desc lang="en">Indiana Pacers vs. New Orleans Pelicans - Basketball</desc>
+         <programme start="20250719200000 -0500" stop="20250719220000 -0500" channel="ESPN+ 41">
+            <title lang="en">Maryland Whipsnakes vs. Philadelphia Waterdogs</title>
+            <desc lang="en">Maryland Whipsnakes vs. Philadelphia Waterdogs - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 42">
      <display-name lang="en">ESPN+ 42</display-name>
    </channel>
-         <programme start="20250718210000 -0500" stop="20250718230000 -0500" channel="ESPN+ 42">
-            <title lang="en">Utah Archers vs. Carolina Chaos</title>
-            <desc lang="en">Utah Archers vs. Carolina Chaos - Lacrosse</desc>
+         <programme start="20250719200000 -0500" stop="20250719220000 -0500" channel="ESPN+ 42">
+            <title lang="en">Louisville City FC vs. FC Tulsa</title>
+            <desc lang="en">Louisville City FC vs. FC Tulsa - Soccer</desc>
          </programme>
    <channel id="ESPN+ 43">
      <display-name lang="en">ESPN+ 43</display-name>
    </channel>
-         <programme start="20250718220000 -0500" stop="20250718240000 -0500" channel="ESPN+ 43">
-            <title lang="en">Denver Nuggets vs. Los Angeles Lakers</title>
-            <desc lang="en">Denver Nuggets vs. Los Angeles Lakers - Basketball</desc>
+         <programme start="20250719200000 -0500" stop="20250719220000 -0500" channel="ESPN+ 43">
+            <title lang="en">Birmingham Legion FC vs. Colorado Springs Switchbacks FC</title>
+            <desc lang="en">Birmingham Legion FC vs. Colorado Springs Switchbacks FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 44">
+     <display-name lang="en">ESPN+ 44</display-name>
+   </channel>
+         <programme start="20250719203000 -0500" stop="20250719223000 -0500" channel="ESPN+ 44">
+            <title lang="en">En Español-2025 WNBA All-Star Game</title>
+            <desc lang="en">En Español-2025 WNBA All-Star Game - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 45">
+     <display-name lang="en">ESPN+ 45</display-name>
+   </channel>
+         <programme start="20250719203000 -0500" stop="20250719223000 -0500" channel="ESPN+ 45">
+            <title lang="en">2025 WNBA All-Star Game</title>
+            <desc lang="en">2025 WNBA All-Star Game - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 46">
+     <display-name lang="en">ESPN+ 46</display-name>
+   </channel>
+         <programme start="20250719210000 -0500" stop="20250719230000 -0500" channel="ESPN+ 46">
+            <title lang="en">El Paso Locomotive FC vs. Phoenix Rising FC</title>
+            <desc lang="en">El Paso Locomotive FC vs. Phoenix Rising FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 47">
+     <display-name lang="en">ESPN+ 47</display-name>
+   </channel>
+         <programme start="20250719210000 -0500" stop="20250719230000 -0500" channel="ESPN+ 47">
+            <title lang="en">Hermiston, OR vs. Mill Creek, WA</title>
+            <desc lang="en">Hermiston, OR vs. Mill Creek, WA - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 48">
+     <display-name lang="en">ESPN+ 48</display-name>
+   </channel>
+         <programme start="20250719213000 -0500" stop="20250719233000 -0500" channel="ESPN+ 48">
+            <title lang="en">Portland Trail Blazers vs. Phoenix Suns</title>
+            <desc lang="en">Portland Trail Blazers vs. Phoenix Suns - Basketball</desc>
+         </programme>
+   <channel id="ESPN+ 49">
+     <display-name lang="en">ESPN+ 49</display-name>
+   </channel>
+         <programme start="20250719220000 -0500" stop="20250719240000 -0500" channel="ESPN+ 49">
+            <title lang="en">Orange County SC vs. Las Vegas Lights FC</title>
+            <desc lang="en">Orange County SC vs. Las Vegas Lights FC - Soccer</desc>
+         </programme>
+   <channel id="ESPN+ 50">
+     <display-name lang="en">ESPN+ 50</display-name>
+   </channel>
+         <programme start="20250719230000 -0500" stop="20250719250000 -0500" channel="ESPN+ 50">
+            <title lang="en">AV Alta FC vs. FC Naples</title>
+            <desc lang="en">AV Alta FC vs. FC Naples - Soccer</desc>
          </programme>
 </tv>
