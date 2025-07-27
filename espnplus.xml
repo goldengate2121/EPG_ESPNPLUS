@@ -3,414 +3,372 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250726031000 -0500" stop="20250726051000 -0500" channel="ESPN+ 1">
-            <title lang="en">En Español-Formula 3 Belgium Sprint Race</title>
-            <desc lang="en">En Español-Formula 3 Belgium Sprint Race - Motor Sports</desc>
+         <programme start="20250727000000 -0500" stop="20250727020000 -0500" channel="ESPN+ 1">
+            <title lang="en">State of Boxing Post Show: Zayas vs. Garcia</title>
+            <desc lang="en">State of Boxing Post Show: Zayas vs. Garcia - Boxing</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250726031500 -0500" stop="20250726051500 -0500" channel="ESPN+ 2">
-            <title lang="en">Formula 3 Belgium Sprint Race</title>
-            <desc lang="en">Formula 3 Belgium Sprint Race - Motor Sports</desc>
+         <programme start="20250727022500 -0500" stop="20250727042500 -0500" channel="ESPN+ 2">
+            <title lang="en">En Español-Formula 3 Belgium Feature Race</title>
+            <desc lang="en">En Español-Formula 3 Belgium Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250726042500 -0500" stop="20250726062500 -0500" channel="ESPN+ 3">
-            <title lang="en">Porsche Supercup Belgium Qualifying</title>
-            <desc lang="en">Porsche Supercup Belgium Qualifying - Motor Sports</desc>
+         <programme start="20250727023000 -0500" stop="20250727043000 -0500" channel="ESPN+ 3">
+            <title lang="en">Formula 3 Belgium Feature Race</title>
+            <desc lang="en">Formula 3 Belgium Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250726073500 -0500" stop="20250726093500 -0500" channel="ESPN+ 4">
-            <title lang="en">En Español-Formula 2 Belgium Sprint Race</title>
-            <desc lang="en">En Español-Formula 2 Belgium Sprint Race - Motor Sports</desc>
+         <programme start="20250727035000 -0500" stop="20250727055000 -0500" channel="ESPN+ 4">
+            <title lang="en">En Español-Formula 2 Belgium Feature  Race</title>
+            <desc lang="en">En Español-Formula 2 Belgium Feature  Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250726074500 -0500" stop="20250726094500 -0500" channel="ESPN+ 5">
-            <title lang="en">Formula 2 Belgium Sprint Race</title>
-            <desc lang="en">Formula 2 Belgium Sprint Race - Motor Sports</desc>
+         <programme start="20250727040000 -0500" stop="20250727060000 -0500" channel="ESPN+ 5">
+            <title lang="en">Formula 2 Belgium Feature Race</title>
+            <desc lang="en">Formula 2 Belgium Feature Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250726080000 -0500" stop="20250726100000 -0500" channel="ESPN+ 6">
-            <title lang="en">3M Open: Featured Holes #4, #8, #13 &amp; #17 (Third Round) (Featured Hole)</title>
-            <desc lang="en">3M Open: Featured Holes #4, #8, #13 &amp; #17 (Third Round) (Featured Hole) - Golf</desc>
+         <programme start="20250727054000 -0500" stop="20250727074000 -0500" channel="ESPN+ 6">
+            <title lang="en">En Español-Porsche Supercup Belgium Race</title>
+            <desc lang="en">En Español-Porsche Supercup Belgium Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250726080000 -0500" stop="20250726100000 -0500" channel="ESPN+ 7">
-            <title lang="en">3M Open: Main Feed (Third Round)</title>
-            <desc lang="en">3M Open: Main Feed (Third Round) - Golf</desc>
+         <programme start="20250727054500 -0500" stop="20250727074500 -0500" channel="ESPN+ 7">
+            <title lang="en">Porsche Supercup Belgium Race</title>
+            <desc lang="en">Porsche Supercup Belgium Race - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250726083000 -0500" stop="20250726103000 -0500" channel="ESPN+ 8">
-            <title lang="en">2025 Warrior Games: Swimming Competition</title>
-            <desc lang="en">2025 Warrior Games: Swimming Competition - No Sport</desc>
+         <programme start="20250727073000 -0500" stop="20250727093000 -0500" channel="ESPN+ 8">
+            <title lang="en">USYS National Championships: 19U Boys Finals</title>
+            <desc lang="en">USYS National Championships: 19U Boys Finals - Soccer</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250726084500 -0500" stop="20250726104500 -0500" channel="ESPN+ 9">
-            <title lang="en">3M Open: Featured Groups (Third Round) (Featured Groups)</title>
-            <desc lang="en">3M Open: Featured Groups (Third Round) (Featured Groups) - Golf</desc>
+         <programme start="20250727080000 -0500" stop="20250727100000 -0500" channel="ESPN+ 9">
+            <title lang="en">3M Open: Main Feed (Final Round)</title>
+            <desc lang="en">3M Open: Main Feed (Final Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250726090000 -0500" stop="20250726110000 -0500" channel="ESPN+ 10">
-            <title lang="en">Burbank, IL vs. DuBois, PA</title>
-            <desc lang="en">Burbank, IL vs. DuBois, PA - Baseball</desc>
+         <programme start="20250727080000 -0500" stop="20250727100000 -0500" channel="ESPN+ 10">
+            <title lang="en">3M Open: Featured Holes #4, #8, #13 &amp; #17 (Final Round) (Featured Hole)</title>
+            <desc lang="en">3M Open: Featured Holes #4, #8, #13 &amp; #17 (Final Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250726090000 -0500" stop="20250726110000 -0500" channel="ESPN+ 11">
-            <title lang="en">3M Open: Marquee Group (Third Round) (Marquee Group)</title>
-            <desc lang="en">3M Open: Marquee Group (Third Round) (Marquee Group) - Golf</desc>
+         <programme start="20250727084500 -0500" stop="20250727104500 -0500" channel="ESPN+ 11">
+            <title lang="en">3M Open: Featured Groups (Final Round) (Featured Groups)</title>
+            <desc lang="en">3M Open: Featured Groups (Final Round) (Featured Groups) - Golf</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250726103000 -0500" stop="20250726123000 -0500" channel="ESPN+ 12">
-            <title lang="en">2025 WSL Longboard Tour: Lexus US Open of Surfing</title>
-            <desc lang="en">2025 WSL Longboard Tour: Lexus US Open of Surfing - Surfing</desc>
+         <programme start="20250727085500 -0500" stop="20250727105500 -0500" channel="ESPN+ 12">
+            <title lang="en">F1: Driver Tracker</title>
+            <desc lang="en">F1: Driver Tracker - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250726105500 -0500" stop="20250726125500 -0500" channel="ESPN+ 13">
-            <title lang="en">Schalke 04 vs. Sevilla (International Friendly)</title>
-            <desc lang="en">Schalke 04 vs. Sevilla (International Friendly) - Soccer</desc>
+         <programme start="20250727085500 -0500" stop="20250727105500 -0500" channel="ESPN+ 13">
+            <title lang="en">F1: Mixed On-Board Camera</title>
+            <desc lang="en">F1: Mixed On-Board Camera - Motor Sports</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250726110000 -0500" stop="20250726130000 -0500" channel="ESPN+ 14">
-            <title lang="en">Mecum Auctions Harrisburg 2025 (Day 3)</title>
-            <desc lang="en">Mecum Auctions Harrisburg 2025 (Day 3) - Motor Sports</desc>
+         <programme start="20250727085500 -0500" stop="20250727105500 -0500" channel="ESPN+ 14">
+            <title lang="en">En Español-Mallorca vs. Shabab Al Ahli Dubai (UAE) (International Friendly)</title>
+            <desc lang="en">En Español-Mallorca vs. Shabab Al Ahli Dubai (UAE) (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250726120000 -0500" stop="20250726140000 -0500" channel="ESPN+ 15">
-            <title lang="en">Guam vs. Guayama, Puerto Rico</title>
-            <desc lang="en">Guam vs. Guayama, Puerto Rico - Baseball</desc>
+         <programme start="20250727085500 -0500" stop="20250727105500 -0500" channel="ESPN+ 15">
+            <title lang="en">Mallorca vs. Shabab Al Ahli Dubai (UAE) (International Friendly)</title>
+            <desc lang="en">Mallorca vs. Shabab Al Ahli Dubai (UAE) (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250726120000 -0500" stop="20250726140000 -0500" channel="ESPN+ 16">
-            <title lang="en">UFC Fight Night: Whittaker vs. de Ridder</title>
-            <desc lang="en">UFC Fight Night: Whittaker vs. de Ridder - MMA</desc>
+         <programme start="20250727090000 -0500" stop="20250727110000 -0500" channel="ESPN+ 16">
+            <title lang="en">Senior League Baseball World Series</title>
+            <desc lang="en">Senior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250726120000 -0500" stop="20250726140000 -0500" channel="ESPN+ 17">
-            <title lang="en">En Español - UFC Fight Night: Whittaker vs. de Ridder </title>
-            <desc lang="en">En Español - UFC Fight Night: Whittaker vs. de Ridder  - MMA</desc>
+         <programme start="20250727090000 -0500" stop="20250727110000 -0500" channel="ESPN+ 17">
+            <title lang="en">3M Open: Marquee Group (Final Round) (Marquee Group)</title>
+            <desc lang="en">3M Open: Marquee Group (Final Round) (Marquee Group) - Golf</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250726120000 -0500" stop="20250726140000 -0500" channel="ESPN+ 18">
-            <title lang="en">PGF 16U Premier National Championship (Championship)</title>
-            <desc lang="en">PGF 16U Premier National Championship (Championship) - Softball</desc>
+         <programme start="20250727103000 -0500" stop="20250727123000 -0500" channel="ESPN+ 18">
+            <title lang="en">USYS National Championships: 19U Girls Finals</title>
+            <desc lang="en">USYS National Championships: 19U Girls Finals - Soccer</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250726130000 -0500" stop="20250726150000 -0500" channel="ESPN+ 19">
-            <title lang="en">3M Open: Featured Hole #13 (Third Round) (Featured Hole)</title>
-            <desc lang="en">3M Open: Featured Hole #13 (Third Round) (Featured Hole) - Golf</desc>
+         <programme start="20250727103000 -0500" stop="20250727123000 -0500" channel="ESPN+ 19">
+            <title lang="en">2025 WSL Longboard Tour: Lexus US Open of Surfing</title>
+            <desc lang="en">2025 WSL Longboard Tour: Lexus US Open of Surfing - No Sport</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250726130000 -0500" stop="20250726150000 -0500" channel="ESPN+ 20">
-            <title lang="en">3M Open: Featured Hole #17 (Third Round) (Featured Hole)</title>
-            <desc lang="en">3M Open: Featured Hole #17 (Third Round) (Featured Hole) - Golf</desc>
+         <programme start="20250727115500 -0500" stop="20250727135500 -0500" channel="ESPN+ 20">
+            <title lang="en">Bochum vs. Bayer 04 Leverkusen (International Friendly)</title>
+            <desc lang="en">Bochum vs. Bayer 04 Leverkusen (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250726130000 -0500" stop="20250726150000 -0500" channel="ESPN+ 21">
-            <title lang="en">3M Open: Featured Group 2 (Third Round)</title>
-            <desc lang="en">3M Open: Featured Group 2 (Third Round) - Golf</desc>
+         <programme start="20250727120000 -0500" stop="20250727140000 -0500" channel="ESPN+ 21">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250726130000 -0500" stop="20250726150000 -0500" channel="ESPN+ 22">
-            <title lang="en">3M Open: Featured Group 1 (Third Round) (Featured Group 1)</title>
-            <desc lang="en">3M Open: Featured Group 1 (Third Round) (Featured Group 1) - Golf</desc>
+         <programme start="20250727120000 -0500" stop="20250727140000 -0500" channel="ESPN+ 22">
+            <title lang="en">Senior League Baseball World Series</title>
+            <desc lang="en">Senior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250726150000 -0500" stop="20250726170000 -0500" channel="ESPN+ 23">
-            <title lang="en">Huk Big Fish Classic</title>
-            <desc lang="en">Huk Big Fish Classic - Fishing</desc>
+         <programme start="20250727120000 -0500" stop="20250727140000 -0500" channel="ESPN+ 23">
+            <title lang="en">AFCS 18U Championship Series (Game #2)</title>
+            <desc lang="en">AFCS 18U Championship Series (Game #2) - Softball</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250726150000 -0500" stop="20250726170000 -0500" channel="ESPN+ 24">
-            <title lang="en">2025 Warrior Games: Sitting Volleyball Day 2 Competition - Finals</title>
-            <desc lang="en">2025 Warrior Games: Sitting Volleyball Day 2 Competition - Finals - No Sport</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 24">
+            <title lang="en">Bristol Blues vs. Valley Blue Sox</title>
+            <desc lang="en">Bristol Blues vs. Valley Blue Sox - Baseball</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250726160000 -0500" stop="20250726180000 -0500" channel="ESPN+ 25">
-            <title lang="en">Tamaulipas, Mexico vs. Perth, Australia</title>
-            <desc lang="en">Tamaulipas, Mexico vs. Perth, Australia - Baseball</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 25">
+            <title lang="en">Huk Big Fish Classic</title>
+            <desc lang="en">Huk Big Fish Classic - Fishing</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250726160000 -0500" stop="20250726180000 -0500" channel="ESPN+ 26">
-            <title lang="en">Oakland Roots SC vs. Orange County SC</title>
-            <desc lang="en">Oakland Roots SC vs. Orange County SC - Soccer</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 26">
+            <title lang="en">3M Open: Featured Hole #17 (Final Round) (Featured Hole)</title>
+            <desc lang="en">3M Open: Featured Hole #17 (Final Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20250726161500 -0500" stop="20250726181500 -0500" channel="ESPN+ 27">
-            <title lang="en">Waukesha Kennel Club Dog Show</title>
-            <desc lang="en">Waukesha Kennel Club Dog Show - Dogs</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 27">
+            <title lang="en">3M Open: Featured Hole #13 (Final Round) (Featured Hole)</title>
+            <desc lang="en">3M Open: Featured Hole #13 (Final Round) (Featured Hole) - Golf</desc>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20250726170000 -0500" stop="20250726190000 -0500" channel="ESPN+ 28">
-            <title lang="en">Sanford Mainers vs. North Shore Navigators</title>
-            <desc lang="en">Sanford Mainers vs. North Shore Navigators - Baseball</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 28">
+            <title lang="en">3M Open: Featured Group 2 (Final Round)</title>
+            <desc lang="en">3M Open: Featured Group 2 (Final Round) - Golf</desc>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20250726170000 -0500" stop="20250726190000 -0500" channel="ESPN+ 29">
-            <title lang="en">Sat, 7/26 - ESPN FC</title>
-            <desc lang="en">Sat, 7/26 - ESPN FC - Soccer</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 29">
+            <title lang="en">3M Open: Featured Group 1 (Final Round) (Featured Group 1)</title>
+            <desc lang="en">3M Open: Featured Group 1 (Final Round) (Featured Group 1) - Golf</desc>
          </programme>
    <channel id="ESPN+ 30">
      <display-name lang="en">ESPN+ 30</display-name>
    </channel>
-         <programme start="20250726170500 -0500" stop="20250726190500 -0500" channel="ESPN+ 30">
-            <title lang="en">La Crosse Steam vs. Madison Nightmares</title>
-            <desc lang="en">La Crosse Steam vs. Madison Nightmares - Softball</desc>
+         <programme start="20250727130000 -0500" stop="20250727150000 -0500" channel="ESPN+ 30">
+            <title lang="en">Bacolod City, Philippines vs. Palo Cedro, CA</title>
+            <desc lang="en">Bacolod City, Philippines vs. Palo Cedro, CA - Softball</desc>
          </programme>
    <channel id="ESPN+ 31">
      <display-name lang="en">ESPN+ 31</display-name>
    </channel>
-         <programme start="20250726174500 -0500" stop="20250726194500 -0500" channel="ESPN+ 31">
-            <title lang="en">Top Rank Boxing on ESPN: Zayas vs. Garcia</title>
-            <desc lang="en">Top Rank Boxing on ESPN: Zayas vs. Garcia - Boxing</desc>
+         <programme start="20250727133000 -0500" stop="20250727153000 -0500" channel="ESPN+ 31">
+            <title lang="en">Adrenaline All American Rising Boys Lacrosse</title>
+            <desc lang="en">Adrenaline All American Rising Boys Lacrosse - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 32">
      <display-name lang="en">ESPN+ 32</display-name>
    </channel>
-         <programme start="20250726180000 -0500" stop="20250726200000 -0500" channel="ESPN+ 32">
-            <title lang="en">En Español - Top Rank Boxing on ESPN: Zayas vs. Garcia</title>
-            <desc lang="en">En Español - Top Rank Boxing on ESPN: Zayas vs. Garcia - Boxing</desc>
+         <programme start="20250727133000 -0500" stop="20250727153000 -0500" channel="ESPN+ 32">
+            <title lang="en">Maunabo, Puerto Rico vs. Irmo, SC</title>
+            <desc lang="en">Maunabo, Puerto Rico vs. Irmo, SC - Softball</desc>
          </programme>
    <channel id="ESPN+ 33">
      <display-name lang="en">ESPN+ 33</display-name>
    </channel>
-         <programme start="20250726180000 -0500" stop="20250726200000 -0500" channel="ESPN+ 33">
-            <title lang="en">UFC Fight Night Post Show: Whittaker vs. de Ridder</title>
-            <desc lang="en">UFC Fight Night Post Show: Whittaker vs. de Ridder - MMA</desc>
+         <programme start="20250727140500 -0500" stop="20250727160500 -0500" channel="ESPN+ 33">
+            <title lang="en">Madison Mallards vs. Fond du Lac Dock Spiders</title>
+            <desc lang="en">Madison Mallards vs. Fond du Lac Dock Spiders - Baseball</desc>
          </programme>
    <channel id="ESPN+ 34">
      <display-name lang="en">ESPN+ 34</display-name>
    </channel>
-         <programme start="20250726180000 -0500" stop="20250726200000 -0500" channel="ESPN+ 34">
-            <title lang="en">PGF Futures All American Game</title>
-            <desc lang="en">PGF Futures All American Game - Softball</desc>
+         <programme start="20250727140500 -0500" stop="20250727160500 -0500" channel="ESPN+ 34">
+            <title lang="en">Battle Creek Battle Jacks vs. Rockford Rivets</title>
+            <desc lang="en">Battle Creek Battle Jacks vs. Rockford Rivets - Baseball</desc>
          </programme>
    <channel id="ESPN+ 35">
      <display-name lang="en">ESPN+ 35</display-name>
    </channel>
-         <programme start="20250726183000 -0500" stop="20250726203000 -0500" channel="ESPN+ 35">
-            <title lang="en">Mystic Schooners vs. Valley Blue Sox</title>
-            <desc lang="en">Mystic Schooners vs. Valley Blue Sox - Baseball</desc>
+         <programme start="20250727143000 -0500" stop="20250727163000 -0500" channel="ESPN+ 35">
+            <title lang="en">AFCS 18U Championship Series (Game #3 (If NEC))</title>
+            <desc lang="en">AFCS 18U Championship Series (Game #3 (If NEC)) - Softball</desc>
          </programme>
    <channel id="ESPN+ 36">
      <display-name lang="en">ESPN+ 36</display-name>
    </channel>
-         <programme start="20250726183000 -0500" stop="20250726203000 -0500" channel="ESPN+ 36">
-            <title lang="en">West Indies vs. Australia (4th T20)</title>
-            <desc lang="en">West Indies vs. Australia (4th T20) - Cricket</desc>
+         <programme start="20250727143000 -0500" stop="20250727163000 -0500" channel="ESPN+ 36">
+            <title lang="en">AFCS 16U Championship Series (Game #3 (If NEC))</title>
+            <desc lang="en">AFCS 16U Championship Series (Game #3 (If NEC)) - Softball</desc>
          </programme>
    <channel id="ESPN+ 37">
      <display-name lang="en">ESPN+ 37</display-name>
    </channel>
-         <programme start="20250726183000 -0500" stop="20250726203000 -0500" channel="ESPN+ 37">
-            <title lang="en">Philadelphia Waterdogs vs. Carolina Chaos</title>
-            <desc lang="en">Philadelphia Waterdogs vs. Carolina Chaos - Lacrosse</desc>
+         <programme start="20250727150000 -0500" stop="20250727170000 -0500" channel="ESPN+ 37">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 38">
      <display-name lang="en">ESPN+ 38</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 38">
-            <title lang="en">Texas Tailgaters vs. Bananas</title>
-            <desc lang="en">Texas Tailgaters vs. Bananas - Baseball</desc>
+         <programme start="20250727150000 -0500" stop="20250727170000 -0500" channel="ESPN+ 38">
+            <title lang="en">Indiana Fever vs. Chicago Sky</title>
+            <desc lang="en">Indiana Fever vs. Chicago Sky - Basketball</desc>
          </programme>
    <channel id="ESPN+ 39">
      <display-name lang="en">ESPN+ 39</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 39">
-            <title lang="en">Eintracht Frankfurt vs. Aston Villa (International Friendly)</title>
-            <desc lang="en">Eintracht Frankfurt vs. Aston Villa (International Friendly) - Soccer</desc>
+         <programme start="20250727150000 -0500" stop="20250727170000 -0500" channel="ESPN+ 39">
+            <title lang="en">En Español-Indiana Fever vs. Chicago Sky</title>
+            <desc lang="en">En Español-Indiana Fever vs. Chicago Sky - Basketball</desc>
          </programme>
    <channel id="ESPN+ 40">
      <display-name lang="en">ESPN+ 40</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 40">
-            <title lang="en">Rhode Island FC vs. Hartford Athletic</title>
-            <desc lang="en">Rhode Island FC vs. Hartford Athletic - Soccer</desc>
+         <programme start="20250727153000 -0500" stop="20250727173000 -0500" channel="ESPN+ 40">
+            <title lang="en">Adrenaline All American Rising Girls Lacrosse</title>
+            <desc lang="en">Adrenaline All American Rising Girls Lacrosse - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 41">
      <display-name lang="en">ESPN+ 41</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 41">
-            <title lang="en">Charlotte Independence vs. Richmond Kickers</title>
-            <desc lang="en">Charlotte Independence vs. Richmond Kickers - Soccer</desc>
+         <programme start="20250727160000 -0500" stop="20250727180000 -0500" channel="ESPN+ 41">
+            <title lang="en">Senior League Baseball World Series</title>
+            <desc lang="en">Senior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 42">
      <display-name lang="en">ESPN+ 42</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 42">
-            <title lang="en">Miami FC vs. South Georgia Tormenta FC</title>
-            <desc lang="en">Miami FC vs. South Georgia Tormenta FC - Soccer</desc>
+         <programme start="20250727160000 -0500" stop="20250727180000 -0500" channel="ESPN+ 42">
+            <title lang="en">Indiana, PA vs. Repentigny, Quebec</title>
+            <desc lang="en">Indiana, PA vs. Repentigny, Quebec - Softball</desc>
          </programme>
    <channel id="ESPN+ 43">
      <display-name lang="en">ESPN+ 43</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 43">
-            <title lang="en">Lexington Sporting Club vs. Louisville City FC</title>
-            <desc lang="en">Lexington Sporting Club vs. Louisville City FC - Soccer</desc>
+         <programme start="20250727163000 -0500" stop="20250727183000 -0500" channel="ESPN+ 43">
+            <title lang="en">Upper Valley Nighthawks vs. Sanford Mainers</title>
+            <desc lang="en">Upper Valley Nighthawks vs. Sanford Mainers - Baseball</desc>
          </programme>
    <channel id="ESPN+ 44">
      <display-name lang="en">ESPN+ 44</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 44">
-            <title lang="en">Chattanooga Red Wolves SC vs. One Knoxville SC</title>
-            <desc lang="en">Chattanooga Red Wolves SC vs. One Knoxville SC - Soccer</desc>
+         <programme start="20250727163000 -0500" stop="20250727183000 -0500" channel="ESPN+ 44">
+            <title lang="en">Milano, Italy vs. Evergreen Park, IL</title>
+            <desc lang="en">Milano, Italy vs. Evergreen Park, IL - Softball</desc>
          </programme>
    <channel id="ESPN+ 45">
      <display-name lang="en">ESPN+ 45</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 45">
-            <title lang="en">Indy Eleven vs. FC Tulsa</title>
-            <desc lang="en">Indy Eleven vs. FC Tulsa - Soccer</desc>
+         <programme start="20250727170000 -0500" stop="20250727190000 -0500" channel="ESPN+ 45">
+            <title lang="en">Sun, 7/27 - ESPN FC</title>
+            <desc lang="en">Sun, 7/27 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 46">
      <display-name lang="en">ESPN+ 46</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 46">
-            <title lang="en">Greenville Triumph SC vs. FC Naples</title>
-            <desc lang="en">Greenville Triumph SC vs. FC Naples - Soccer</desc>
+         <programme start="20250727180000 -0500" stop="20250727200000 -0500" channel="ESPN+ 46">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 47">
      <display-name lang="en">ESPN+ 47</display-name>
    </channel>
-         <programme start="20250726190000 -0500" stop="20250726210000 -0500" channel="ESPN+ 47">
-            <title lang="en">AFCS 18U Championship Series (Game #1)</title>
-            <desc lang="en">AFCS 18U Championship Series (Game #1) - Softball</desc>
+         <programme start="20250727180500 -0500" stop="20250727200500 -0500" channel="ESPN+ 47">
+            <title lang="en">Mankato Habaneros vs. Madison Nightmares</title>
+            <desc lang="en">Mankato Habaneros vs. Madison Nightmares - Softball</desc>
          </programme>
    <channel id="ESPN+ 48">
      <display-name lang="en">ESPN+ 48</display-name>
    </channel>
-         <programme start="20250726190500 -0500" stop="20250726210500 -0500" channel="ESPN+ 48">
-            <title lang="en">Waterloo Bucks vs. St. Cloud Rox</title>
-            <desc lang="en">Waterloo Bucks vs. St. Cloud Rox - Baseball</desc>
+         <programme start="20250727183000 -0500" stop="20250727203000 -0500" channel="ESPN+ 48">
+            <title lang="en">Adrenaline All American Girls Lacrosse</title>
+            <desc lang="en">Adrenaline All American Girls Lacrosse - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 49">
      <display-name lang="en">ESPN+ 49</display-name>
    </channel>
-         <programme start="20250726193000 -0500" stop="20250726213000 -0500" channel="ESPN+ 49">
-            <title lang="en">Spring Valley, CA vs. Easley, SC</title>
-            <desc lang="en">Spring Valley, CA vs. Easley, SC - Baseball</desc>
+         <programme start="20250727190000 -0500" stop="20250727210000 -0500" channel="ESPN+ 49">
+            <title lang="en">Columbus, TX vs. Bacolod City, Philippines</title>
+            <desc lang="en">Columbus, TX vs. Bacolod City, Philippines - Softball</desc>
          </programme>
    <channel id="ESPN+ 50">
      <display-name lang="en">ESPN+ 50</display-name>
    </channel>
-         <programme start="20250726193000 -0500" stop="20250726213000 -0500" channel="ESPN+ 50">
-            <title lang="en">Charleston Battery vs. Tampa Bay Rowdies</title>
-            <desc lang="en">Charleston Battery vs. Tampa Bay Rowdies - Soccer</desc>
+         <programme start="20250727193000 -0500" stop="20250727213000 -0500" channel="ESPN+ 50">
+            <title lang="en">Senior League Baseball World Series</title>
+            <desc lang="en">Senior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 51">
      <display-name lang="en">ESPN+ 51</display-name>
    </channel>
-         <programme start="20250726193000 -0500" stop="20250726213000 -0500" channel="ESPN+ 51">
-            <title lang="en">North Carolina FC vs. Loudoun United FC</title>
-            <desc lang="en">North Carolina FC vs. Loudoun United FC - Soccer</desc>
+         <programme start="20250727193000 -0500" stop="20250727213000 -0500" channel="ESPN+ 51">
+            <title lang="en">Kirkland, WA vs. Maunabo, Puerto Rico</title>
+            <desc lang="en">Kirkland, WA vs. Maunabo, Puerto Rico - Softball</desc>
          </programme>
    <channel id="ESPN+ 52">
      <display-name lang="en">ESPN+ 52</display-name>
    </channel>
-         <programme start="20250726193500 -0500" stop="20250726213500 -0500" channel="ESPN+ 52">
-            <title lang="en">Traverse City Pit Spitters vs. Kenosha Kingfish</title>
-            <desc lang="en">Traverse City Pit Spitters vs. Kenosha Kingfish - Baseball</desc>
+         <programme start="20250727203000 -0500" stop="20250727223000 -0500" channel="ESPN+ 52">
+            <title lang="en">Adrenaline All American Boys Lacrosse</title>
+            <desc lang="en">Adrenaline All American Boys Lacrosse - Lacrosse</desc>
          </programme>
    <channel id="ESPN+ 53">
      <display-name lang="en">ESPN+ 53</display-name>
    </channel>
-         <programme start="20250726200000 -0500" stop="20250726220000 -0500" channel="ESPN+ 53">
-            <title lang="en">Union Omaha vs. El Paso Locomotive FC</title>
-            <desc lang="en">Union Omaha vs. El Paso Locomotive FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 54">
-     <display-name lang="en">ESPN+ 54</display-name>
-   </channel>
-         <programme start="20250726200000 -0500" stop="20250726220000 -0500" channel="ESPN+ 54">
-            <title lang="en">Birmingham Legion FC vs. Forward Madison</title>
-            <desc lang="en">Birmingham Legion FC vs. Forward Madison - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 55">
-     <display-name lang="en">ESPN+ 55</display-name>
-   </channel>
-         <programme start="20250726210000 -0500" stop="20250726230000 -0500" channel="ESPN+ 55">
-            <title lang="en">Denver Outlaws vs. Utah Archers</title>
-            <desc lang="en">Denver Outlaws vs. Utah Archers - Lacrosse</desc>
-         </programme>
-   <channel id="ESPN+ 56">
-     <display-name lang="en">ESPN+ 56</display-name>
-   </channel>
-         <programme start="20250726210000 -0500" stop="20250726230000 -0500" channel="ESPN+ 56">
-            <title lang="en">San Antonio FC vs. New Mexico United</title>
-            <desc lang="en">San Antonio FC vs. New Mexico United - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 57">
-     <display-name lang="en">ESPN+ 57</display-name>
-   </channel>
-         <programme start="20250726210000 -0500" stop="20250726230000 -0500" channel="ESPN+ 57">
-            <title lang="en">Colorado Springs Switchbacks FC vs. Texoma FC</title>
-            <desc lang="en">Colorado Springs Switchbacks FC vs. Texoma FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 58">
-     <display-name lang="en">ESPN+ 58</display-name>
-   </channel>
-         <programme start="20250726220000 -0500" stop="20250726240000 -0500" channel="ESPN+ 58">
-            <title lang="en">Spokane Velocity vs. Sacramento Republic FC</title>
-            <desc lang="en">Spokane Velocity vs. Sacramento Republic FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 59">
-     <display-name lang="en">ESPN+ 59</display-name>
-   </channel>
-         <programme start="20250726230000 -0500" stop="20250726250000 -0500" channel="ESPN+ 59">
-            <title lang="en">AV Alta FC vs. Monterey Bay FC</title>
-            <desc lang="en">AV Alta FC vs. Monterey Bay FC - Soccer</desc>
+         <programme start="20250727220000 -0500" stop="20250727240000 -0500" channel="ESPN+ 53">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
 </tv>
