@@ -3,203 +3,210 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250729103000 -0500" stop="20250729123000 -0500" channel="ESPN+ 1">
-            <title lang="en">2025 WSL Longboard Tour: Lexus US Open of Surfing</title>
-            <desc lang="en">2025 WSL Longboard Tour: Lexus US Open of Surfing - Surfing</desc>
+         <programme start="20250730100000 -0500" stop="20250730120000 -0500" channel="ESPN+ 1">
+            <title lang="en">ACL World Championships (Pro Singles)</title>
+            <desc lang="en">ACL World Championships (Pro Singles) - Cornhole</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250729120000 -0500" stop="20250729140000 -0500" channel="ESPN+ 2">
-            <title lang="en">Intermediate League Baseball World Series</title>
-            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
+         <programme start="20250730103000 -0500" stop="20250730123000 -0500" channel="ESPN+ 2">
+            <title lang="en">2025 WSL Challenger Series: Lexus US Open of Surfing</title>
+            <desc lang="en">2025 WSL Challenger Series: Lexus US Open of Surfing - Surfing</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250729120000 -0500" stop="20250729140000 -0500" channel="ESPN+ 3">
-            <title lang="en">The Pat McAfee Show</title>
-            <desc lang="en">The Pat McAfee Show - No Sport</desc>
+         <programme start="20250730112500 -0500" stop="20250730132500 -0500" channel="ESPN+ 3">
+            <title lang="en">Mallorca vs. Olympique Lyon (International Friendly)</title>
+            <desc lang="en">Mallorca vs. Olympique Lyon (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250729130000 -0500" stop="20250729150000 -0500" channel="ESPN+ 4">
-            <title lang="en">ACL World Championships (Pro Doubles)</title>
-            <desc lang="en">ACL World Championships (Pro Doubles) - Cornhole</desc>
+         <programme start="20250730120000 -0500" stop="20250730140000 -0500" channel="ESPN+ 4">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250729130000 -0500" stop="20250729150000 -0500" channel="ESPN+ 5">
-            <title lang="en">Palo Cedro, CA vs. Repentigny, Quebec</title>
-            <desc lang="en">Palo Cedro, CA vs. Repentigny, Quebec - Softball</desc>
+         <programme start="20250730120000 -0500" stop="20250730140000 -0500" channel="ESPN+ 5">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250729133000 -0500" stop="20250729153000 -0500" channel="ESPN+ 6">
-            <title lang="en">Irmo, SC vs. Milano, Italy</title>
-            <desc lang="en">Irmo, SC vs. Milano, Italy - Softball</desc>
+         <programme start="20250730122000 -0500" stop="20250730142000 -0500" channel="ESPN+ 6">
+            <title lang="en">En Español-Sportfreunde Siegen vs. Borussia Dortmund (International Friendly)</title>
+            <desc lang="en">En Español-Sportfreunde Siegen vs. Borussia Dortmund (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250729140000 -0500" stop="20250729160000 -0500" channel="ESPN+ 7">
-            <title lang="en">Honolulu, HI vs. Repentigny, Quebec</title>
-            <desc lang="en">Honolulu, HI vs. Repentigny, Quebec - Softball</desc>
+         <programme start="20250730122500 -0500" stop="20250730142500 -0500" channel="ESPN+ 7">
+            <title lang="en">Sportfreunde Siegen vs. Borussia Dortmund (International Friendly)</title>
+            <desc lang="en">Sportfreunde Siegen vs. Borussia Dortmund (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250729140000 -0500" stop="20250729160000 -0500" channel="ESPN+ 8">
-            <title lang="en">Grand Blanc, MI vs. Hartwell, GA</title>
-            <desc lang="en">Grand Blanc, MI vs. Hartwell, GA - Softball</desc>
+         <programme start="20250730125500 -0500" stop="20250730145500 -0500" channel="ESPN+ 8">
+            <title lang="en">VfL Wolfsburg vs. Espanyol (International Friendly)</title>
+            <desc lang="en">VfL Wolfsburg vs. Espanyol (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250729150000 -0500" stop="20250729170000 -0500" channel="ESPN+ 9">
-            <title lang="en">Intermediate League Baseball World Series</title>
-            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
+         <programme start="20250730130000 -0500" stop="20250730150000 -0500" channel="ESPN+ 9">
+            <title lang="en">Maunabo, Puerto Rico vs. Evergreen Park, IL</title>
+            <desc lang="en">Maunabo, Puerto Rico vs. Evergreen Park, IL - Softball</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250729160000 -0500" stop="20250729180000 -0500" channel="ESPN+ 10">
-            <title lang="en">Burbank, IL vs. Irmo, SC</title>
-            <desc lang="en">Burbank, IL vs. Irmo, SC - Baseball</desc>
+         <programme start="20250730133000 -0500" stop="20250730153000 -0500" channel="ESPN+ 10">
+            <title lang="en">Irmo, SC vs. Bacolod City, Philippines</title>
+            <desc lang="en">Irmo, SC vs. Bacolod City, Philippines - Softball</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250729160000 -0500" stop="20250729180000 -0500" channel="ESPN+ 11">
-            <title lang="en">Indiana, PA vs. Columbus, TX</title>
-            <desc lang="en">Indiana, PA vs. Columbus, TX - Softball</desc>
+         <programme start="20250730135500 -0500" stop="20250730155500 -0500" channel="ESPN+ 11">
+            <title lang="en">Coventry City vs. Real Betis (International Friendly)</title>
+            <desc lang="en">Coventry City vs. Real Betis (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250729163000 -0500" stop="20250729183000 -0500" channel="ESPN+ 12">
-            <title lang="en">Kirkland, WA vs. Evergreen Park, IL</title>
-            <desc lang="en">Kirkland, WA vs. Evergreen Park, IL - Softball</desc>
+         <programme start="20250730150000 -0500" stop="20250730170000 -0500" channel="ESPN+ 12">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250729170000 -0500" stop="20250729190000 -0500" channel="ESPN+ 13">
-            <title lang="en">Guayama, Puerto Rico vs. Bacolod City, Philippines</title>
-            <desc lang="en">Guayama, Puerto Rico vs. Bacolod City, Philippines - Softball</desc>
+         <programme start="20250730160000 -0500" stop="20250730180000 -0500" channel="ESPN+ 13">
+            <title lang="en">Easley, SC vs. Spring Valley, CA</title>
+            <desc lang="en">Easley, SC vs. Spring Valley, CA - Baseball</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250729170000 -0500" stop="20250729190000 -0500" channel="ESPN+ 14">
-            <title lang="en">Prague, Czech Republic vs. Hartwell, GA</title>
-            <desc lang="en">Prague, Czech Republic vs. Hartwell, GA - Softball</desc>
+         <programme start="20250730160000 -0500" stop="20250730180000 -0500" channel="ESPN+ 14">
+            <title lang="en">Kirkland, WA vs. Irmo, SC</title>
+            <desc lang="en">Kirkland, WA vs. Irmo, SC - Softball</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250729173000 -0500" stop="20250729193000 -0500" channel="ESPN+ 15">
-            <title lang="en">Tue, 7/29 - ESPN FC</title>
-            <desc lang="en">Tue, 7/29 - ESPN FC - Soccer</desc>
+         <programme start="20250730163000 -0500" stop="20250730183000 -0500" channel="ESPN+ 15">
+            <title lang="en">Columbus, TX vs. Palo Cedro, CA</title>
+            <desc lang="en">Columbus, TX vs. Palo Cedro, CA - Softball</desc>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250729180000 -0500" stop="20250729200000 -0500" channel="ESPN+ 16">
-            <title lang="en">Intermediate League Baseball World Series</title>
-            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
+         <programme start="20250730170000 -0500" stop="20250730190000 -0500" channel="ESPN+ 16">
+            <title lang="en">Repentigny, Quebec vs. Grand Blanc, MI</title>
+            <desc lang="en">Repentigny, Quebec vs. Grand Blanc, MI - Softball</desc>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250729183000 -0500" stop="20250729203000 -0500" channel="ESPN+ 17">
-            <title lang="en">Ocean State Waves vs. Bristol Blues</title>
-            <desc lang="en">Ocean State Waves vs. Bristol Blues - Baseball</desc>
+         <programme start="20250730170000 -0500" stop="20250730190000 -0500" channel="ESPN+ 17">
+            <title lang="en">Honolulu, HI vs. Prague, Czech Republic</title>
+            <desc lang="en">Honolulu, HI vs. Prague, Czech Republic - Softball</desc>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250729183000 -0500" stop="20250729203000 -0500" channel="ESPN+ 18">
-            <title lang="en">Sanford Mainers vs. Vermont Mountaineers</title>
-            <desc lang="en">Sanford Mainers vs. Vermont Mountaineers - Baseball</desc>
+         <programme start="20250730180000 -0500" stop="20250730200000 -0500" channel="ESPN+ 18">
+            <title lang="en">Intermediate League Baseball World Series</title>
+            <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250729190000 -0500" stop="20250729210000 -0500" channel="ESPN+ 19">
-            <title lang="en">Maunabo, Puerto Rico vs. Milano, Italy</title>
-            <desc lang="en">Maunabo, Puerto Rico vs. Milano, Italy - Softball</desc>
+         <programme start="20250730180000 -0500" stop="20250730200000 -0500" channel="ESPN+ 19">
+            <title lang="en">Wed, 7/30 - ESPN FC</title>
+            <desc lang="en">Wed, 7/30 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250729193000 -0500" stop="20250729213000 -0500" channel="ESPN+ 20">
-            <title lang="en">Guaynabo, Puerto Rico vs. Brno, Czech Republic</title>
-            <desc lang="en">Guaynabo, Puerto Rico vs. Brno, Czech Republic - Baseball</desc>
+         <programme start="20250730183000 -0500" stop="20250730203000 -0500" channel="ESPN+ 20">
+            <title lang="en">Vermont Mountaineers vs. Keene Swamp Bats</title>
+            <desc lang="en">Vermont Mountaineers vs. Keene Swamp Bats - Baseball</desc>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250729193000 -0500" stop="20250729213000 -0500" channel="ESPN+ 21">
-            <title lang="en">Louisville City FC vs. Eintracht Frankfurt (International Friendly)</title>
-            <desc lang="en">Louisville City FC vs. Eintracht Frankfurt (International Friendly) - Soccer</desc>
+         <programme start="20250730183000 -0500" stop="20250730203000 -0500" channel="ESPN+ 21">
+            <title lang="en">Bristol Blues vs. North Adams SteepleCATS</title>
+            <desc lang="en">Bristol Blues vs. North Adams SteepleCATS - Baseball</desc>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250729193000 -0500" stop="20250729213000 -0500" channel="ESPN+ 22">
-            <title lang="en">Bacolod City, Philippines vs. Repentigny, Quebec</title>
-            <desc lang="en">Bacolod City, Philippines vs. Repentigny, Quebec - Softball</desc>
+         <programme start="20250730183000 -0500" stop="20250730203000 -0500" channel="ESPN+ 22">
+            <title lang="en">Upper Valley Nighthawks vs. Valley Blue Sox</title>
+            <desc lang="en">Upper Valley Nighthawks vs. Valley Blue Sox - Baseball</desc>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250729193500 -0500" stop="20250729213500 -0500" channel="ESPN+ 23">
-            <title lang="en">Fond du Lac Dock Spiders vs. Lakeshore Chinooks</title>
-            <desc lang="en">Fond du Lac Dock Spiders vs. Lakeshore Chinooks - Baseball</desc>
+         <programme start="20250730183000 -0500" stop="20250730203000 -0500" channel="ESPN+ 23">
+            <title lang="en">Mystic Schooners vs. Newport Gulls</title>
+            <desc lang="en">Mystic Schooners vs. Newport Gulls - Baseball</desc>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250729193500 -0500" stop="20250729213500 -0500" channel="ESPN+ 24">
-            <title lang="en">Minot Honeybees vs. Wausau Ignite</title>
-            <desc lang="en">Minot Honeybees vs. Wausau Ignite - Softball</desc>
+         <programme start="20250730183500 -0500" stop="20250730203500 -0500" channel="ESPN+ 24">
+            <title lang="en">Battle Creek Battle Jacks vs. Royal Oak Leprechauns</title>
+            <desc lang="en">Battle Creek Battle Jacks vs. Royal Oak Leprechauns - Baseball</desc>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250729200000 -0500" stop="20250729220000 -0500" channel="ESPN+ 25">
-            <title lang="en">Georgetown, DE vs. Gloster, LA</title>
-            <desc lang="en">Georgetown, DE vs. Gloster, LA - Softball</desc>
+         <programme start="20250730190000 -0500" stop="20250730210000 -0500" channel="ESPN+ 25">
+            <title lang="en">One Knoxville SC vs. Charlotte Independence</title>
+            <desc lang="en">One Knoxville SC vs. Charlotte Independence - Soccer</desc>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250729200000 -0500" stop="20250729220000 -0500" channel="ESPN+ 26">
-            <title lang="en">Old Lyme, CT vs. Bacolod City, Philippines</title>
-            <desc lang="en">Old Lyme, CT vs. Bacolod City, Philippines - Softball</desc>
+         <programme start="20250730193000 -0500" stop="20250730213000 -0500" channel="ESPN+ 26">
+            <title lang="en">Tamaulipas, Mexico vs. Perth, Australia</title>
+            <desc lang="en">Tamaulipas, Mexico vs. Perth, Australia - Baseball</desc>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20250729203000 -0500" stop="20250729223000 -0500" channel="ESPN+ 27">
-            <title lang="en">Tue, 7/29 - Futbol W</title>
-            <desc lang="en">Tue, 7/29 - Futbol W - Soccer</desc>
+         <programme start="20250730193500 -0500" stop="20250730213500 -0500" channel="ESPN+ 27">
+            <title lang="en">Willmar Stingers vs. St. Cloud Rox</title>
+            <desc lang="en">Willmar Stingers vs. St. Cloud Rox - Baseball</desc>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20250729203500 -0500" stop="20250729223500 -0500" channel="ESPN+ 28">
-            <title lang="en">Bismarck Larks vs. Badlands Big Sticks</title>
-            <desc lang="en">Bismarck Larks vs. Badlands Big Sticks - Baseball</desc>
+         <programme start="20250730200000 -0500" stop="20250730220000 -0500" channel="ESPN+ 28">
+            <title lang="en">Bacolod City, Philippines vs. Gloster, LA</title>
+            <desc lang="en">Bacolod City, Philippines vs. Gloster, LA - Softball</desc>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20250729220000 -0500" stop="20250729240000 -0500" channel="ESPN+ 29">
+         <programme start="20250730200000 -0500" stop="20250730220000 -0500" channel="ESPN+ 29">
+            <title lang="en">Guayama, Puerto Rico vs. Georgetown, DE</title>
+            <desc lang="en">Guayama, Puerto Rico vs. Georgetown, DE - Softball</desc>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20250730220000 -0500" stop="20250730240000 -0500" channel="ESPN+ 30">
             <title lang="en">Intermediate League Baseball World Series</title>
             <desc lang="en">Intermediate League Baseball World Series - Baseball</desc>
          </programme>
