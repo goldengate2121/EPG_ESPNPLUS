@@ -3,141 +3,106 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250804100000 -0500" stop="20250804120000 -0500" channel="ESPN+ 1">
-            <title lang="en">Webb City, MO vs. Kearney, NE</title>
-            <desc lang="en">Webb City, MO vs. Kearney, NE - Baseball</desc>
+         <programme start="20250805100000 -0500" stop="20250805120000 -0500" channel="ESPN+ 1">
+            <title lang="en">Little League Baseball Regionals</title>
+            <desc lang="en">Little League Baseball Regionals - Baseball</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250804100000 -0500" stop="20250804120000 -0500" channel="ESPN+ 2">
-            <title lang="en">Winterville, NC vs. Floyds Knobs, IN</title>
-            <desc lang="en">Winterville, NC vs. Floyds Knobs, IN - No Sport</desc>
+         <programme start="20250805110000 -0500" stop="20250805130000 -0500" channel="ESPN+ 2">
+            <title lang="en">Junior League Baseball World Series</title>
+            <desc lang="en">Junior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250804110000 -0500" stop="20250804130000 -0500" channel="ESPN+ 3">
-            <title lang="en">Junior League Baseball World Series</title>
-            <desc lang="en">Junior League Baseball World Series - Baseball</desc>
+         <programme start="20250805115500 -0500" stop="20250805135500 -0500" channel="ESPN+ 3">
+            <title lang="en">Bayer 04 Leverkusen vs. Pisa (International Friendly)</title>
+            <desc lang="en">Bayer 04 Leverkusen vs. Pisa (International Friendly) - Soccer</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250804113000 -0500" stop="20250804133000 -0500" channel="ESPN+ 4">
-            <title lang="en">South Florida FB Press Conference</title>
-            <desc lang="en">South Florida FB Press Conference - Football</desc>
+         <programme start="20250805130000 -0500" stop="20250805150000 -0500" channel="ESPN+ 4">
+            <title lang="en">Little League World Series</title>
+            <desc lang="en">Little League World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250804120000 -0500" stop="20250804140000 -0500" channel="ESPN+ 5">
-            <title lang="en">Little League Baseball Regionals</title>
-            <desc lang="en">Little League Baseball Regionals - Baseball</desc>
+         <programme start="20250805130000 -0500" stop="20250805150000 -0500" channel="ESPN+ 5">
+            <title lang="en">Little League Softball World Series Presented by Dick&#x27;s Sporting Goods</title>
+            <desc lang="en">Little League Softball World Series Presented by Dick&#x27;s Sporting Goods - No Sport</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250804130000 -0500" stop="20250804150000 -0500" channel="ESPN+ 6">
-            <title lang="en">Lexington, KY vs. Negaunee, MI</title>
-            <desc lang="en">Lexington, KY vs. Negaunee, MI - Baseball</desc>
+         <programme start="20250805140000 -0500" stop="20250805160000 -0500" channel="ESPN+ 6">
+            <title lang="en">Junior League Baseball World Series</title>
+            <desc lang="en">Junior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250804130000 -0500" stop="20250804150000 -0500" channel="ESPN+ 7">
-            <title lang="en">Lake Mary, FL vs. Tulsa, OK</title>
-            <desc lang="en">Lake Mary, FL vs. Tulsa, OK - No Sport</desc>
+         <programme start="20250805160000 -0500" stop="20250805180000 -0500" channel="ESPN+ 7">
+            <title lang="en">Prague, Czech Republic vs. Floyds Knobs, IN</title>
+            <desc lang="en">Prague, Czech Republic vs. Floyds Knobs, IN - No Sport</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250804140000 -0500" stop="20250804160000 -0500" channel="ESPN+ 8">
+         <programme start="20250805170000 -0500" stop="20250805190000 -0500" channel="ESPN+ 8">
             <title lang="en">Junior League Baseball World Series</title>
             <desc lang="en">Junior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250804140000 -0500" stop="20250804160000 -0500" channel="ESPN+ 9">
-            <title lang="en">Little League World Series</title>
-            <desc lang="en">Little League World Series - Baseball</desc>
+         <programme start="20250805173000 -0500" stop="20250805193000 -0500" channel="ESPN+ 9">
+            <title lang="en">Tue, 8/5 - ESPN FC</title>
+            <desc lang="en">Tue, 8/5 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250804150000 -0500" stop="20250804170000 -0500" channel="ESPN+ 10">
-            <title lang="en">Little League Baseball Regionals</title>
-            <desc lang="en">Little League Baseball Regionals - Baseball</desc>
+         <programme start="20250805190000 -0500" stop="20250805210000 -0500" channel="ESPN+ 10">
+            <title lang="en">Newport Gulls vs. Martha&#x27;s Vineyard Sharks (Second Round)</title>
+            <desc lang="en">Newport Gulls vs. Martha&#x27;s Vineyard Sharks (Second Round) - Baseball</desc>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250804160000 -0500" stop="20250804180000 -0500" channel="ESPN+ 11">
-            <title lang="en">Whitefish Bay, WI vs. Eldridge, IA</title>
-            <desc lang="en">Whitefish Bay, WI vs. Eldridge, IA - Baseball</desc>
+         <programme start="20250805190500 -0500" stop="20250805210500 -0500" channel="ESPN+ 11">
+            <title lang="en">Lakeshore Chinooks vs. Madison Mallards</title>
+            <desc lang="en">Lakeshore Chinooks vs. Madison Mallards - Baseball</desc>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250804160000 -0500" stop="20250804180000 -0500" channel="ESPN+ 12">
-            <title lang="en">Johnstown, PA vs. Los Angeles, CA</title>
-            <desc lang="en">Johnstown, PA vs. Los Angeles, CA - No Sport</desc>
+         <programme start="20250805193500 -0500" stop="20250805213500 -0500" channel="ESPN+ 12">
+            <title lang="en">Fond du Lac Dock Spiders vs. Wausau Woodchucks</title>
+            <desc lang="en">Fond du Lac Dock Spiders vs. Wausau Woodchucks - Baseball</desc>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250804170000 -0500" stop="20250804190000 -0500" channel="ESPN+ 13">
+         <programme start="20250805200000 -0500" stop="20250805220000 -0500" channel="ESPN+ 13">
             <title lang="en">Junior League Baseball World Series</title>
             <desc lang="en">Junior League Baseball World Series - Baseball</desc>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250804173000 -0500" stop="20250804193000 -0500" channel="ESPN+ 14">
-            <title lang="en">Mon, 8/4 - ESPN FC</title>
-            <desc lang="en">Mon, 8/4 - ESPN FC - Soccer</desc>
+         <programme start="20250805203000 -0500" stop="20250805223000 -0500" channel="ESPN+ 14">
+            <title lang="en">Tue, 8/5 - Futbol W</title>
+            <desc lang="en">Tue, 8/5 - Futbol W - Soccer</desc>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250804180000 -0500" stop="20250804200000 -0500" channel="ESPN+ 15">
-            <title lang="en">Little League Baseball Regionals</title>
-            <desc lang="en">Little League Baseball Regionals - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 16">
-     <display-name lang="en">ESPN+ 16</display-name>
-   </channel>
-         <programme start="20250804190000 -0500" stop="20250804210000 -0500" channel="ESPN+ 16">
-            <title lang="en">After Further Review</title>
-            <desc lang="en">After Further Review - Football</desc>
-         </programme>
-   <channel id="ESPN+ 17">
-     <display-name lang="en">ESPN+ 17</display-name>
-   </channel>
-         <programme start="20250804193500 -0500" stop="20250804213500 -0500" channel="ESPN+ 17">
-            <title lang="en">Wausau Woodchucks vs. Fond du Lac Dock Spiders</title>
-            <desc lang="en">Wausau Woodchucks vs. Fond du Lac Dock Spiders - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 18">
-     <display-name lang="en">ESPN+ 18</display-name>
-   </channel>
-         <programme start="20250804193500 -0500" stop="20250804213500 -0500" channel="ESPN+ 18">
-            <title lang="en">St. Cloud Rox vs. Bismarck Larks</title>
-            <desc lang="en">St. Cloud Rox vs. Bismarck Larks - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 19">
-     <display-name lang="en">ESPN+ 19</display-name>
-   </channel>
-         <programme start="20250804200000 -0500" stop="20250804220000 -0500" channel="ESPN+ 19">
-            <title lang="en">Junior League Baseball World Series</title>
-            <desc lang="en">Junior League Baseball World Series - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 20">
-     <display-name lang="en">ESPN+ 20</display-name>
-   </channel>
-         <programme start="20250804203000 -0500" stop="20250804223000 -0500" channel="ESPN+ 20">
-            <title lang="en">Mon, 8/4 - Futbol Americas</title>
-            <desc lang="en">Mon, 8/4 - Futbol Americas - Soccer</desc>
+         <programme start="20250805220000 -0500" stop="20250805240000 -0500" channel="ESPN+ 15">
+            <title lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 11)</title>
+            <desc lang="en">The Ultimate Fighter Presented by Disabled American Veterans: Team Cormier vs. Team Sonnen (Episode 11) - MMA</desc>
          </programme>
 </tv>
