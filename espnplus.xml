@@ -3,176 +3,57 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250810072500 -0500" stop="20250810092500 -0500" channel="ESPN+ 1">
-            <title lang="en">Vfl Bochum 1848 vs. SV Elversberg</title>
-            <desc lang="en">Vfl Bochum 1848 vs. SV Elversberg - Soccer</desc>
+         <programme start="20250811113000 -0500" stop="20250811133000 -0500" channel="ESPN+ 1">
+            <title lang="en">South Florida FB Press Conference</title>
+            <desc lang="en">South Florida FB Press Conference - Football</desc>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250810072500 -0500" stop="20250810092500 -0500" channel="ESPN+ 2">
-            <title lang="en">Hertha BSC vs. Karlsruher SC</title>
-            <desc lang="en">Hertha BSC vs. Karlsruher SC - Soccer</desc>
+         <programme start="20250811113000 -0500" stop="20250811133000 -0500" channel="ESPN+ 2">
+            <title lang="en">UTSA Women&#x27;s Soccer Press Conference</title>
+            <desc lang="en">UTSA Women&#x27;s Soccer Press Conference - Soccer</desc>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250810072500 -0500" stop="20250810092500 -0500" channel="ESPN+ 3">
-            <title lang="en">Holstein Kiel vs. Arminia Bielefeld</title>
-            <desc lang="en">Holstein Kiel vs. Arminia Bielefeld - Soccer</desc>
+         <programme start="20250811120000 -0500" stop="20250811140000 -0500" channel="ESPN+ 3">
+            <title lang="en">The Pat McAfee Show</title>
+            <desc lang="en">The Pat McAfee Show - No Sport</desc>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250810074500 -0500" stop="20250810094500 -0500" channel="ESPN+ 4">
-            <title lang="en">FedEx St. Jude Championship: Main Feed (Final Round)</title>
-            <desc lang="en">FedEx St. Jude Championship: Main Feed (Final Round) - Golf</desc>
+         <programme start="20250811133000 -0500" stop="20250811153000 -0500" channel="ESPN+ 4">
+            <title lang="en">2025 WSL Championship Tour: Tahiti Pro</title>
+            <desc lang="en">2025 WSL Championship Tour: Tahiti Pro - Surfing</desc>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250810082000 -0500" stop="20250810102000 -0500" channel="ESPN+ 5">
-            <title lang="en">En Español-AZ vs. FC Groningen</title>
-            <desc lang="en">En Español-AZ vs. FC Groningen - Soccer</desc>
+         <programme start="20250811173000 -0500" stop="20250811193000 -0500" channel="ESPN+ 5">
+            <title lang="en">Mon, 8/11 - ESPN FC</title>
+            <desc lang="en">Mon, 8/11 - ESPN FC - Soccer</desc>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250810082500 -0500" stop="20250810102500 -0500" channel="ESPN+ 6">
-            <title lang="en">Ajax vs. Telstar</title>
-            <desc lang="en">Ajax vs. Telstar - Soccer</desc>
+         <programme start="20250811190000 -0500" stop="20250811210000 -0500" channel="ESPN+ 6">
+            <title lang="en">After Further Review</title>
+            <desc lang="en">After Further Review - Football</desc>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250810082500 -0500" stop="20250810102500 -0500" channel="ESPN+ 7">
-            <title lang="en">AZ vs. FC Groningen</title>
-            <desc lang="en">AZ vs. FC Groningen - Soccer</desc>
+         <programme start="20250811203000 -0500" stop="20250811223000 -0500" channel="ESPN+ 7">
+            <title lang="en">Mon, 8/11 - Futbol Americas</title>
+            <desc lang="en">Mon, 8/11 - Futbol Americas - Soccer</desc>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250810090000 -0500" stop="20250810110000 -0500" channel="ESPN+ 8">
-            <title lang="en">West Indies vs. Pakistan (2nd ODI)</title>
-            <desc lang="en">West Indies vs. Pakistan (2nd ODI) - Cricket</desc>
-         </programme>
-   <channel id="ESPN+ 9">
-     <display-name lang="en">ESPN+ 9</display-name>
-   </channel>
-         <programme start="20250810090000 -0500" stop="20250810110000 -0500" channel="ESPN+ 9">
-            <title lang="en">ESPN BET at the FedEx St. Jude Championship (Final Round)</title>
-            <desc lang="en">ESPN BET at the FedEx St. Jude Championship (Final Round) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 10">
-     <display-name lang="en">ESPN+ 10</display-name>
-   </channel>
-         <programme start="20250810091500 -0500" stop="20250810111500 -0500" channel="ESPN+ 10">
-            <title lang="en">FedEx St. Jude Championship: Thomas Marquee Group (Final Round) (Marquee Group)</title>
-            <desc lang="en">FedEx St. Jude Championship: Thomas Marquee Group (Final Round) (Marquee Group) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 11">
-     <display-name lang="en">ESPN+ 11</display-name>
-   </channel>
-         <programme start="20250810093000 -0500" stop="20250810113000 -0500" channel="ESPN+ 11">
-            <title lang="en">FedEx St. Jude Championship: Finau &amp; Spieth Featured Groups (Final Round) (Featured Groups)</title>
-            <desc lang="en">FedEx St. Jude Championship: Finau &amp; Spieth Featured Groups (Final Round) (Featured Groups) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 12">
-     <display-name lang="en">ESPN+ 12</display-name>
-   </channel>
-         <programme start="20250810093000 -0500" stop="20250810113000 -0500" channel="ESPN+ 12">
-            <title lang="en">Crystal Palace vs. Liverpool</title>
-            <desc lang="en">Crystal Palace vs. Liverpool - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 13">
-     <display-name lang="en">ESPN+ 13</display-name>
-   </channel>
-         <programme start="20250810094500 -0500" stop="20250810114500 -0500" channel="ESPN+ 13">
-            <title lang="en">En Español-Crystal Palace vs. Liverpool</title>
-            <desc lang="en">En Español-Crystal Palace vs. Liverpool - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 14">
-     <display-name lang="en">ESPN+ 14</display-name>
-   </channel>
-         <programme start="20250810120000 -0500" stop="20250810140000 -0500" channel="ESPN+ 14">
-            <title lang="en">Taichung, Chinese Taipei vs. Macon, GA</title>
-            <desc lang="en">Taichung, Chinese Taipei vs. Macon, GA - Baseball</desc>
-         </programme>
-   <channel id="ESPN+ 15">
-     <display-name lang="en">ESPN+ 15</display-name>
-   </channel>
-         <programme start="20250810120000 -0500" stop="20250810140000 -0500" channel="ESPN+ 15">
-            <title lang="en">FedEx St. Jude Championship: Thomas Featured Group (Final Round)</title>
-            <desc lang="en">FedEx St. Jude Championship: Thomas Featured Group (Final Round) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 16">
-     <display-name lang="en">ESPN+ 16</display-name>
-   </channel>
-         <programme start="20250810120000 -0500" stop="20250810140000 -0500" channel="ESPN+ 16">
-            <title lang="en">FedEx St. Jude Championship: Featured Hole #14 (Final Round) (Featured Hole)</title>
-            <desc lang="en">FedEx St. Jude Championship: Featured Hole #14 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 17">
-     <display-name lang="en">ESPN+ 17</display-name>
-   </channel>
-         <programme start="20250810120000 -0500" stop="20250810140000 -0500" channel="ESPN+ 17">
-            <title lang="en">FedEx St. Jude Championship: Spieth Featured Group (Final Round) (Featured Group 1)</title>
-            <desc lang="en">FedEx St. Jude Championship: Spieth Featured Group (Final Round) (Featured Group 1) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 18">
-     <display-name lang="en">ESPN+ 18</display-name>
-   </channel>
-         <programme start="20250810120000 -0500" stop="20250810140000 -0500" channel="ESPN+ 18">
-            <title lang="en">FedEx St. Jude Championship: Featured Hole #16 (Final Round) (Featured Hole)</title>
-            <desc lang="en">FedEx St. Jude Championship: Featured Hole #16 (Final Round) (Featured Hole) - Golf</desc>
-         </programme>
-   <channel id="ESPN+ 19">
-     <display-name lang="en">ESPN+ 19</display-name>
-   </channel>
-         <programme start="20250810120000 -0500" stop="20250810140000 -0500" channel="ESPN+ 19">
-            <title lang="en">Sun, 8/10 - ESPN FC</title>
-            <desc lang="en">Sun, 8/10 - ESPN FC - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 20">
-     <display-name lang="en">ESPN+ 20</display-name>
-   </channel>
-         <programme start="20250810123000 -0500" stop="20250810143000 -0500" channel="ESPN+ 20">
-            <title lang="en">Minnesota Lynx vs. New York Liberty</title>
-            <desc lang="en">Minnesota Lynx vs. New York Liberty - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 21">
-     <display-name lang="en">ESPN+ 21</display-name>
-   </channel>
-         <programme start="20250810123000 -0500" stop="20250810143000 -0500" channel="ESPN+ 21">
-            <title lang="en">En Español-Minnesota Lynx vs. New York Liberty</title>
-            <desc lang="en">En Español-Minnesota Lynx vs. New York Liberty - Basketball</desc>
-         </programme>
-   <channel id="ESPN+ 22">
-     <display-name lang="en">ESPN+ 22</display-name>
-   </channel>
-         <programme start="20250810133000 -0500" stop="20250810153000 -0500" channel="ESPN+ 22">
-            <title lang="en">2025 WSL Championship Tour: Tahiti Pro</title>
-            <desc lang="en">2025 WSL Championship Tour: Tahiti Pro - No Sport</desc>
-         </programme>
-   <channel id="ESPN+ 23">
-     <display-name lang="en">ESPN+ 23</display-name>
-   </channel>
-         <programme start="20250810145500 -0500" stop="20250810165500 -0500" channel="ESPN+ 23">
-            <title lang="en">Villarreal vs. Aston Villa (International Friendly)</title>
-            <desc lang="en">Villarreal vs. Aston Villa (International Friendly) - Soccer</desc>
-         </programme>
-   <channel id="ESPN+ 24">
-     <display-name lang="en">ESPN+ 24</display-name>
-   </channel>
-         <programme start="20250810150000 -0500" stop="20250810170000 -0500" channel="ESPN+ 24">
-            <title lang="en">Floyds Knobs, IN vs. Johnstown, PA</title>
-            <desc lang="en">Floyds Knobs, IN vs. Johnstown, PA - Softball</desc>
-         </programme>
-   <channel id="ESPN+ 25">
-     <display-name lang="en">ESPN+ 25</display-name>
-   </channel>
-         <programme start="20250810190000 -0500" stop="20250810210000 -0500" channel="ESPN+ 25">
-            <title lang="en">Westchester SC vs. South Georgia Tormenta FC</title>
-            <desc lang="en">Westchester SC vs. South Georgia Tormenta FC - Soccer</desc>
+         <programme start="20250811210000 -0500" stop="20250811230000 -0500" channel="ESPN+ 8">
+            <title lang="en">UFC Embedded 319 (Ep. 1)</title>
+            <desc lang="en">UFC Embedded 319 (Ep. 1) - MMA</desc>
          </programme>
 </tv>
