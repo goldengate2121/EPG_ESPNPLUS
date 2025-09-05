@@ -3,847 +3,991 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20250904085500 -0500" stop="20250904105500 -0500" channel="ESPN+ 1">
-            <title lang="en">Chad vs. Ghana (Round 7, Group I)</title>
+         <programme start="20250905010000 -0500" stop="20250905030000 -0500" channel="ESPN+ 1">
+            <title lang="en">Toledo vs. Morehead State</title>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20250904115500 -0500" stop="20250904135500 -0500" channel="ESPN+ 2">
-            <title lang="en">Guinea-Bissau vs. Sierra Leone (Round 7, Group A)</title>
+         <programme start="20250905033000 -0500" stop="20250905053000 -0500" channel="ESPN+ 2">
+            <title lang="en">En Español-Formula 3 Italy Practice</title>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20250904115500 -0500" stop="20250904135500 -0500" channel="ESPN+ 3">
-            <title lang="en">Madagascar vs. Central African Republic (Round 7, Group I)</title>
+         <programme start="20250905033500 -0500" stop="20250905053500 -0500" channel="ESPN+ 3">
+            <title lang="en">Formula 3 Italy Practice</title>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20250904115500 -0500" stop="20250904135500 -0500" channel="ESPN+ 4">
-            <title lang="en">Angola vs. Libya (Round 7, Group D)</title>
+         <programme start="20250905045500 -0500" stop="20250905065500 -0500" channel="ESPN+ 4">
+            <title lang="en">En Español-Formula 2 Italy Practice</title>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20250904115500 -0500" stop="20250904135500 -0500" channel="ESPN+ 5">
-            <title lang="en">Mauritius vs. Cabo Verde (Round 7, Group D)</title>
+         <programme start="20250905050000 -0500" stop="20250905070000 -0500" channel="ESPN+ 5">
+            <title lang="en">Formula 2 Italy Practice</title>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20250904115500 -0500" stop="20250904135500 -0500" channel="ESPN+ 6">
-            <title lang="en">Cameroon vs. Eswatini (Round 7, Group D)</title>
+         <programme start="20250905054000 -0500" stop="20250905074000 -0500" channel="ESPN+ 6">
+            <title lang="en">Temple vs. Army</title>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 7">
-            <title lang="en">Louis Armstrong Stadium</title>
+         <programme start="20250905075500 -0500" stop="20250905095500 -0500" channel="ESPN+ 7">
+            <title lang="en">South Sudan vs. Congo Dr (Round 7, Group B)</title>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 8">
-            <title lang="en">Court 8</title>
+         <programme start="20250905075500 -0500" stop="20250905095500 -0500" channel="ESPN+ 8">
+            <title lang="en">Somalia vs. Guinea (Round 7, Group G)</title>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 9">
-            <title lang="en">Court 5</title>
+         <programme start="20250905085500 -0500" stop="20250905105500 -0500" channel="ESPN+ 9">
+            <title lang="en">En Español-Formula 3 Italy Qualifying</title>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 10">
-            <title lang="en">Press Conferences Day 12</title>
+         <programme start="20250905085500 -0500" stop="20250905105500 -0500" channel="ESPN+ 10">
+            <title lang="en">Kenya vs. Gambia (Round 7, Group F)</title>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 11">
-            <title lang="en">Court 14</title>
+         <programme start="20250905085500 -0500" stop="20250905105500 -0500" channel="ESPN+ 11">
+            <title lang="en">Namibia vs. Malawi (Round 7, Group H)</title>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 12">
-            <title lang="en">Court 10</title>
+         <programme start="20250905090000 -0500" stop="20250905110000 -0500" channel="ESPN+ 12">
+            <title lang="en">Formula 3 Italy Qualifying A</title>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 13">
-            <title lang="en">Court 7</title>
+         <programme start="20250905091000 -0500" stop="20250905111000 -0500" channel="ESPN+ 13">
+            <title lang="en">Formula 3 Italy Qualifying B</title>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 14">
-            <title lang="en">Court 13</title>
+         <programme start="20250905094000 -0500" stop="20250905114000 -0500" channel="ESPN+ 14">
+            <title lang="en">En Español-Formula 2 Italy Qualifying</title>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 15">
-            <title lang="en">Grandstand</title>
+         <programme start="20250905095500 -0500" stop="20250905115500 -0500" channel="ESPN+ 15">
+            <title lang="en">Formula 2 Italy Qualifying</title>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 16">
-            <title lang="en">Court 15</title>
+         <programme start="20250905100000 -0500" stop="20250905120000 -0500" channel="ESPN+ 16">
+            <title lang="en">New Mexico State vs. Southern Illinois</title>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 17">
-            <title lang="en">Court 9</title>
+         <programme start="20250905100000 -0500" stop="20250905120000 -0500" channel="ESPN+ 17">
+            <title lang="en">California Baptist vs. Princeton</title>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 18">
-            <title lang="en">Court 11</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 18">
+            <title lang="en">Chris Klieman Show</title>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 19">
-            <title lang="en">Court 6</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 19">
+            <title lang="en">Presbyterian vs. North Florida</title>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 20">
-            <title lang="en">Court 12</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 20">
+            <title lang="en">Fairleigh Dickinson vs. Robert Morris</title>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 21">
-            <title lang="en">Stadium 17</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 21">
+            <title lang="en">Loyola Maryland vs. Duquesne</title>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 22">
-            <title lang="en">The Pat McAfee Show</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 22">
+            <title lang="en">Northeastern vs. Fordham</title>
          </programme>
    <channel id="ESPN+ 23">
      <display-name lang="en">ESPN+ 23</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 23">
-            <title lang="en">Thu, 9/4 - The Rich Eisen Show</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 23">
+            <title lang="en">Arkansas Pine Bluff vs. Belmont</title>
          </programme>
    <channel id="ESPN+ 24">
      <display-name lang="en">ESPN+ 24</display-name>
    </channel>
-         <programme start="20250904120000 -0500" stop="20250904140000 -0500" channel="ESPN+ 24">
-            <title lang="en">Liberty vs. Coppin State</title>
+         <programme start="20250905110000 -0500" stop="20250905130000 -0500" channel="ESPN+ 24">
+            <title lang="en">West Georgia vs. UNC Asheville</title>
          </programme>
    <channel id="ESPN+ 25">
      <display-name lang="en">ESPN+ 25</display-name>
    </channel>
-         <programme start="20250904130000 -0500" stop="20250904150000 -0500" channel="ESPN+ 25">
-            <title lang="en">South Florida BullsEye Coaches Show</title>
+         <programme start="20250905115500 -0500" stop="20250905135500 -0500" channel="ESPN+ 25">
+            <title lang="en">Benin vs. Zimbabwe (Round 7, Group C)</title>
          </programme>
    <channel id="ESPN+ 26">
      <display-name lang="en">ESPN+ 26</display-name>
    </channel>
-         <programme start="20250904130000 -0500" stop="20250904150000 -0500" channel="ESPN+ 26">
-            <title lang="en">Howard vs. George Washington</title>
+         <programme start="20250905115500 -0500" stop="20250905135500 -0500" channel="ESPN+ 26">
+            <title lang="en">Djibouti vs. Burkina Faso (Round 7, Group A)</title>
          </programme>
    <channel id="ESPN+ 27">
      <display-name lang="en">ESPN+ 27</display-name>
    </channel>
-         <programme start="20250904140000 -0500" stop="20250904160000 -0500" channel="ESPN+ 27">
-            <title lang="en">Flames Central</title>
+         <programme start="20250905115500 -0500" stop="20250905135500 -0500" channel="ESPN+ 27">
+            <title lang="en">Congo vs. Tanzania (Round 7, Group E)</title>
          </programme>
    <channel id="ESPN+ 28">
      <display-name lang="en">ESPN+ 28</display-name>
    </channel>
-         <programme start="20250904145500 -0500" stop="20250904165500 -0500" channel="ESPN+ 28">
-            <title lang="en">Algeria vs. Botswana (Round 7, Group G)</title>
+         <programme start="20250905115500 -0500" stop="20250905135500 -0500" channel="ESPN+ 28">
+            <title lang="en">Uganda vs. Mozambique (Round 7, Group G)</title>
          </programme>
    <channel id="ESPN+ 29">
      <display-name lang="en">ESPN+ 29</display-name>
    </channel>
-         <programme start="20250904145500 -0500" stop="20250904165500 -0500" channel="ESPN+ 29">
-            <title lang="en">Mali vs. Comoros (Round 7, Group I)</title>
+         <programme start="20250905115500 -0500" stop="20250905135500 -0500" channel="ESPN+ 29">
+            <title lang="en">Lesotho vs. South Africa (Round 7, Group C)</title>
          </programme>
    <channel id="ESPN+ 30">
      <display-name lang="en">ESPN+ 30</display-name>
    </channel>
-         <programme start="20250904145500 -0500" stop="20250904165500 -0500" channel="ESPN+ 30">
-            <title lang="en">Tunisia vs. Liberia (Round 7, Group H)</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 30">
+            <title lang="en">UFC Fight Night Pre-Show: Imavov vs. Borralho</title>
          </programme>
    <channel id="ESPN+ 31">
      <display-name lang="en">ESPN+ 31</display-name>
    </channel>
-         <programme start="20250904145500 -0500" stop="20250904165500 -0500" channel="ESPN+ 31">
-            <title lang="en">Thu, 9/4 - Futbol Americas</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 31">
+            <title lang="en">Court 11</title>
          </programme>
    <channel id="ESPN+ 32">
      <display-name lang="en">ESPN+ 32</display-name>
    </channel>
-         <programme start="20250904150000 -0500" stop="20250904170000 -0500" channel="ESPN+ 32">
-            <title lang="en">Indiana State vs. Eastern Illinois</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 32">
+            <title lang="en">Court 8</title>
          </programme>
    <channel id="ESPN+ 33">
      <display-name lang="en">ESPN+ 33</display-name>
    </channel>
-         <programme start="20250904150000 -0500" stop="20250904170000 -0500" channel="ESPN+ 33">
-            <title lang="en">Vermont vs. Charleston Southern</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 33">
+            <title lang="en">Court 12</title>
          </programme>
    <channel id="ESPN+ 34">
      <display-name lang="en">ESPN+ 34</display-name>
    </channel>
-         <programme start="20250904150000 -0500" stop="20250904170000 -0500" channel="ESPN+ 34">
-            <title lang="en">Bowling Green vs. Robert Morris</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 34">
+            <title lang="en">Louis Armstrong Stadium</title>
          </programme>
    <channel id="ESPN+ 35">
      <display-name lang="en">ESPN+ 35</display-name>
    </channel>
-         <programme start="20250904150000 -0500" stop="20250904170000 -0500" channel="ESPN+ 35">
-            <title lang="en">UTEP vs. Texas A&amp;M-Corpus Christi</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 35">
+            <title lang="en">Court 14</title>
          </programme>
    <channel id="ESPN+ 36">
      <display-name lang="en">ESPN+ 36</display-name>
    </channel>
-         <programme start="20250904160000 -0500" stop="20250904180000 -0500" channel="ESPN+ 36">
-            <title lang="en">Hawk Talk with Lance Leipold</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 36">
+            <title lang="en">Court 4</title>
          </programme>
    <channel id="ESPN+ 37">
      <display-name lang="en">ESPN+ 37</display-name>
    </channel>
-         <programme start="20250904160000 -0500" stop="20250904180000 -0500" channel="ESPN+ 37">
-            <title lang="en">OSU Orange Power Podcast</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 37">
+            <title lang="en">Court 15</title>
          </programme>
    <channel id="ESPN+ 38">
      <display-name lang="en">ESPN+ 38</display-name>
    </channel>
-         <programme start="20250904160000 -0500" stop="20250904180000 -0500" channel="ESPN+ 38">
-            <title lang="en">Davidson vs. Furman</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 38">
+            <title lang="en">Grandstand</title>
          </programme>
    <channel id="ESPN+ 39">
      <display-name lang="en">ESPN+ 39</display-name>
    </channel>
-         <programme start="20250904160000 -0500" stop="20250904180000 -0500" channel="ESPN+ 39">
-            <title lang="en">East Carolina vs. App State</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 39">
+            <title lang="en">Stadium 17</title>
          </programme>
    <channel id="ESPN+ 40">
      <display-name lang="en">ESPN+ 40</display-name>
    </channel>
-         <programme start="20250904160000 -0500" stop="20250904180000 -0500" channel="ESPN+ 40">
-            <title lang="en">Northern Kentucky vs. Ohio</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 40">
+            <title lang="en">Court 9</title>
          </programme>
    <channel id="ESPN+ 41">
      <display-name lang="en">ESPN+ 41</display-name>
    </channel>
-         <programme start="20250904160000 -0500" stop="20250904180000 -0500" channel="ESPN+ 41">
-            <title lang="en">Miami (OH) vs. Morehead State</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 41">
+            <title lang="en">Court 7</title>
          </programme>
    <channel id="ESPN+ 42">
      <display-name lang="en">ESPN+ 42</display-name>
    </channel>
-         <programme start="20250904163000 -0500" stop="20250904183000 -0500" channel="ESPN+ 42">
-            <title lang="en">Cal State Bakersfield vs. Gonzaga</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 42">
+            <title lang="en">Court 13</title>
          </programme>
    <channel id="ESPN+ 43">
      <display-name lang="en">ESPN+ 43</display-name>
    </channel>
-         <programme start="20250904170000 -0500" stop="20250904190000 -0500" channel="ESPN+ 43">
-            <title lang="en">St. Ambrose vs. Northern Iowa</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 43">
+            <title lang="en">Court 6</title>
          </programme>
    <channel id="ESPN+ 44">
      <display-name lang="en">ESPN+ 44</display-name>
    </channel>
-         <programme start="20250904170000 -0500" stop="20250904190000 -0500" channel="ESPN+ 44">
-            <title lang="en">Gardner-Webb vs. The Citadel</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 44">
+            <title lang="en">Press Conferences Day 13</title>
          </programme>
    <channel id="ESPN+ 45">
      <display-name lang="en">ESPN+ 45</display-name>
    </channel>
-         <programme start="20250904170000 -0500" stop="20250904190000 -0500" channel="ESPN+ 45">
-            <title lang="en">Texas A&amp;M - San Antonio vs. UT Rio Grande Valley</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 45">
+            <title lang="en">Court 10</title>
          </programme>
    <channel id="ESPN+ 46">
      <display-name lang="en">ESPN+ 46</display-name>
    </channel>
-         <programme start="20250904170000 -0500" stop="20250904190000 -0500" channel="ESPN+ 46">
-            <title lang="en">Georgia Southern vs. North Florida</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 46">
+            <title lang="en">The Pat McAfee Show</title>
          </programme>
    <channel id="ESPN+ 47">
      <display-name lang="en">ESPN+ 47</display-name>
    </channel>
-         <programme start="20250904170000 -0500" stop="20250904190000 -0500" channel="ESPN+ 47">
-            <title lang="en">Cornell vs. Delaware</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 47">
+            <title lang="en">Fri, 9/5 - The Rich Eisen Show</title>
          </programme>
    <channel id="ESPN+ 48">
      <display-name lang="en">ESPN+ 48</display-name>
    </channel>
-         <programme start="20250904173000 -0500" stop="20250904193000 -0500" channel="ESPN+ 48">
-            <title lang="en">Thu, 9/4 - ESPN FC</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 48">
+            <title lang="en">San José State vs. Hawai&#x27;i</title>
          </programme>
    <channel id="ESPN+ 49">
      <display-name lang="en">ESPN+ 49</display-name>
    </channel>
-         <programme start="20250904173000 -0500" stop="20250904193000 -0500" channel="ESPN+ 49">
-            <title lang="en">North Dakota vs. West Virginia</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 49">
+            <title lang="en">Merrimack vs. Northern Illinois</title>
          </programme>
    <channel id="ESPN+ 50">
      <display-name lang="en">ESPN+ 50</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 50">
-            <title lang="en">Binghamton vs. Colgate</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 50">
+            <title lang="en">Incarnate Word vs. Wichita State</title>
          </programme>
    <channel id="ESPN+ 51">
      <display-name lang="en">ESPN+ 51</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 51">
-            <title lang="en">Drexel vs. Lehigh</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 51">
+            <title lang="en">Ohio vs. Chattanooga</title>
          </programme>
    <channel id="ESPN+ 52">
      <display-name lang="en">ESPN+ 52</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 52">
-            <title lang="en">South Carolina State vs. UNC Asheville</title>
+         <programme start="20250905120000 -0500" stop="20250905140000 -0500" channel="ESPN+ 52">
+            <title lang="en">Nevada vs. Kansas State</title>
          </programme>
    <channel id="ESPN+ 53">
      <display-name lang="en">ESPN+ 53</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 53">
-            <title lang="en">Western Carolina vs. Longwood</title>
+         <programme start="20250905121500 -0500" stop="20250905141500 -0500" channel="ESPN+ 53">
+            <title lang="en">F1 Show: Italy</title>
          </programme>
    <channel id="ESPN+ 54">
      <display-name lang="en">ESPN+ 54</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 54">
-            <title lang="en">Western Illinois vs. Green Bay</title>
+         <programme start="20250905123000 -0500" stop="20250905143000 -0500" channel="ESPN+ 54">
+            <title lang="en">Porsche Supercup Italy Practice</title>
          </programme>
    <channel id="ESPN+ 55">
      <display-name lang="en">ESPN+ 55</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 55">
-            <title lang="en">#20 Virginia Tech vs. Old Dominion</title>
+         <programme start="20250905130000 -0500" stop="20250905150000 -0500" channel="ESPN+ 55">
+            <title lang="en">New Haven vs. Columbia</title>
          </programme>
    <channel id="ESPN+ 56">
      <display-name lang="en">ESPN+ 56</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 56">
-            <title lang="en">Hawai&#x27;i vs. Sacramento State</title>
+         <programme start="20250905130000 -0500" stop="20250905150000 -0500" channel="ESPN+ 56">
+            <title lang="en">Stetson vs. UCF</title>
          </programme>
    <channel id="ESPN+ 57">
      <display-name lang="en">ESPN+ 57</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 57">
-            <title lang="en">Monmouth vs. Harvard</title>
+         <programme start="20250905130000 -0500" stop="20250905150000 -0500" channel="ESPN+ 57">
+            <title lang="en">Oakland vs. Montana</title>
          </programme>
    <channel id="ESPN+ 58">
      <display-name lang="en">ESPN+ 58</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 58">
-            <title lang="en">East Tennessee State vs. West Georgia</title>
+         <programme start="20250905140000 -0500" stop="20250905160000 -0500" channel="ESPN+ 58">
+            <title lang="en">East Carolina vs. Furman</title>
          </programme>
    <channel id="ESPN+ 59">
      <display-name lang="en">ESPN+ 59</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 59">
-            <title lang="en">High Point vs. UNC Greensboro</title>
+         <programme start="20250905140000 -0500" stop="20250905160000 -0500" channel="ESPN+ 59">
+            <title lang="en">Iona vs. Seton Hall</title>
          </programme>
    <channel id="ESPN+ 60">
      <display-name lang="en">ESPN+ 60</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 60">
-            <title lang="en">Maryland vs. James Madison</title>
+         <programme start="20250905140000 -0500" stop="20250905160000 -0500" channel="ESPN+ 60">
+            <title lang="en">South Carolina Upstate vs. UAB</title>
          </programme>
    <channel id="ESPN+ 61">
      <display-name lang="en">ESPN+ 61</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 61">
-            <title lang="en">Kennesaw State vs. Mercer</title>
+         <programme start="20250905140000 -0500" stop="20250905160000 -0500" channel="ESPN+ 61">
+            <title lang="en">Austin Peay vs. Saint Louis</title>
          </programme>
    <channel id="ESPN+ 62">
      <display-name lang="en">ESPN+ 62</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 62">
-            <title lang="en">Manhattan vs. Idaho</title>
+         <programme start="20250905140000 -0500" stop="20250905160000 -0500" channel="ESPN+ 62">
+            <title lang="en">Coppin State vs. North Dakota</title>
          </programme>
    <channel id="ESPN+ 63">
      <display-name lang="en">ESPN+ 63</display-name>
    </channel>
-         <programme start="20250904180000 -0500" stop="20250904200000 -0500" channel="ESPN+ 63">
-            <title lang="en">Michigan State vs. Southern Indiana</title>
+         <programme start="20250905142500 -0500" stop="20250905162500 -0500" channel="ESPN+ 63">
+            <title lang="en">Chelsea vs. Manchester City</title>
          </programme>
    <channel id="ESPN+ 64">
      <display-name lang="en">ESPN+ 64</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 64">
-            <title lang="en">Sacramento State vs. #18 Utah Valley</title>
+         <programme start="20250905145500 -0500" stop="20250905165500 -0500" channel="ESPN+ 64">
+            <title lang="en">Senegal vs. Sudan (Round 7, Group B)</title>
          </programme>
    <channel id="ESPN+ 65">
      <display-name lang="en">ESPN+ 65</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 65">
-            <title lang="en">UCF vs. #22 South Florida</title>
+         <programme start="20250905145500 -0500" stop="20250905165500 -0500" channel="ESPN+ 65">
+            <title lang="en">Mauritania vs. Togo (Round 7, Group B)</title>
          </programme>
    <channel id="ESPN+ 66">
      <display-name lang="en">ESPN+ 66</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 66">
-            <title lang="en">Lindenwood vs. Evansville</title>
+         <programme start="20250905145500 -0500" stop="20250905165500 -0500" channel="ESPN+ 66">
+            <title lang="en">Morocco vs. Niger (Round 7, Group E)</title>
          </programme>
    <channel id="ESPN+ 67">
      <display-name lang="en">ESPN+ 67</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 67">
-            <title lang="en">#19 Florida Atlantic vs. North Florida</title>
+         <programme start="20250905145500 -0500" stop="20250905165500 -0500" channel="ESPN+ 67">
+            <title lang="en">Cote D&#x27;Ivoire vs. Burundi (Round 7, Group F)</title>
          </programme>
    <channel id="ESPN+ 68">
      <display-name lang="en">ESPN+ 68</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 68">
-            <title lang="en">Evansville vs. Austin Peay</title>
+         <programme start="20250905145500 -0500" stop="20250905165500 -0500" channel="ESPN+ 68">
+            <title lang="en">Egypt vs. Ethiopia (Round 7, Group A)</title>
          </programme>
    <channel id="ESPN+ 69">
      <display-name lang="en">ESPN+ 69</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 69">
-            <title lang="en">Temple vs. Saint Joseph&#x27;s</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 69">
+            <title lang="en">Quinnipiac vs. Maine</title>
          </programme>
    <channel id="ESPN+ 70">
      <display-name lang="en">ESPN+ 70</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 70">
-            <title lang="en">Texas Southern vs. Lamar</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 70">
+            <title lang="en">Lafayette vs. Longwood</title>
          </programme>
    <channel id="ESPN+ 71">
      <display-name lang="en">ESPN+ 71</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 71">
-            <title lang="en">Grambling vs. Northwestern State</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 71">
+            <title lang="en">Ball State vs. UC Davis</title>
          </programme>
    <channel id="ESPN+ 72">
      <display-name lang="en">ESPN+ 72</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 72">
-            <title lang="en">Florida International vs. UCF</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 72">
+            <title lang="en">William &amp; Mary vs. VCU</title>
          </programme>
    <channel id="ESPN+ 73">
      <display-name lang="en">ESPN+ 73</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 73">
-            <title lang="en">Furman vs. South Carolina Upstate</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 73">
+            <title lang="en">#13 Arkansas vs. Creighton</title>
          </programme>
    <channel id="ESPN+ 74">
      <display-name lang="en">ESPN+ 74</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 74">
-            <title lang="en">Middle Tennessee vs. Lipscomb</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 74">
+            <title lang="en">Rutgers vs. Dartmouth</title>
          </programme>
    <channel id="ESPN+ 75">
      <display-name lang="en">ESPN+ 75</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 75">
-            <title lang="en">Navy vs. VCU</title>
+         <programme start="20250905150000 -0500" stop="20250905170000 -0500" channel="ESPN+ 75">
+            <title lang="en">Cal State Fullerton vs. Manhattan</title>
          </programme>
    <channel id="ESPN+ 76">
      <display-name lang="en">ESPN+ 76</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 76">
-            <title lang="en">Radford vs. Davidson</title>
+         <programme start="20250905160000 -0500" stop="20250905180000 -0500" channel="ESPN+ 76">
+            <title lang="en">Vermont vs. Boston University</title>
          </programme>
    <channel id="ESPN+ 77">
      <display-name lang="en">ESPN+ 77</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 77">
-            <title lang="en">Purdue vs. Dayton</title>
+         <programme start="20250905160000 -0500" stop="20250905180000 -0500" channel="ESPN+ 77">
+            <title lang="en">New Haven vs. La Salle</title>
          </programme>
    <channel id="ESPN+ 78">
      <display-name lang="en">ESPN+ 78</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 78">
-            <title lang="en">Columbia vs. St. John&#x27;s</title>
+         <programme start="20250905160000 -0500" stop="20250905180000 -0500" channel="ESPN+ 78">
+            <title lang="en">Texas A&amp;M-Corpus Christi vs. Texas State</title>
          </programme>
    <channel id="ESPN+ 79">
      <display-name lang="en">ESPN+ 79</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 79">
-            <title lang="en">SE Louisiana vs. Little Rock</title>
+         <programme start="20250905163000 -0500" stop="20250905183000 -0500" channel="ESPN+ 79">
+            <title lang="en">New Haven vs. Fordham</title>
          </programme>
    <channel id="ESPN+ 80">
      <display-name lang="en">ESPN+ 80</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 80">
-            <title lang="en">Northeastern vs. Brown</title>
+         <programme start="20250905170000 -0500" stop="20250905190000 -0500" channel="ESPN+ 80">
+            <title lang="en">Long Island University vs. Yale</title>
          </programme>
    <channel id="ESPN+ 81">
      <display-name lang="en">ESPN+ 81</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 81">
-            <title lang="en">Missouri State vs. Saint Louis</title>
+         <programme start="20250905170000 -0500" stop="20250905190000 -0500" channel="ESPN+ 81">
+            <title lang="en">Saint Francis (PA) vs. Bucknell</title>
          </programme>
    <channel id="ESPN+ 82">
      <display-name lang="en">ESPN+ 82</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 82">
-            <title lang="en">Cleveland State vs. Duquesne</title>
+         <programme start="20250905170000 -0500" stop="20250905190000 -0500" channel="ESPN+ 82">
+            <title lang="en">James Madison vs. Richmond</title>
          </programme>
    <channel id="ESPN+ 83">
      <display-name lang="en">ESPN+ 83</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 83">
-            <title lang="en">Detroit Mercy vs. Toledo</title>
+         <programme start="20250905170000 -0500" stop="20250905190000 -0500" channel="ESPN+ 83">
+            <title lang="en">Furman vs. West Georgia</title>
          </programme>
    <channel id="ESPN+ 84">
      <display-name lang="en">ESPN+ 84</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 84">
-            <title lang="en">UConn vs. Yale</title>
+         <programme start="20250905170000 -0500" stop="20250905190000 -0500" channel="ESPN+ 84">
+            <title lang="en">Bellarmine vs. James Madison</title>
          </programme>
    <channel id="ESPN+ 85">
      <display-name lang="en">ESPN+ 85</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 85">
-            <title lang="en">Bryant vs. Rhode Island</title>
+         <programme start="20250905170000 -0500" stop="20250905190000 -0500" channel="ESPN+ 85">
+            <title lang="en">Northern Colorado vs. Incarnate Word</title>
          </programme>
    <channel id="ESPN+ 86">
      <display-name lang="en">ESPN+ 86</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 86">
-            <title lang="en">Chattanooga vs. Tennessee Tech</title>
+         <programme start="20250905173000 -0500" stop="20250905193000 -0500" channel="ESPN+ 86">
+            <title lang="en">Fri, 9/5 - ESPN FC</title>
          </programme>
    <channel id="ESPN+ 87">
      <display-name lang="en">ESPN+ 87</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 87">
-            <title lang="en">St. Thomas-Minnesota vs. Eastern Washington</title>
+         <programme start="20250905173000 -0500" stop="20250905193000 -0500" channel="ESPN+ 87">
+            <title lang="en">Air Force vs. Navy</title>
          </programme>
    <channel id="ESPN+ 88">
      <display-name lang="en">ESPN+ 88</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 88">
-            <title lang="en">Alcorn State vs. McNeese</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 88">
+            <title lang="en">Providence vs. Holy Cross</title>
          </programme>
    <channel id="ESPN+ 89">
      <display-name lang="en">ESPN+ 89</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 89">
-            <title lang="en">New Mexico vs. Tarleton State</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 89">
+            <title lang="en">Wagner vs. Lehigh</title>
          </programme>
    <channel id="ESPN+ 90">
      <display-name lang="en">ESPN+ 90</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 90">
-            <title lang="en">Northwestern vs. #20 Baylor</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 90">
+            <title lang="en">Wake Forest vs. Davidson</title>
          </programme>
    <channel id="ESPN+ 91">
      <display-name lang="en">ESPN+ 91</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 91">
-            <title lang="en">Purdue Fort Wayne vs. Eastern Michigan</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 91">
+            <title lang="en">Old Dominion vs. Princeton</title>
          </programme>
    <channel id="ESPN+ 92">
      <display-name lang="en">ESPN+ 92</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 92">
-            <title lang="en">Lindenwood vs. Missouri State</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 92">
+            <title lang="en">Brown vs. Massachusetts</title>
          </programme>
    <channel id="ESPN+ 93">
      <display-name lang="en">ESPN+ 93</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 93">
-            <title lang="en">Vanderbilt vs. Lipscomb</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 93">
+            <title lang="en">Northeastern vs. UMass Lowell</title>
          </programme>
    <channel id="ESPN+ 94">
      <display-name lang="en">ESPN+ 94</display-name>
    </channel>
-         <programme start="20250904190000 -0500" stop="20250904210000 -0500" channel="ESPN+ 94">
-            <title lang="en">Texas State vs. UT Rio Grande Valley</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 94">
+            <title lang="en">Rhode Island vs. UAlbany</title>
          </programme>
    <channel id="ESPN+ 95">
      <display-name lang="en">ESPN+ 95</display-name>
    </channel>
-         <programme start="20250904193000 -0500" stop="20250904213000 -0500" channel="ESPN+ 95">
-            <title lang="en">Oral Roberts vs. UT Rio Grande Valley</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 95">
+            <title lang="en">Alcorn State vs. Jacksonville State</title>
          </programme>
    <channel id="ESPN+ 96">
      <display-name lang="en">ESPN+ 96</display-name>
    </channel>
-         <programme start="20250904193000 -0500" stop="20250904213000 -0500" channel="ESPN+ 96">
-            <title lang="en">Wright State vs. Loyola Chicago</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 96">
+            <title lang="en">UNC Wilmington vs. Georgia Southern</title>
          </programme>
    <channel id="ESPN+ 97">
      <display-name lang="en">ESPN+ 97</display-name>
    </channel>
-         <programme start="20250904193000 -0500" stop="20250904213000 -0500" channel="ESPN+ 97">
-            <title lang="en">Eastern Kentucky vs. Belmont</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 97">
+            <title lang="en">Liberty vs. West Virginia</title>
          </programme>
    <channel id="ESPN+ 98">
      <display-name lang="en">ESPN+ 98</display-name>
    </channel>
-         <programme start="20250904193000 -0500" stop="20250904213000 -0500" channel="ESPN+ 98">
-            <title lang="en">Tulsa vs. East Texas A&amp;M</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 98">
+            <title lang="en">Abilene Christian vs. Stephen F. Austin</title>
          </programme>
    <channel id="ESPN+ 99">
      <display-name lang="en">ESPN+ 99</display-name>
    </channel>
-         <programme start="20250904193000 -0500" stop="20250904213000 -0500" channel="ESPN+ 99">
-            <title lang="en">San Diego State vs. Houston</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 99">
+            <title lang="en">Long Island University vs. Sacred Heart</title>
          </programme>
    <channel id="ESPN+ 100">
      <display-name lang="en">ESPN+ 100</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 100">
-            <title lang="en">California Baptist vs. San Diego</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 100">
+            <title lang="en">American University vs. Cleveland State</title>
          </programme>
    <channel id="ESPN+ 101">
      <display-name lang="en">ESPN+ 101</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 101">
-            <title lang="en">Northwestern vs. #4 TCU</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 101">
+            <title lang="en">Stetson vs. Florida International</title>
          </programme>
    <channel id="ESPN+ 102">
      <display-name lang="en">ESPN+ 102</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 102">
-            <title lang="en">Murray State vs. UT Martin</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 102">
+            <title lang="en">Fairleigh Dickinson vs. Duquesne</title>
          </programme>
    <channel id="ESPN+ 103">
      <display-name lang="en">ESPN+ 103</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 103">
-            <title lang="en">Southern Illinois vs. SIU Edwardsville</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 103">
+            <title lang="en">Florida State vs. South Florida</title>
          </programme>
    <channel id="ESPN+ 104">
      <display-name lang="en">ESPN+ 104</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 104">
-            <title lang="en">Valparaiso vs. Southern Indiana</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 104">
+            <title lang="en">Hofstra vs. Army</title>
          </programme>
    <channel id="ESPN+ 105">
      <display-name lang="en">ESPN+ 105</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 105">
-            <title lang="en">IU Indianapolis vs. Illinois State</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 105">
+            <title lang="en">Virginia Tech vs. Delaware</title>
          </programme>
    <channel id="ESPN+ 106">
      <display-name lang="en">ESPN+ 106</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 106">
-            <title lang="en">McNeese vs. Houston</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 106">
+            <title lang="en">Loyola Maryland vs. Robert Morris</title>
          </programme>
    <channel id="ESPN+ 107">
      <display-name lang="en">ESPN+ 107</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 107">
-            <title lang="en">Texas vs. Baylor</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 107">
+            <title lang="en">Alabama vs. Chattanooga</title>
          </programme>
    <channel id="ESPN+ 108">
      <display-name lang="en">ESPN+ 108</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 108">
-            <title lang="en">Texas A&amp;M vs. Stephen F. Austin</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 108">
+            <title lang="en">Valparaiso vs. Eastern Michigan</title>
          </programme>
    <channel id="ESPN+ 109">
      <display-name lang="en">ESPN+ 109</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 109">
-            <title lang="en">Western Kentucky vs. UAB</title>
+         <programme start="20250905180000 -0500" stop="20250905200000 -0500" channel="ESPN+ 109">
+            <title lang="en">Idaho vs. Seattle U</title>
          </programme>
    <channel id="ESPN+ 110">
      <display-name lang="en">ESPN+ 110</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 110">
-            <title lang="en">#2 Tennessee vs. #14 Memphis</title>
+         <programme start="20250905183000 -0500" stop="20250905203000 -0500" channel="ESPN+ 110">
+            <title lang="en">La Salle vs. Mount St. Mary&#x27;s</title>
          </programme>
    <channel id="ESPN+ 111">
      <display-name lang="en">ESPN+ 111</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 111">
-            <title lang="en">Arkansas-Pine Bluff vs. Central Arkansas</title>
+         <programme start="20250905185500 -0500" stop="20250905205500 -0500" channel="ESPN+ 111">
+            <title lang="en">Western Michigan vs. Butler</title>
          </programme>
    <channel id="ESPN+ 112">
      <display-name lang="en">ESPN+ 112</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 112">
-            <title lang="en">Abilene Christian vs. North Texas</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 112">
+            <title lang="en">West Chester vs. Liberty</title>
          </programme>
    <channel id="ESPN+ 113">
      <display-name lang="en">ESPN+ 113</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 113">
-            <title lang="en">Alabama State vs. North Alabama</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 113">
+            <title lang="en">#21 Pennsylvania vs. Seton Hall</title>
          </programme>
    <channel id="ESPN+ 114">
      <display-name lang="en">ESPN+ 114</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 114">
-            <title lang="en">#19 Oklahoma vs. Texas State</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 114">
+            <title lang="en">Charlotte vs. South Carolina</title>
          </programme>
    <channel id="ESPN+ 115">
      <display-name lang="en">ESPN+ 115</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 115">
-            <title lang="en">Northern Colorado vs. #18 BYU</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 115">
+            <title lang="en">Brown vs. Boston University</title>
          </programme>
    <channel id="ESPN+ 116">
      <display-name lang="en">ESPN+ 116</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 116">
-            <title lang="en">#16 Missouri vs. Arkansas State</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 116">
+            <title lang="en">Rutgers vs. Princeton</title>
          </programme>
    <channel id="ESPN+ 117">
      <display-name lang="en">ESPN+ 117</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 117">
-            <title lang="en">Weber State vs. Utah Tech</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 117">
+            <title lang="en">#14 Duke vs. Georgetown</title>
          </programme>
    <channel id="ESPN+ 118">
      <display-name lang="en">ESPN+ 118</display-name>
    </channel>
-         <programme start="20250904200000 -0500" stop="20250904220000 -0500" channel="ESPN+ 118">
-            <title lang="en">UC Riverside vs. Southern Utah</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 118">
+            <title lang="en">#15 High Point vs. VCU</title>
          </programme>
    <channel id="ESPN+ 119">
      <display-name lang="en">ESPN+ 119</display-name>
    </channel>
-         <programme start="20250904203000 -0500" stop="20250904223000 -0500" channel="ESPN+ 119">
-            <title lang="en">Liberty vs. VMI</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 119">
+            <title lang="en">Villanova vs. Columbia</title>
          </programme>
    <channel id="ESPN+ 120">
      <display-name lang="en">ESPN+ 120</display-name>
    </channel>
-         <programme start="20250904203000 -0500" stop="20250904223000 -0500" channel="ESPN+ 120">
-            <title lang="en">Utah Tech vs. Idaho State</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 120">
+            <title lang="en">Presbyterian vs. Coastal Carolina</title>
          </programme>
    <channel id="ESPN+ 121">
      <display-name lang="en">ESPN+ 121</display-name>
    </channel>
-         <programme start="20250904203000 -0500" stop="20250904223000 -0500" channel="ESPN+ 121">
-            <title lang="en">California Baptist vs. Santa Clara</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 121">
+            <title lang="en">#2 Marshall vs. St. John&#x27;s</title>
          </programme>
    <channel id="ESPN+ 122">
      <display-name lang="en">ESPN+ 122</display-name>
    </channel>
-         <programme start="20250904210000 -0500" stop="20250904230000 -0500" channel="ESPN+ 122">
-            <title lang="en">Texas Tech vs. New Mexico State</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 122">
+            <title lang="en">Harvard vs. Providence</title>
          </programme>
    <channel id="ESPN+ 123">
      <display-name lang="en">ESPN+ 123</display-name>
    </channel>
-         <programme start="20250904210000 -0500" stop="20250904230000 -0500" channel="ESPN+ 123">
-            <title lang="en">Cal State Northridge vs. Portland State</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 123">
+            <title lang="en">Wofford vs. Longwood</title>
          </programme>
    <channel id="ESPN+ 124">
      <display-name lang="en">ESPN+ 124</display-name>
    </channel>
-         <programme start="20250904210000 -0500" stop="20250904230000 -0500" channel="ESPN+ 124">
-            <title lang="en">Dartmouth vs. San Francisco</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 124">
+            <title lang="en">Oregon vs. Seattle U</title>
          </programme>
    <channel id="ESPN+ 125">
      <display-name lang="en">ESPN+ 125</display-name>
    </channel>
-         <programme start="20250904210000 -0500" stop="20250904230000 -0500" channel="ESPN+ 125">
-            <title lang="en">LSU vs. Utah Valley</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 125">
+            <title lang="en">North Dakota State vs. Oakland</title>
          </programme>
    <channel id="ESPN+ 126">
      <display-name lang="en">ESPN+ 126</display-name>
    </channel>
-         <programme start="20250904210000 -0500" stop="20250904230000 -0500" channel="ESPN+ 126">
-            <title lang="en">Cal State Fullerton vs. Seattle U</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 126">
+            <title lang="en">Kansas City vs. Southern Illinois</title>
          </programme>
    <channel id="ESPN+ 127">
      <display-name lang="en">ESPN+ 127</display-name>
    </channel>
-         <programme start="20250904213000 -0500" stop="20250904233000 -0500" channel="ESPN+ 127">
-            <title lang="en">UTEP vs. Idaho</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 127">
+            <title lang="en">Marist vs. Middle Tennessee</title>
          </programme>
    <channel id="ESPN+ 128">
      <display-name lang="en">ESPN+ 128</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 128">
-            <title lang="en">Cal State Fullerton vs. Oregon State</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 128">
+            <title lang="en">#16 Missouri vs. Arkansas State</title>
          </programme>
    <channel id="ESPN+ 129">
      <display-name lang="en">ESPN+ 129</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 129">
-            <title lang="en">SMU vs. Grand Canyon</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 129">
+            <title lang="en">Indiana State vs. Northern Illinois</title>
          </programme>
    <channel id="ESPN+ 130">
      <display-name lang="en">ESPN+ 130</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 130">
-            <title lang="en">Seattle U vs. Cal State Northridge</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 130">
+            <title lang="en">UT Arlington vs. McNeese</title>
          </programme>
    <channel id="ESPN+ 131">
      <display-name lang="en">ESPN+ 131</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 131">
-            <title lang="en">Washington vs. Loyola Marymount</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 131">
+            <title lang="en">UIC vs. Morehead State</title>
          </programme>
    <channel id="ESPN+ 132">
      <display-name lang="en">ESPN+ 132</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 132">
-            <title lang="en">Houston Christian vs. UC San Diego</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 132">
+            <title lang="en">East Carolina vs. UNC Asheville</title>
          </programme>
    <channel id="ESPN+ 133">
      <display-name lang="en">ESPN+ 133</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 133">
-            <title lang="en">#10 South Carolina vs. American University</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 133">
+            <title lang="en">Little Rock vs. Central Arkansas</title>
          </programme>
    <channel id="ESPN+ 134">
      <display-name lang="en">ESPN+ 134</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 134">
-            <title lang="en">Fresno State vs. Cal State Bakersfield</title>
+         <programme start="20250905190000 -0500" stop="20250905210000 -0500" channel="ESPN+ 134">
+            <title lang="en">UTEP vs. UT Rio Grande Valley</title>
          </programme>
    <channel id="ESPN+ 135">
      <display-name lang="en">ESPN+ 135</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 135">
-            <title lang="en">Saint Mary&#x27;s vs. UC Davis</title>
+         <programme start="20250905193000 -0500" stop="20250905213000 -0500" channel="ESPN+ 135">
+            <title lang="en">Our Lady of the Lake vs. Incarnate Word</title>
          </programme>
    <channel id="ESPN+ 136">
      <display-name lang="en">ESPN+ 136</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 136">
-            <title lang="en">Pepperdine vs. Arizona State</title>
+         <programme start="20250905193000 -0500" stop="20250905213000 -0500" channel="ESPN+ 136">
+            <title lang="en">Lamar vs. Tulane</title>
          </programme>
    <channel id="ESPN+ 137">
      <display-name lang="en">ESPN+ 137</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 137">
-            <title lang="en">#18 UCLA vs. Portland</title>
+         <programme start="20250905193000 -0500" stop="20250905213000 -0500" channel="ESPN+ 137">
+            <title lang="en">Northeastern vs. Columbia</title>
          </programme>
    <channel id="ESPN+ 138">
      <display-name lang="en">ESPN+ 138</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 138">
-            <title lang="en">Denver vs. Arizona</title>
+         <programme start="20250905193000 -0500" stop="20250905213000 -0500" channel="ESPN+ 138">
+            <title lang="en">Iowa State vs. Milwaukee</title>
          </programme>
    <channel id="ESPN+ 139">
      <display-name lang="en">ESPN+ 139</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 139">
-            <title lang="en">Nevada vs. Long Beach State</title>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 139">
+            <title lang="en">Liberty (MO) vs. Liberty North (MO)</title>
          </programme>
    <channel id="ESPN+ 140">
      <display-name lang="en">ESPN+ 140</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 140">
-            <title lang="en">Air Force vs. Gonzaga</title>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 140">
+            <title lang="en">Denver vs. Creighton</title>
          </programme>
    <channel id="ESPN+ 141">
      <display-name lang="en">ESPN+ 141</display-name>
    </channel>
-         <programme start="20250904220000 -0500" stop="20250904240000 -0500" channel="ESPN+ 141">
-            <title lang="en">Court 4</title>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 141">
+            <title lang="en">Nicholls vs. Belmont</title>
+         </programme>
+   <channel id="ESPN+ 142">
+     <display-name lang="en">ESPN+ 142</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 142">
+            <title lang="en">Tennessee Tech vs. UAB</title>
+         </programme>
+   <channel id="ESPN+ 143">
+     <display-name lang="en">ESPN+ 143</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 143">
+            <title lang="en">Saint Mary&#x27;s vs. #20 Baylor</title>
+         </programme>
+   <channel id="ESPN+ 144">
+     <display-name lang="en">ESPN+ 144</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 144">
+            <title lang="en">Wichita State vs. #18 BYU</title>
+         </programme>
+   <channel id="ESPN+ 145">
+     <display-name lang="en">ESPN+ 145</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 145">
+            <title lang="en">Omaha vs. Houston</title>
+         </programme>
+   <channel id="ESPN+ 146">
+     <display-name lang="en">ESPN+ 146</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 146">
+            <title lang="en">UTSA vs. Missouri State</title>
+         </programme>
+   <channel id="ESPN+ 147">
+     <display-name lang="en">ESPN+ 147</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 147">
+            <title lang="en">Charleston Southern vs. Utah Tech</title>
+         </programme>
+   <channel id="ESPN+ 148">
+     <display-name lang="en">ESPN+ 148</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 148">
+            <title lang="en">Florida Gulf Coast vs. #7 Arizona State</title>
+         </programme>
+   <channel id="ESPN+ 149">
+     <display-name lang="en">ESPN+ 149</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 149">
+            <title lang="en">Prairie View A&amp;M vs. Tarleton State</title>
+         </programme>
+   <channel id="ESPN+ 150">
+     <display-name lang="en">ESPN+ 150</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 150">
+            <title lang="en">Western Kentucky vs. Marquette</title>
+         </programme>
+   <channel id="ESPN+ 151">
+     <display-name lang="en">ESPN+ 151</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 151">
+            <title lang="en">Sacramento State vs. Southern Utah</title>
+         </programme>
+   <channel id="ESPN+ 152">
+     <display-name lang="en">ESPN+ 152</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 152">
+            <title lang="en">Eastern Washington vs. Portland</title>
+         </programme>
+   <channel id="ESPN+ 153">
+     <display-name lang="en">ESPN+ 153</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 153">
+            <title lang="en">Murray State vs. Saint Louis</title>
+         </programme>
+   <channel id="ESPN+ 154">
+     <display-name lang="en">ESPN+ 154</display-name>
+   </channel>
+         <programme start="20250905200000 -0500" stop="20250905220000 -0500" channel="ESPN+ 154">
+            <title lang="en">Maryland-Eastern Shore vs. Gonzaga</title>
+         </programme>
+   <channel id="ESPN+ 155">
+     <display-name lang="en">ESPN+ 155</display-name>
+   </channel>
+         <programme start="20250905203000 -0500" stop="20250905223000 -0500" channel="ESPN+ 155">
+            <title lang="en">Georgia vs. NC State</title>
+         </programme>
+   <channel id="ESPN+ 156">
+     <display-name lang="en">ESPN+ 156</display-name>
+   </channel>
+         <programme start="20250905203000 -0500" stop="20250905223000 -0500" channel="ESPN+ 156">
+            <title lang="en">Australia vs. New Zealand (International Friendly)</title>
+         </programme>
+   <channel id="ESPN+ 157">
+     <display-name lang="en">ESPN+ 157</display-name>
+   </channel>
+         <programme start="20250905204500 -0500" stop="20250905224500 -0500" channel="ESPN+ 157">
+            <title lang="en">Cal Poly vs. Air Force</title>
+         </programme>
+   <channel id="ESPN+ 158">
+     <display-name lang="en">ESPN+ 158</display-name>
+   </channel>
+         <programme start="20250905210000 -0500" stop="20250905230000 -0500" channel="ESPN+ 158">
+            <title lang="en">Cornell vs. UC Santa Barbara</title>
+         </programme>
+   <channel id="ESPN+ 159">
+     <display-name lang="en">ESPN+ 159</display-name>
+   </channel>
+         <programme start="20250905210000 -0500" stop="20250905230000 -0500" channel="ESPN+ 159">
+            <title lang="en">Portland State vs. San Francisco</title>
+         </programme>
+   <channel id="ESPN+ 160">
+     <display-name lang="en">ESPN+ 160</display-name>
+   </channel>
+         <programme start="20250905210000 -0500" stop="20250905230000 -0500" channel="ESPN+ 160">
+            <title lang="en">Long Beach State vs. Santa Clara</title>
+         </programme>
+   <channel id="ESPN+ 161">
+     <display-name lang="en">ESPN+ 161</display-name>
+   </channel>
+         <programme start="20250905210000 -0500" stop="20250905230000 -0500" channel="ESPN+ 161">
+            <title lang="en">Fresno State vs. UC Irvine</title>
+         </programme>
+   <channel id="ESPN+ 162">
+     <display-name lang="en">ESPN+ 162</display-name>
+   </channel>
+         <programme start="20250905220000 -0500" stop="20250905240000 -0500" channel="ESPN+ 162">
+            <title lang="en">UM Kansas City vs. #24 Portland</title>
+         </programme>
+   <channel id="ESPN+ 163">
+     <display-name lang="en">ESPN+ 163</display-name>
+   </channel>
+         <programme start="20250905220000 -0500" stop="20250905240000 -0500" channel="ESPN+ 163">
+            <title lang="en">Vermont vs. Charleston Southern</title>
+         </programme>
+   <channel id="ESPN+ 164">
+     <display-name lang="en">ESPN+ 164</display-name>
+   </channel>
+         <programme start="20250905220000 -0500" stop="20250905240000 -0500" channel="ESPN+ 164">
+            <title lang="en">Court 5</title>
+         </programme>
+   <channel id="ESPN+ 165">
+     <display-name lang="en">ESPN+ 165</display-name>
+   </channel>
+         <programme start="20250905220000 -0500" stop="20250905240000 -0500" channel="ESPN+ 165">
+            <title lang="en">Mount St. Mary&#x27;s vs. Princeton</title>
          </programme>
 </tv>
