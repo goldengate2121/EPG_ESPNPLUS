@@ -3,133 +3,277 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20251006020000 -0500" stop="20251006040000 -0500" channel="ESPN+ 1">
+         <programme start="20251007020000 -0500" stop="20251007040000 -0500" channel="ESPN+ 1">
             <title lang="en">NFL PrimeTime on ESPN+</title>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20251006100000 -0500" stop="20251006120000 -0500" channel="ESPN+ 2">
+         <programme start="20251007100000 -0500" stop="20251007120000 -0500" channel="ESPN+ 2">
             <title lang="en">Clinton &amp; Friends</title>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20251006103000 -0500" stop="20251006123000 -0500" channel="ESPN+ 3">
-            <title lang="en">UTSA Football Press Conference</title>
+         <programme start="20251007110000 -0500" stop="20251007130000 -0500" channel="ESPN+ 3">
+            <title lang="en">Tue, 10/7 - LALIGA Highlight Show</title>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20251006113000 -0500" stop="20251006133000 -0500" channel="ESPN+ 4">
-            <title lang="en">Inside Georgia Southern Football with Clay Helton</title>
+         <programme start="20251007113000 -0500" stop="20251007133000 -0500" channel="ESPN+ 4">
+            <title lang="en">South Florida FB Press Conference</title>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20251006120000 -0500" stop="20251006140000 -0500" channel="ESPN+ 5">
-            <title lang="en">K.C. Keeler Weekly Press Conference</title>
+         <programme start="20251007114500 -0500" stop="20251007134500 -0500" channel="ESPN+ 5">
+            <title lang="en">FAU Football: Zach Kittley Weekly Presser</title>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20251006120000 -0500" stop="20251006140000 -0500" channel="ESPN+ 6">
-            <title lang="en">Scott Frost Press Conference</title>
+         <programme start="20251007120000 -0500" stop="20251007140000 -0500" channel="ESPN+ 6">
+            <title lang="en">Cincinnati FB Presser</title>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20251006120000 -0500" stop="20251006140000 -0500" channel="ESPN+ 7">
-            <title lang="en">UTSA Women&#x27;s Soccer Press Conference</title>
+         <programme start="20251007120000 -0500" stop="20251007140000 -0500" channel="ESPN+ 7">
+            <title lang="en">North Texas Football Press Conference</title>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20251006120000 -0500" stop="20251006140000 -0500" channel="ESPN+ 8">
+         <programme start="20251007120000 -0500" stop="20251007140000 -0500" channel="ESPN+ 8">
             <title lang="en">The Pat McAfee Show</title>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20251006120000 -0500" stop="20251006140000 -0500" channel="ESPN+ 9">
-            <title lang="en">Mon, 10/6 - The Rich Eisen Show</title>
+         <programme start="20251007120000 -0500" stop="20251007140000 -0500" channel="ESPN+ 9">
+            <title lang="en">Tue, 10/7 - The Rich Eisen Show</title>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20251006123000 -0500" stop="20251006143000 -0500" channel="ESPN+ 10">
-            <title lang="en">Georgia Southern Football Press Conference</title>
+         <programme start="20251007123000 -0500" stop="20251007143000 -0500" channel="ESPN+ 10">
+            <title lang="en">En Español-Arsenal FC vs. OL Lyonnes</title>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20251006130000 -0500" stop="20251006150000 -0500" channel="ESPN+ 11">
-            <title lang="en">Cowboy Football Press Conference</title>
+         <programme start="20251007125000 -0500" stop="20251007145000 -0500" channel="ESPN+ 11">
+            <title lang="en">Iowa State Football Press Conference</title>
          </programme>
    <channel id="ESPN+ 12">
      <display-name lang="en">ESPN+ 12</display-name>
    </channel>
-         <programme start="20251006130000 -0500" stop="20251006150000 -0500" channel="ESPN+ 12">
-            <title lang="en">UTSA Women&#x27;s Volleyball Press Conference</title>
+         <programme start="20251007130000 -0500" stop="20251007150000 -0500" channel="ESPN+ 12">
+            <title lang="en">Colorado Weekly Football Presser</title>
          </programme>
    <channel id="ESPN+ 13">
      <display-name lang="en">ESPN+ 13</display-name>
    </channel>
-         <programme start="20251006133000 -0500" stop="20251006153000 -0500" channel="ESPN+ 13">
-            <title lang="en">Chris Klieman Press Conference</title>
+         <programme start="20251007150000 -0500" stop="20251007170000 -0500" channel="ESPN+ 13">
+            <title lang="en">Freddie &amp; Harry</title>
          </programme>
    <channel id="ESPN+ 14">
      <display-name lang="en">ESPN+ 14</display-name>
    </channel>
-         <programme start="20251006140000 -0500" stop="20251006160000 -0500" channel="ESPN+ 14">
-            <title lang="en">Coordinator&#x27;s Corner</title>
+         <programme start="20251007150000 -0500" stop="20251007170000 -0500" channel="ESPN+ 14">
+            <title lang="en">NJIT vs. Villanova</title>
          </programme>
    <channel id="ESPN+ 15">
      <display-name lang="en">ESPN+ 15</display-name>
    </channel>
-         <programme start="20251006150000 -0500" stop="20251006170000 -0500" channel="ESPN+ 15">
-            <title lang="en">Freddie &amp; Harry</title>
+         <programme start="20251007170000 -0500" stop="20251007190000 -0500" channel="ESPN+ 15">
+            <title lang="en">Tue, 10/7 - ESPN FC</title>
          </programme>
    <channel id="ESPN+ 16">
      <display-name lang="en">ESPN+ 16</display-name>
    </channel>
-         <programme start="20251006160000 -0500" stop="20251006180000 -0500" channel="ESPN+ 16">
-            <title lang="en">Kyle Whittingham Press Conference</title>
+         <programme start="20251007170000 -0500" stop="20251007190000 -0500" channel="ESPN+ 16">
+            <title lang="en">Loyola Chicago vs. Saint Louis</title>
          </programme>
    <channel id="ESPN+ 17">
      <display-name lang="en">ESPN+ 17</display-name>
    </channel>
-         <programme start="20251006170000 -0500" stop="20251006190000 -0500" channel="ESPN+ 17">
-            <title lang="en">Mon, 10/6 - ESPN FC</title>
+         <programme start="20251007180000 -0500" stop="20251007200000 -0500" channel="ESPN+ 17">
+            <title lang="en">Buffalo vs. Akron</title>
          </programme>
    <channel id="ESPN+ 18">
      <display-name lang="en">ESPN+ 18</display-name>
    </channel>
-         <programme start="20251006180000 -0500" stop="20251006200000 -0500" channel="ESPN+ 18">
-            <title lang="en">Harvard vs. Boston University</title>
+         <programme start="20251007180000 -0500" stop="20251007200000 -0500" channel="ESPN+ 18">
+            <title lang="en">Ohio vs. Kent State</title>
          </programme>
    <channel id="ESPN+ 19">
      <display-name lang="en">ESPN+ 19</display-name>
    </channel>
-         <programme start="20251006180000 -0500" stop="20251006200000 -0500" channel="ESPN+ 19">
-            <title lang="en">Willie Simmons Coach&#x27;s Show</title>
+         <programme start="20251007180000 -0500" stop="20251007200000 -0500" channel="ESPN+ 19">
+            <title lang="en">Eastern Michigan vs. Central Michigan</title>
          </programme>
    <channel id="ESPN+ 20">
      <display-name lang="en">ESPN+ 20</display-name>
    </channel>
-         <programme start="20251006180000 -0500" stop="20251006200000 -0500" channel="ESPN+ 20">
-            <title lang="en">South Carolina State vs. Coppin State</title>
+         <programme start="20251007180000 -0500" stop="20251007200000 -0500" channel="ESPN+ 20">
+            <title lang="en">Bowling Green vs. Toledo</title>
          </programme>
    <channel id="ESPN+ 21">
      <display-name lang="en">ESPN+ 21</display-name>
    </channel>
-         <programme start="20251006200000 -0500" stop="20251006220000 -0500" channel="ESPN+ 21">
-            <title lang="en">BYU vs. Oklahoma State</title>
+         <programme start="20251007183000 -0500" stop="20251007203000 -0500" channel="ESPN+ 21">
+            <title lang="en">Ball State vs. Miami (OH)</title>
          </programme>
    <channel id="ESPN+ 22">
      <display-name lang="en">ESPN+ 22</display-name>
    </channel>
-         <programme start="20251006203000 -0500" stop="20251006223000 -0500" channel="ESPN+ 22">
-            <title lang="en">Mon, 10/6 - Futbol Americas</title>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 22">
+            <title lang="en">After Further Review</title>
+         </programme>
+   <channel id="ESPN+ 23">
+     <display-name lang="en">ESPN+ 23</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 23">
+            <title lang="en">Binghamton vs. Bucknell</title>
+         </programme>
+   <channel id="ESPN+ 24">
+     <display-name lang="en">ESPN+ 24</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 24">
+            <title lang="en">DePaul vs. Bradley</title>
+         </programme>
+   <channel id="ESPN+ 25">
+     <display-name lang="en">ESPN+ 25</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 25">
+            <title lang="en">Stetson vs. South Florida</title>
+         </programme>
+   <channel id="ESPN+ 26">
+     <display-name lang="en">ESPN+ 26</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 26">
+            <title lang="en">Pennsylvania vs. Temple</title>
+         </programme>
+   <channel id="ESPN+ 27">
+     <display-name lang="en">ESPN+ 27</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 27">
+            <title lang="en">#19 Akron vs. Cornell</title>
+         </programme>
+   <channel id="ESPN+ 28">
+     <display-name lang="en">ESPN+ 28</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 28">
+            <title lang="en">Florida International vs. Seton Hall</title>
+         </programme>
+   <channel id="ESPN+ 29">
+     <display-name lang="en">ESPN+ 29</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 29">
+            <title lang="en">Bowling Green vs. Cleveland State</title>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 30">
+            <title lang="en">Gardner-Webb vs. Wofford</title>
+         </programme>
+   <channel id="ESPN+ 31">
+     <display-name lang="en">ESPN+ 31</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 31">
+            <title lang="en">#4 Vermont vs. Harvard</title>
+         </programme>
+   <channel id="ESPN+ 32">
+     <display-name lang="en">ESPN+ 32</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 32">
+            <title lang="en">Oklahoma vs. East Texas A&amp;M</title>
+         </programme>
+   <channel id="ESPN+ 33">
+     <display-name lang="en">ESPN+ 33</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 33">
+            <title lang="en">SIU Edwardsville vs. Lindenwood</title>
+         </programme>
+   <channel id="ESPN+ 34">
+     <display-name lang="en">ESPN+ 34</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 34">
+            <title lang="en">Holy Cross vs. Marist</title>
+         </programme>
+   <channel id="ESPN+ 35">
+     <display-name lang="en">ESPN+ 35</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 35">
+            <title lang="en">Western Michigan vs. Northern Illinois</title>
+         </programme>
+   <channel id="ESPN+ 36">
+     <display-name lang="en">ESPN+ 36</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 36">
+            <title lang="en">Tennessee State vs. Middle Tennessee</title>
+         </programme>
+   <channel id="ESPN+ 37">
+     <display-name lang="en">ESPN+ 37</display-name>
+   </channel>
+         <programme start="20251007190000 -0500" stop="20251007210000 -0500" channel="ESPN+ 37">
+            <title lang="en">Valparaiso vs. UIC</title>
+         </programme>
+   <channel id="ESPN+ 38">
+     <display-name lang="en">ESPN+ 38</display-name>
+   </channel>
+         <programme start="20251007200000 -0500" stop="20251007220000 -0500" channel="ESPN+ 38">
+            <title lang="en">En Español - Dana White&#x27;s Contender Series, Week 9</title>
+         </programme>
+   <channel id="ESPN+ 39">
+     <display-name lang="en">ESPN+ 39</display-name>
+   </channel>
+         <programme start="20251007200000 -0500" stop="20251007220000 -0500" channel="ESPN+ 39">
+            <title lang="en">Dana White&#x27;s Contender Series, Week 9</title>
+         </programme>
+   <channel id="ESPN+ 40">
+     <display-name lang="en">ESPN+ 40</display-name>
+   </channel>
+         <programme start="20251007200000 -0500" stop="20251007220000 -0500" channel="ESPN+ 40">
+            <title lang="en">Jacksonville vs. UAB</title>
+         </programme>
+   <channel id="ESPN+ 41">
+     <display-name lang="en">ESPN+ 41</display-name>
+   </channel>
+         <programme start="20251007200000 -0500" stop="20251007220000 -0500" channel="ESPN+ 41">
+            <title lang="en">UIC vs. Marquette</title>
+         </programme>
+   <channel id="ESPN+ 42">
+     <display-name lang="en">ESPN+ 42</display-name>
+   </channel>
+         <programme start="20251007200000 -0500" stop="20251007220000 -0500" channel="ESPN+ 42">
+            <title lang="en">North Carolina vs. Lipscomb</title>
+         </programme>
+   <channel id="ESPN+ 43">
+     <display-name lang="en">ESPN+ 43</display-name>
+   </channel>
+         <programme start="20251007200000 -0500" stop="20251007220000 -0500" channel="ESPN+ 43">
+            <title lang="en">Cornell vs. Lafayette</title>
+         </programme>
+   <channel id="ESPN+ 44">
+     <display-name lang="en">ESPN+ 44</display-name>
+   </channel>
+         <programme start="20251007203000 -0500" stop="20251007223000 -0500" channel="ESPN+ 44">
+            <title lang="en">Sitake Show</title>
+         </programme>
+   <channel id="ESPN+ 45">
+     <display-name lang="en">ESPN+ 45</display-name>
+   </channel>
+         <programme start="20251007203000 -0500" stop="20251007223000 -0500" channel="ESPN+ 45">
+            <title lang="en">Tue, 10/7  - Futbol W</title>
+         </programme>
+   <channel id="ESPN+ 46">
+     <display-name lang="en">ESPN+ 46</display-name>
+   </channel>
+         <programme start="20251007210000 -0500" stop="20251007230000 -0500" channel="ESPN+ 46">
+            <title lang="en">UC Santa Barbara vs. Cal Poly</title>
          </programme>
 </tv>
