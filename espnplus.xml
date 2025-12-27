@@ -3,67 +3,289 @@
    <channel id="ESPN+ 1">
      <display-name lang="en">ESPN+ 1</display-name>
    </channel>
-         <programme start="20251226002000 -0500" stop="20251226022000 -0500" channel="ESPN+ 1">
-            <title lang="en">Northern Brave Women vs. Auckland Hearts</title>
+         <programme start="20251227004500 -0500" stop="20251227024500 -0500" channel="ESPN+ 1">
+            <title lang="en">Adelaide United vs. Western Sydney Wanderers FC</title>
          </programme>
    <channel id="ESPN+ 2">
      <display-name lang="en">ESPN+ 2</display-name>
    </channel>
-         <programme start="20251226033000 -0500" stop="20251226053000 -0500" channel="ESPN+ 2">
-            <title lang="en">Newcastle Jets vs. Macarthur FC</title>
+         <programme start="20251227005500 -0500" stop="20251227025500 -0500" channel="ESPN+ 2">
+            <title lang="en">Central Coast Mariners FC vs. Melbourne Victory</title>
          </programme>
    <channel id="ESPN+ 3">
      <display-name lang="en">ESPN+ 3</display-name>
    </channel>
-         <programme start="20251226100000 -0500" stop="20251226120000 -0500" channel="ESPN+ 3">
-            <title lang="en">Clinton &amp; Friends</title>
+         <programme start="20251227015500 -0500" stop="20251227035500 -0500" channel="ESPN+ 3">
+            <title lang="en">Newcastle Jets vs. Canberra United</title>
          </programme>
    <channel id="ESPN+ 4">
      <display-name lang="en">ESPN+ 4</display-name>
    </channel>
-         <programme start="20251226120000 -0500" stop="20251226140000 -0500" channel="ESPN+ 4">
-            <title lang="en">The Pat McAfee Show</title>
+         <programme start="20251227033000 -0500" stop="20251227053000 -0500" channel="ESPN+ 4">
+            <title lang="en">Adelaide United vs. Western Sydney Wanderers FC</title>
          </programme>
    <channel id="ESPN+ 5">
      <display-name lang="en">ESPN+ 5</display-name>
    </channel>
-         <programme start="20251226153000 -0500" stop="20251226173000 -0500" channel="ESPN+ 5">
-            <title lang="en">Denmark vs. Finland</title>
+         <programme start="20251227043000 -0500" stop="20251227063000 -0500" channel="ESPN+ 5">
+            <title lang="en">LALIGA FC Futures U-12 (Group Stage)</title>
          </programme>
    <channel id="ESPN+ 6">
      <display-name lang="en">ESPN+ 6</display-name>
    </channel>
-         <programme start="20251226163000 -0500" stop="20251226183000 -0500" channel="ESPN+ 6">
-            <title lang="en">GameAbove Sports Bowl Trophy Presentation</title>
+         <programme start="20251227110000 -0500" stop="20251227130000 -0500" channel="ESPN+ 6">
+            <title lang="en">LALIGA FC Futures U-12 (Group Stage)</title>
          </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
-         <programme start="20251226170000 -0500" stop="20251226190000 -0500" channel="ESPN+ 7">
-            <title lang="en">Fri, 12/26 - ESPN FC</title>
+         <programme start="20251227133000 -0500" stop="20251227153000 -0500" channel="ESPN+ 7">
+            <title lang="en">BYU Gameday</title>
          </programme>
    <channel id="ESPN+ 8">
      <display-name lang="en">ESPN+ 8</display-name>
    </channel>
-         <programme start="20251226184000 -0500" stop="20251226204000 -0500" channel="ESPN+ 8">
-            <title lang="en">Central Hinds vs. Wellington Blaze</title>
+         <programme start="20251227140000 -0500" stop="20251227160000 -0500" channel="ESPN+ 8">
+            <title lang="en">Cleary vs. Duquesne</title>
          </programme>
    <channel id="ESPN+ 9">
      <display-name lang="en">ESPN+ 9</display-name>
    </channel>
-         <programme start="20251226200000 -0500" stop="20251226220000 -0500" channel="ESPN+ 9">
-            <title lang="en">Rate Bowl Trophy Presentation</title>
+         <programme start="20251227141500 -0500" stop="20251227161500 -0500" channel="ESPN+ 9">
+            <title lang="en">Go Bowling Military Bowl Trophy Presentation</title>
          </programme>
    <channel id="ESPN+ 10">
      <display-name lang="en">ESPN+ 10</display-name>
    </channel>
-         <programme start="20251226222500 -0500" stop="20251226242500 -0500" channel="ESPN+ 10">
-            <title lang="en">Central Stags vs. Wellington Firebirds</title>
+         <programme start="20251227153000 -0500" stop="20251227173000 -0500" channel="ESPN+ 10">
+            <title lang="en">Bad Boy Mowers Pinstripe Bowl Trophy Presentation </title>
          </programme>
    <channel id="ESPN+ 11">
      <display-name lang="en">ESPN+ 11</display-name>
    </channel>
-         <programme start="20251226233000 -0500" stop="20251226253000 -0500" channel="ESPN+ 11">
-            <title lang="en">SERVPRO First Responder Bowl Trophy Presentation </title>
+         <programme start="20251227163000 -0500" stop="20251227183000 -0500" channel="ESPN+ 11">
+            <title lang="en">Latvia vs. Canada</title>
+         </programme>
+   <channel id="ESPN+ 12">
+     <display-name lang="en">ESPN+ 12</display-name>
+   </channel>
+         <programme start="20251227170000 -0500" stop="20251227190000 -0500" channel="ESPN+ 12">
+            <title lang="en">Arizona State vs. #8 Dartmouth</title>
+         </programme>
+   <channel id="ESPN+ 13">
+     <display-name lang="en">ESPN+ 13</display-name>
+   </channel>
+         <programme start="20251227170000 -0500" stop="20251227190000 -0500" channel="ESPN+ 13">
+            <title lang="en">Sat, 12/27 - ESPN FC</title>
+         </programme>
+   <channel id="ESPN+ 14">
+     <display-name lang="en">ESPN+ 14</display-name>
+   </channel>
+         <programme start="20251227174500 -0500" stop="20251227194500 -0500" channel="ESPN+ 14">
+            <title lang="en">Wasabi Fenway Bowl Trophy Presentation </title>
+         </programme>
+   <channel id="ESPN+ 15">
+     <display-name lang="en">ESPN+ 15</display-name>
+   </channel>
+         <programme start="20251227180000 -0500" stop="20251227200000 -0500" channel="ESPN+ 15">
+            <title lang="en">New York Rangers vs. New York Islanders (Rangers Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 16">
+     <display-name lang="en">ESPN+ 16</display-name>
+   </channel>
+         <programme start="20251227180000 -0500" stop="20251227200000 -0500" channel="ESPN+ 16">
+            <title lang="en">New York Rangers vs. New York Islanders (Islanders Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 17">
+     <display-name lang="en">ESPN+ 17</display-name>
+   </channel>
+         <programme start="20251227180000 -0500" stop="20251227200000 -0500" channel="ESPN+ 17">
+            <title lang="en">Saskatchewan Rush vs. Halifax Thunderbirds</title>
+         </programme>
+   <channel id="ESPN+ 18">
+     <display-name lang="en">ESPN+ 18</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 18">
+            <title lang="en">Minnesota Wild vs. Winnipeg Jets (Wild Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 19">
+     <display-name lang="en">ESPN+ 19</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 19">
+            <title lang="en">Minnesota Wild vs. Winnipeg Jets (National Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 20">
+     <display-name lang="en">ESPN+ 20</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 20">
+            <title lang="en">Detroit Red Wings vs. Carolina Hurricanes (Red Wings Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 21">
+     <display-name lang="en">ESPN+ 21</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 21">
+            <title lang="en">Detroit Red Wings vs. Carolina Hurricanes (Hurricanes Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 22">
+     <display-name lang="en">ESPN+ 22</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 22">
+            <title lang="en">Ottawa Senators vs. Toronto Maple Leafs (National Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 23">
+     <display-name lang="en">ESPN+ 23</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 23">
+            <title lang="en">Washington Capitals vs. New Jersey Devils (Capitals Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 24">
+     <display-name lang="en">ESPN+ 24</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 24">
+            <title lang="en">Washington Capitals vs. New Jersey Devils (Devils Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 25">
+     <display-name lang="en">ESPN+ 25</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 25">
+            <title lang="en">Tampa Bay Lightning vs. Florida Panthers (Panthers Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 26">
+     <display-name lang="en">ESPN+ 26</display-name>
+   </channel>
+         <programme start="20251227183000 -0500" stop="20251227203000 -0500" channel="ESPN+ 26">
+            <title lang="en">Tampa Bay Lightning vs. Florida Panthers (Lightning Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 27">
+     <display-name lang="en">ESPN+ 27</display-name>
+   </channel>
+         <programme start="20251227184000 -0500" stop="20251227204000 -0500" channel="ESPN+ 27">
+            <title lang="en">Otago Sparks vs. Canterbury Magicians</title>
+         </programme>
+   <channel id="ESPN+ 28">
+     <display-name lang="en">ESPN+ 28</display-name>
+   </channel>
+         <programme start="20251227190000 -0500" stop="20251227210000 -0500" channel="ESPN+ 28">
+            <title lang="en">BYU Postgame</title>
+         </programme>
+   <channel id="ESPN+ 29">
+     <display-name lang="en">ESPN+ 29</display-name>
+   </channel>
+         <programme start="20251227190000 -0500" stop="20251227210000 -0500" channel="ESPN+ 29">
+            <title lang="en">Pop-Tarts Bowl Trophy Presentation</title>
+         </programme>
+   <channel id="ESPN+ 30">
+     <display-name lang="en">ESPN+ 30</display-name>
+   </channel>
+         <programme start="20251227190000 -0500" stop="20251227210000 -0500" channel="ESPN+ 30">
+            <title lang="en">Boston Bruins vs. Buffalo Sabres (Sabres Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 31">
+     <display-name lang="en">ESPN+ 31</display-name>
+   </channel>
+         <programme start="20251227190000 -0500" stop="20251227210000 -0500" channel="ESPN+ 31">
+            <title lang="en">Boston Bruins vs. Buffalo Sabres (Bruins Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 32">
+     <display-name lang="en">ESPN+ 32</display-name>
+   </channel>
+         <programme start="20251227190000 -0500" stop="20251227210000 -0500" channel="ESPN+ 32">
+            <title lang="en">Las Vegas Desert Dogs vs. Toronto Rock</title>
+         </programme>
+   <channel id="ESPN+ 33">
+     <display-name lang="en">ESPN+ 33</display-name>
+   </channel>
+         <programme start="20251227190000 -0500" stop="20251227210000 -0500" channel="ESPN+ 33">
+            <title lang="en">Philadelphia Wings vs. Ottawa Black Bears</title>
+         </programme>
+   <channel id="ESPN+ 34">
+     <display-name lang="en">ESPN+ 34</display-name>
+   </channel>
+         <programme start="20251227193000 -0500" stop="20251227213000 -0500" channel="ESPN+ 34">
+            <title lang="en">Chicago Blackhawks vs. Dallas Stars (Stars Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 35">
+     <display-name lang="en">ESPN+ 35</display-name>
+   </channel>
+         <programme start="20251227193000 -0500" stop="20251227213000 -0500" channel="ESPN+ 35">
+            <title lang="en">Chicago Blackhawks vs. Dallas Stars (Blackhawks Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 36">
+     <display-name lang="en">ESPN+ 36</display-name>
+   </channel>
+         <programme start="20251227193000 -0500" stop="20251227213000 -0500" channel="ESPN+ 36">
+            <title lang="en">Nashville Predators vs. St. Louis Blues (Predators Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 37">
+     <display-name lang="en">ESPN+ 37</display-name>
+   </channel>
+         <programme start="20251227193000 -0500" stop="20251227213000 -0500" channel="ESPN+ 37">
+            <title lang="en">Nashville Predators vs. St. Louis Blues (Blues Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 38">
+     <display-name lang="en">ESPN+ 38</display-name>
+   </channel>
+         <programme start="20251227203000 -0500" stop="20251227223000 -0500" channel="ESPN+ 38">
+            <title lang="en">Anaheim Ducks vs. Los Angeles Kings (Kings Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 39">
+     <display-name lang="en">ESPN+ 39</display-name>
+   </channel>
+         <programme start="20251227203000 -0500" stop="20251227223000 -0500" channel="ESPN+ 39">
+            <title lang="en">Anaheim Ducks vs. Los Angeles Kings (Ducks Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 40">
+     <display-name lang="en">ESPN+ 40</display-name>
+   </channel>
+         <programme start="20251227210000 -0500" stop="20251227230000 -0500" channel="ESPN+ 40">
+            <title lang="en">Georgia Swarm vs. Colorado Mammoth</title>
+         </programme>
+   <channel id="ESPN+ 41">
+     <display-name lang="en">ESPN+ 41</display-name>
+   </channel>
+         <programme start="20251227211500 -0500" stop="20251227231500 -0500" channel="ESPN+ 41">
+            <title lang="en">Isleta New Mexico Bowl Trophy Presentation </title>
+         </programme>
+   <channel id="ESPN+ 42">
+     <display-name lang="en">ESPN+ 42</display-name>
+   </channel>
+         <programme start="20251227213000 -0500" stop="20251227233000 -0500" channel="ESPN+ 42">
+            <title lang="en">Colorado Avalanche vs. Vegas Golden Knights (Avalanche Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 43">
+     <display-name lang="en">ESPN+ 43</display-name>
+   </channel>
+         <programme start="20251227213000 -0500" stop="20251227233000 -0500" channel="ESPN+ 43">
+            <title lang="en">Colorado Avalanche vs. Vegas Golden Knights (Golden Knights Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 44">
+     <display-name lang="en">ESPN+ 44</display-name>
+   </channel>
+         <programme start="20251227213000 -0500" stop="20251227233000 -0500" channel="ESPN+ 44">
+            <title lang="en">San Jose Sharks vs. Vancouver Canucks (National Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 45">
+     <display-name lang="en">ESPN+ 45</display-name>
+   </channel>
+         <programme start="20251227213000 -0500" stop="20251227233000 -0500" channel="ESPN+ 45">
+            <title lang="en">San Jose Sharks vs. Vancouver Canucks (Sharks Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 46">
+     <display-name lang="en">ESPN+ 46</display-name>
+   </channel>
+         <programme start="20251227220000 -0500" stop="20251227240000 -0500" channel="ESPN+ 46">
+            <title lang="en">Edmonton Oilers vs. Calgary Flames (National Broadcast)</title>
+         </programme>
+   <channel id="ESPN+ 47">
+     <display-name lang="en">ESPN+ 47</display-name>
+   </channel>
+         <programme start="20251227222500 -0500" stop="20251227242500 -0500" channel="ESPN+ 47">
+            <title lang="en">Otago Volts vs. Canterbury Kings</title>
+         </programme>
+   <channel id="ESPN+ 48">
+     <display-name lang="en">ESPN+ 48</display-name>
+   </channel>
+         <programme start="20251227230000 -0500" stop="20251227250000 -0500" channel="ESPN+ 48">
+            <title lang="en">TaxSlayer Gator Bowl Trophy Presentation</title>
          </programme>
 </tv>
