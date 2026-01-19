@@ -30,12 +30,6 @@
          <programme start="20260119104500 -0500" stop="20260119124500 -0500" channel="ESPN+ 5">
             <title lang="en">2026 Disney Girls Soccer Showcase: U17 Premier (Final)</title>
          </programme>
-   <channel id="ESPN+ 6">
-     <display-name lang="en">ESPN+ 6</display-name>
-   </channel>
-         <programme start="20260119104500 -0500" stop="20260119124500 -0500" channel="ESPN+ 6">
-            <title lang="en">2026 Disney Girls Soccer Showcase: U17 Championship (Final)</title>
-         </programme>
    <channel id="ESPN+ 7">
      <display-name lang="en">ESPN+ 7</display-name>
    </channel>
