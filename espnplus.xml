@@ -546,16 +546,4 @@
          <programme start="20260119220000 -0500" stop="20260119240000 -0500" channel="ESPN+ 91">
             <title lang="en">New York Islanders vs. Vancouver Canucks (Islanders Broadcast)</title>
          </programme>
-   <channel id="ESPN+ 92">
-     <display-name lang="en">ESPN+ 92</display-name>
-   </channel>
-         <programme start="20260119231500 -0500" stop="20260119251500 -0500" channel="ESPN+ 92">
-            <title lang="en">College Football Playoff National Championship Presented by AT&amp;T Trophy Presentation</title>
-         </programme>
-   <channel id="ESPN+ 93">
-     <display-name lang="en">ESPN+ 93</display-name>
-   </channel>
-         <programme start="20260119235500 -0500" stop="20260119255500 -0500" channel="ESPN+ 93">
-            <title lang="en">Northern Brave Men vs. Central Stags</title>
-         </programme>
 </tv>
